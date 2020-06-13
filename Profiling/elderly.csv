@@ -1,0 +1,3171 @@
+year,gender,age,constituency_area,area,value,elderly
+2015,None,65 - 69,Ang Mo Kio,Ang Mo Kio Town Centre,270,Y
+2015,None,65 - 69,Ang Mo Kio,Cheng San,1920,Y
+2015,None,65 - 69,Ang Mo Kio,Chong Boon,1950,Y
+2015,None,65 - 69,Ang Mo Kio,Kebun Bahru,1610,Y
+2015,None,65 - 69,Ang Mo Kio,Sembawang Hills,400,Y
+2015,None,65 - 69,Ang Mo Kio,Shangri-La,1110,Y
+2015,None,65 - 69,Ang Mo Kio,Tagore,400,Y
+2015,None,65 - 69,Ang Mo Kio,Townsville,1590,Y
+2015,None,65 - 69,Ang Mo Kio,Yio Chu Kang East,230,Y
+2015,None,65 - 69,Ang Mo Kio,Yio Chu Kang West,1580,Y
+2015,None,65 - 69,Bedok,Bayshore,290,Y
+2015,None,65 - 69,Bedok,Bedok North,5350,Y
+2015,None,65 - 69,Bedok,Bedok Reservoir,1200,Y
+2015,None,65 - 69,Bedok,Bedok South,3090,Y
+2015,None,65 - 69,Bedok,Frankel,1750,Y
+2015,None,65 - 69,Bedok,Kaki Bukit,2230,Y
+2015,None,65 - 69,Bedok,Kembangan,2310,Y
+2015,None,65 - 69,Bedok,Siglap,520,Y
+2015,None,65 - 69,Bishan,Bishan East,1680,Y
+2015,None,65 - 69,Bishan,Marymount,1380,Y
+2015,None,65 - 69,Bishan,Upper Thomson,1800,Y
+2015,None,65 - 69,Bukit Batok,Bukit Batok Central,1210,Y
+2015,None,65 - 69,Bukit Batok,Bukit Batok East,720,Y
+2015,None,65 - 69,Bukit Batok,Bukit Batok South,460,Y
+2015,None,65 - 69,Bukit Batok,Bukit Batok West,710,Y
+2015,None,65 - 69,Bukit Batok,Gombak,460,Y
+2015,None,65 - 69,Bukit Batok,Guilin,510,Y
+2015,None,65 - 69,Bukit Batok,Hillview,720,Y
+2015,None,65 - 69,Bukit Batok,Hong Kah North,1210,Y
+2015,None,65 - 69,Bukit Merah,Alexandra Hill,1080,Y
+2015,None,65 - 69,Bukit Merah,Alexandra North,30,Y
+2015,None,65 - 69,Bukit Merah,Bukit Ho Swee,1070,Y
+2015,None,65 - 69,Bukit Merah,Bukit Merah,100,Y
+2015,None,65 - 69,Bukit Merah,Depot Road,290,Y
+2015,None,65 - 69,Bukit Merah,Everton Park,600,Y
+2015,None,65 - 69,Bukit Merah,Henderson Hill,850,Y
+2015,None,65 - 69,Bukit Merah,Kampong Tiong Bahru,770,Y
+2015,None,65 - 69,Bukit Merah,Maritime Square,80,Y
+2015,None,65 - 69,Bukit Merah,Redhill,580,Y
+2015,None,65 - 69,Bukit Merah,Telok Blangah Drive,1130,Y
+2015,None,65 - 69,Bukit Merah,Telok Blangah Rise,1090,Y
+2015,None,65 - 69,Bukit Merah,Telok Blangah Way,710,Y
+2015,None,65 - 69,Bukit Merah,Tiong Bahru,760,Y
+2015,None,65 - 69,Bukit Merah,Tiong Bahru Station,890,Y
+2015,None,65 - 69,Bukit Panjang,Bangkit,1070,Y
+2015,None,65 - 69,Bukit Panjang,Dairy Farm,220,Y
+2015,None,65 - 69,Bukit Panjang,Fajar,920,Y
+2015,None,65 - 69,Bukit Panjang,Jelebu,1370,Y
+2015,None,65 - 69,Bukit Panjang,Nature Reserve,160,Y
+2015,None,65 - 69,Bukit Panjang,Saujana,780,Y
+2015,None,65 - 69,Bukit Panjang,Senja,670,Y
+2015,None,65 - 69,Bukit Timah,Anak Bukit,1140,Y
+2015,None,65 - 69,Bukit Timah,Coronation Road,320,Y
+2015,None,65 - 69,Bukit Timah,Farrer Court,270,Y
+2015,None,65 - 69,Bukit Timah,Hillcrest,430,Y
+2015,None,65 - 69,Bukit Timah,Holland Road,440,Y
+2015,None,65 - 69,Bukit Timah,Leedon Park,380,Y
+2015,None,65 - 69,Bukit Timah,Swiss Club,250,Y
+2015,None,65 - 69,Bukit Timah,Ulu Pandan,710,Y
+2015,None,65 - 69,Changi,Changi Point,60,Y
+2015,None,65 - 69,Changi,Changi West,30,Y
+2015,None,65 - 69,Choa Chu Kang,Choa Chu Kang Central,710,Y
+2015,None,65 - 69,Choa Chu Kang,Choa Chu Kang North,930,Y
+2015,None,65 - 69,Choa Chu Kang,Keat Hong,500,Y
+2015,None,65 - 69,Choa Chu Kang,Peng Siang,1160,Y
+2015,None,65 - 69,Choa Chu Kang,Teck Whye,1190,Y
+2015,None,65 - 69,Choa Chu Kang,Yew Tee,1170,Y
+2015,None,65 - 69,Clementi,Clementi Central,880,Y
+2015,None,65 - 69,Clementi,Clementi North,2240,Y
+2015,None,65 - 69,Clementi,Clementi West,1060,Y
+2015,None,65 - 69,Clementi,Clementi Woods,1090,Y
+2015,None,65 - 69,Clementi,Faber,190,Y
+2015,None,65 - 69,Clementi,Sunset Way,440,Y
+2015,None,65 - 69,Clementi,West Coast,290,Y
+2015,None,65 - 69,Downtown Core,Bugis,210,Y
+2015,None,65 - 69,Downtown Core,Central Subzone,10,Y
+2015,None,65 - 69,Downtown Core,Tanjong Pagar,20,Y
+2015,None,65 - 69,Geylang,Aljunied,2310,Y
+2015,None,65 - 69,Geylang,Geylang East,2050,Y
+2015,None,65 - 69,Geylang,Kampong Ubi,600,Y
+2015,None,65 - 69,Geylang,Macpherson,1510,Y
+2015,None,65 - 69,Hougang,Hougang Central,220,Y
+2015,None,65 - 69,Hougang,Hougang East,950,Y
+2015,None,65 - 69,Hougang,Hougang West,2530,Y
+2015,None,65 - 69,Hougang,Kangkar,1280,Y
+2015,None,65 - 69,Hougang,Kovan,1270,Y
+2015,None,65 - 69,Hougang,Lorong Ah Soo,2000,Y
+2015,None,65 - 69,Hougang,Tai Seng,720,Y
+2015,None,65 - 69,Hougang,Trafalgar,1860,Y
+2015,None,65 - 69,Jurong East,Lakeside,70,Y
+2015,None,65 - 69,Jurong East,Teban Gardens,1260,Y
+2015,None,65 - 69,Jurong East,Toh Guan,680,Y
+2015,None,65 - 69,Jurong East,Yuhua East,1660,Y
+2015,None,65 - 69,Jurong East,Yuhua West,1090,Y
+2015,None,65 - 69,Jurong West,Boon Lay Place,1280,Y
+2015,None,65 - 69,Jurong West,Hong Kah,3080,Y
+2015,None,65 - 69,Jurong West,Jurong West Central,2150,Y
+2015,None,65 - 69,Jurong West,Taman Jurong,1440,Y
+2015,None,65 - 69,Jurong West,Wenya,240,Y
+2015,None,65 - 69,Jurong West,Yunnan,2630,Y
+2015,None,65 - 69,Kallang,Bendemeer,1960,Y
+2015,None,65 - 69,Kallang,Boon Keng,650,Y
+2015,None,65 - 69,Kallang,Crawford,820,Y
+2015,None,65 - 69,Kallang,Geylang Bahru,750,Y
+2015,None,65 - 69,Kallang,Kampong Bugis,60,Y
+2015,None,65 - 69,Kallang,Kampong Java,750,Y
+2015,None,65 - 69,Kallang,Lavender,640,Y
+2015,None,65 - 69,Kallang,Tanjong Rhu,460,Y
+2015,None,65 - 69,Mandai,Mandai Estate,80,Y
+2015,None,65 - 69,Marine Parade,Katong,470,Y
+2015,None,65 - 69,Marine Parade,Marine Parade,1720,Y
+2015,None,65 - 69,Marine Parade,Mountbatten,570,Y
+2015,None,65 - 69,Museum,Dhoby Ghaut,10,Y
+2015,None,65 - 69,Museum,Fort Canning,10,Y
+2015,None,65 - 69,Newton,Cairnhill,170,Y
+2015,None,65 - 69,Newton,Goodwood Park,30,Y
+2015,None,65 - 69,Newton,Monk's Hill,50,Y
+2015,None,65 - 69,Newton,Newton Circus,10,Y
+2015,None,65 - 69,Newton,Orange Grove,110,Y
+2015,None,65 - 69,Novena,Balestier,1770,Y
+2015,None,65 - 69,Novena,Dunearn,210,Y
+2015,None,65 - 69,Novena,Malcolm,150,Y
+2015,None,65 - 69,Novena,Moulmein,290,Y
+2015,None,65 - 69,Novena,Mount Pleasant,40,Y
+2015,None,65 - 69,Orchard,Boulevard,30,Y
+2015,None,65 - 69,Orchard,Somerset,10,Y
+2015,None,65 - 69,Orchard,Tanglin,30,Y
+2015,None,65 - 69,Outram,China Square,150,Y
+2015,None,65 - 69,Outram,Chinatown,630,Y
+2015,None,65 - 69,Outram,Pearl's Hill,660,Y
+2015,None,65 - 69,Outram,People's Park,30,Y
+2015,None,65 - 69,Pasir Ris,Flora Drive,440,Y
+2015,None,65 - 69,Pasir Ris,Loyang East,100,Y
+2015,None,65 - 69,Pasir Ris,Loyang West,10,Y
+2015,None,65 - 69,Pasir Ris,Pasir Ris Central,790,Y
+2015,None,65 - 69,Pasir Ris,Pasir Ris Drive,2110,Y
+2015,None,65 - 69,Pasir Ris,Pasir Ris Park,50,Y
+2015,None,65 - 69,Pasir Ris,Pasir Ris West,970,Y
+2015,None,65 - 69,Punggol,Matilda,790,Y
+2015,None,65 - 69,Punggol,Northshore,10,Y
+2015,None,65 - 69,Punggol,Punggol Field,1390,Y
+2015,None,65 - 69,Punggol,Punggol Town Centre,140,Y
+2015,None,65 - 69,Punggol,Waterway East,700,Y
+2015,None,65 - 69,Queenstown,Commonwealth,490,Y
+2015,None,65 - 69,Queenstown,Dover,710,Y
+2015,None,65 - 69,Queenstown,Ghim Moh,840,Y
+2015,None,65 - 69,Queenstown,Holland Drive,1040,Y
+2015,None,65 - 69,Queenstown,Kent Ridge,60,Y
+2015,None,65 - 69,Queenstown,Margaret Drive,580,Y
+2015,None,65 - 69,Queenstown,Mei Chin,870,Y
+2015,None,65 - 69,Queenstown,One North,20,Y
+2015,None,65 - 69,Queenstown,Pasir Panjang 1,200,Y
+2015,None,65 - 69,Queenstown,Pasir Panjang 2,200,Y
+2015,None,65 - 69,Queenstown,Port,10,Y
+2015,None,65 - 69,Queenstown,Queensway,20,Y
+2015,None,65 - 69,Queenstown,Tanglin Halt,860,Y
+2015,None,65 - 69,River Valley,Institution Hill,150,Y
+2015,None,65 - 69,River Valley,Leonie Hill,110,Y
+2015,None,65 - 69,River Valley,One Tree Hill,100,Y
+2015,None,65 - 69,River Valley,Oxley,100,Y
+2015,None,65 - 69,Rochor,Bencoolen,90,Y
+2015,None,65 - 69,Rochor,Farrer Park,160,Y
+2015,None,65 - 69,Rochor,Kampong Glam,10,Y
+2015,None,65 - 69,Rochor,Little India,260,Y
+2015,None,65 - 69,Rochor,Mount Emily,40,Y
+2015,None,65 - 69,Rochor,Selegie,10,Y
+2015,None,65 - 69,Rochor,Sungei Road,180,Y
+2015,None,65 - 69,Rochor,Victoria,170,Y
+2015,None,65 - 69,Seletar,Seletar,10,Y
+2015,None,65 - 69,Sembawang,Admiralty,420,Y
+2015,None,65 - 69,Sembawang,Sembawang Central,770,Y
+2015,None,65 - 69,Sembawang,Sembawang North,740,Y
+2015,None,65 - 69,Sembawang,Sembawang Springs,190,Y
+2015,None,65 - 69,Sembawang,Sembawang Straits,80,Y
+2015,None,65 - 69,Sengkang,Anchorvale,1100,Y
+2015,None,65 - 69,Sengkang,Compassvale,490,Y
+2015,None,65 - 69,Sengkang,Fernvale,1010,Y
+2015,None,65 - 69,Sengkang,Rivervale,2160,Y
+2015,None,65 - 69,Sengkang,Sengkang Town Centre,1670,Y
+2015,None,65 - 69,Serangoon,Lorong Chuan,370,Y
+2015,None,65 - 69,Serangoon,Seletar Hills,780,Y
+2015,None,65 - 69,Serangoon,Serangoon Central,1590,Y
+2015,None,65 - 69,Serangoon,Serangoon Garden,2490,Y
+2015,None,65 - 69,Serangoon,Serangoon North,680,Y
+2015,None,65 - 69,Serangoon,Upper Paya Lebar,930,Y
+2015,None,65 - 69,Singapore River,Boat Quay,10,Y
+2015,None,65 - 69,Singapore River,Robertson Quay,70,Y
+2015,None,65 - 69,Southern Islands,Sentosa,40,Y
+2015,None,65 - 69,Sungei Kadut,Gali Batu,10,Y
+2015,None,65 - 69,Sungei Kadut,Turf Club,50,Y
+2015,None,65 - 69,Tampines,Simei,1860,Y
+2015,None,65 - 69,Tampines,Tampines East,6220,Y
+2015,None,65 - 69,Tampines,Tampines West,3320,Y
+2015,None,65 - 69,Tampines,Xilin,60,Y
+2015,None,65 - 69,Tanglin,Chatsworth,250,Y
+2015,None,65 - 69,Tanglin,Nassim,430,Y
+2015,None,65 - 69,Tanglin,Ridout,90,Y
+2015,None,65 - 69,Tanglin,Tyersall,160,Y
+2015,None,65 - 69,Toa Payoh,Boon Teck,940,Y
+2015,None,65 - 69,Toa Payoh,Braddell,610,Y
+2015,None,65 - 69,Toa Payoh,Joo Seng,410,Y
+2015,None,65 - 69,Toa Payoh,Kim Keat,540,Y
+2015,None,65 - 69,Toa Payoh,Lorong 8 Toa Payoh,530,Y
+2015,None,65 - 69,Toa Payoh,Pei Chun,680,Y
+2015,None,65 - 69,Toa Payoh,Potong Pasir,900,Y
+2015,None,65 - 69,Toa Payoh,Sennett,310,Y
+2015,None,65 - 69,Toa Payoh,Toa Payoh Central,1520,Y
+2015,None,65 - 69,Toa Payoh,Toa Payoh West,880,Y
+2015,None,65 - 69,Toa Payoh,Woodleigh,90,Y
+2015,None,65 - 69,Western Water Catchment,Western Water Catchment,10,Y
+2015,None,65 - 69,Woodlands,Midview,950,Y
+2015,None,65 - 69,Woodlands,North Coast,800,Y
+2015,None,65 - 69,Woodlands,Woodgrove,1000,Y
+2015,None,65 - 69,Woodlands,Woodlands East,2360,Y
+2015,None,65 - 69,Woodlands,Woodlands South,1070,Y
+2015,None,65 - 69,Woodlands,Woodlands West,1470,Y
+2015,None,65 - 69,Yishun,Khatib,540,Y
+2015,None,65 - 69,Yishun,Lower Seletar,50,Y
+2015,None,65 - 69,Yishun,Nee Soon,50,Y
+2015,None,65 - 69,Yishun,Northland,1270,Y
+2015,None,65 - 69,Yishun,Springleaf,250,Y
+2015,None,65 - 69,Yishun,Yishun Central,70,Y
+2015,None,65 - 69,Yishun,Yishun East,1720,Y
+2015,None,65 - 69,Yishun,Yishun South,1800,Y
+2015,None,65 - 69,Yishun,Yishun West,2590,Y
+2015,None,70 - 74,Ang Mo Kio,Ang Mo Kio Town Centre,160,Y
+2015,None,70 - 74,Ang Mo Kio,Cheng San,1070,Y
+2015,None,70 - 74,Ang Mo Kio,Chong Boon,1290,Y
+2015,None,70 - 74,Ang Mo Kio,Kebun Bahru,1010,Y
+2015,None,70 - 74,Ang Mo Kio,Sembawang Hills,260,Y
+2015,None,70 - 74,Ang Mo Kio,Shangri-La,750,Y
+2015,None,70 - 74,Ang Mo Kio,Tagore,220,Y
+2015,None,70 - 74,Ang Mo Kio,Townsville,1040,Y
+2015,None,70 - 74,Ang Mo Kio,Yio Chu Kang East,120,Y
+2015,None,70 - 74,Ang Mo Kio,Yio Chu Kang West,760,Y
+2015,None,70 - 74,Bedok,Bayshore,130,Y
+2015,None,70 - 74,Bedok,Bedok North,2940,Y
+2015,None,70 - 74,Bedok,Bedok Reservoir,590,Y
+2015,None,70 - 74,Bedok,Bedok South,1930,Y
+2015,None,70 - 74,Bedok,Frankel,960,Y
+2015,None,70 - 74,Bedok,Kaki Bukit,1020,Y
+2015,None,70 - 74,Bedok,Kembangan,1400,Y
+2015,None,70 - 74,Bedok,Siglap,350,Y
+2015,None,70 - 74,Bishan,Bishan East,870,Y
+2015,None,70 - 74,Bishan,Marymount,740,Y
+2015,None,70 - 74,Bishan,Upper Thomson,1120,Y
+2015,None,70 - 74,Bukit Batok,Bukit Batok Central,640,Y
+2015,None,70 - 74,Bukit Batok,Bukit Batok East,320,Y
+2015,None,70 - 74,Bukit Batok,Bukit Batok South,200,Y
+2015,None,70 - 74,Bukit Batok,Bukit Batok West,350,Y
+2015,None,70 - 74,Bukit Batok,Gombak,270,Y
+2015,None,70 - 74,Bukit Batok,Guilin,300,Y
+2015,None,70 - 74,Bukit Batok,Hillview,370,Y
+2015,None,70 - 74,Bukit Batok,Hong Kah North,620,Y
+2015,None,70 - 74,Bukit Merah,Alexandra Hill,630,Y
+2015,None,70 - 74,Bukit Merah,Alexandra North,20,Y
+2015,None,70 - 74,Bukit Merah,Bukit Ho Swee,750,Y
+2015,None,70 - 74,Bukit Merah,Bukit Merah,60,Y
+2015,None,70 - 74,Bukit Merah,Depot Road,180,Y
+2015,None,70 - 74,Bukit Merah,Everton Park,370,Y
+2015,None,70 - 74,Bukit Merah,Henderson Hill,620,Y
+2015,None,70 - 74,Bukit Merah,Kampong Tiong Bahru,500,Y
+2015,None,70 - 74,Bukit Merah,Maritime Square,40,Y
+2015,None,70 - 74,Bukit Merah,Redhill,370,Y
+2015,None,70 - 74,Bukit Merah,Telok Blangah Drive,720,Y
+2015,None,70 - 74,Bukit Merah,Telok Blangah Rise,690,Y
+2015,None,70 - 74,Bukit Merah,Telok Blangah Way,490,Y
+2015,None,70 - 74,Bukit Merah,Tiong Bahru,500,Y
+2015,None,70 - 74,Bukit Merah,Tiong Bahru Station,560,Y
+2015,None,70 - 74,Bukit Panjang,Bangkit,670,Y
+2015,None,70 - 74,Bukit Panjang,Dairy Farm,100,Y
+2015,None,70 - 74,Bukit Panjang,Fajar,520,Y
+2015,None,70 - 74,Bukit Panjang,Jelebu,720,Y
+2015,None,70 - 74,Bukit Panjang,Nature Reserve,80,Y
+2015,None,70 - 74,Bukit Panjang,Saujana,320,Y
+2015,None,70 - 74,Bukit Panjang,Senja,330,Y
+2015,None,70 - 74,Bukit Timah,Anak Bukit,690,Y
+2015,None,70 - 74,Bukit Timah,Coronation Road,240,Y
+2015,None,70 - 74,Bukit Timah,Farrer Court,150,Y
+2015,None,70 - 74,Bukit Timah,Hillcrest,300,Y
+2015,None,70 - 74,Bukit Timah,Holland Road,270,Y
+2015,None,70 - 74,Bukit Timah,Leedon Park,210,Y
+2015,None,70 - 74,Bukit Timah,Swiss Club,170,Y
+2015,None,70 - 74,Bukit Timah,Ulu Pandan,360,Y
+2015,None,70 - 74,Changi,Changi Point,30,Y
+2015,None,70 - 74,Changi,Changi West,20,Y
+2015,None,70 - 74,Choa Chu Kang,Choa Chu Kang Central,400,Y
+2015,None,70 - 74,Choa Chu Kang,Choa Chu Kang North,500,Y
+2015,None,70 - 74,Choa Chu Kang,Keat Hong,240,Y
+2015,None,70 - 74,Choa Chu Kang,Peng Siang,510,Y
+2015,None,70 - 74,Choa Chu Kang,Teck Whye,740,Y
+2015,None,70 - 74,Choa Chu Kang,Yew Tee,620,Y
+2015,None,70 - 74,Clementi,Clementi Central,520,Y
+2015,None,70 - 74,Clementi,Clementi North,1220,Y
+2015,None,70 - 74,Clementi,Clementi West,530,Y
+2015,None,70 - 74,Clementi,Clementi Woods,570,Y
+2015,None,70 - 74,Clementi,Faber,140,Y
+2015,None,70 - 74,Clementi,Sunset Way,230,Y
+2015,None,70 - 74,Clementi,West Coast,140,Y
+2015,None,70 - 74,Downtown Core,Bugis,120,Y
+2015,None,70 - 74,Downtown Core,Central Subzone,10,Y
+2015,None,70 - 74,Downtown Core,Tanjong Pagar,10,Y
+2015,None,70 - 74,Geylang,Aljunied,1380,Y
+2015,None,70 - 74,Geylang,Geylang East,1080,Y
+2015,None,70 - 74,Geylang,Kampong Ubi,320,Y
+2015,None,70 - 74,Geylang,Macpherson,1100,Y
+2015,None,70 - 74,Hougang,Hougang Central,120,Y
+2015,None,70 - 74,Hougang,Hougang East,500,Y
+2015,None,70 - 74,Hougang,Hougang West,1300,Y
+2015,None,70 - 74,Hougang,Kangkar,780,Y
+2015,None,70 - 74,Hougang,Kovan,680,Y
+2015,None,70 - 74,Hougang,Lorong Ah Soo,1200,Y
+2015,None,70 - 74,Hougang,Tai Seng,450,Y
+2015,None,70 - 74,Hougang,Trafalgar,950,Y
+2015,None,70 - 74,Jurong East,Lakeside,60,Y
+2015,None,70 - 74,Jurong East,Teban Gardens,630,Y
+2015,None,70 - 74,Jurong East,Toh Guan,290,Y
+2015,None,70 - 74,Jurong East,Yuhua East,830,Y
+2015,None,70 - 74,Jurong East,Yuhua West,560,Y
+2015,None,70 - 74,Jurong West,Boon Lay Place,760,Y
+2015,None,70 - 74,Jurong West,Hong Kah,1530,Y
+2015,None,70 - 74,Jurong West,Jurong West Central,890,Y
+2015,None,70 - 74,Jurong West,Taman Jurong,760,Y
+2015,None,70 - 74,Jurong West,Wenya,120,Y
+2015,None,70 - 74,Jurong West,Yunnan,1200,Y
+2015,None,70 - 74,Kallang,Bendemeer,1280,Y
+2015,None,70 - 74,Kallang,Boon Keng,400,Y
+2015,None,70 - 74,Kallang,Crawford,560,Y
+2015,None,70 - 74,Kallang,Geylang Bahru,520,Y
+2015,None,70 - 74,Kallang,Kampong Bugis,30,Y
+2015,None,70 - 74,Kallang,Kampong Java,420,Y
+2015,None,70 - 74,Kallang,Lavender,380,Y
+2015,None,70 - 74,Kallang,Tanjong Rhu,320,Y
+2015,None,70 - 74,Mandai,Mandai Estate,50,Y
+2015,None,70 - 74,Marine Parade,Katong,280,Y
+2015,None,70 - 74,Marine Parade,Marine Parade,1230,Y
+2015,None,70 - 74,Marine Parade,Mountbatten,280,Y
+2015,None,70 - 74,Newton,Cairnhill,90,Y
+2015,None,70 - 74,Newton,Goodwood Park,10,Y
+2015,None,70 - 74,Newton,Monk's Hill,30,Y
+2015,None,70 - 74,Newton,Orange Grove,40,Y
+2015,None,70 - 74,Novena,Balestier,1170,Y
+2015,None,70 - 74,Novena,Dunearn,140,Y
+2015,None,70 - 74,Novena,Malcolm,90,Y
+2015,None,70 - 74,Novena,Moulmein,180,Y
+2015,None,70 - 74,Novena,Mount Pleasant,20,Y
+2015,None,70 - 74,Orchard,Boulevard,10,Y
+2015,None,70 - 74,Orchard,Somerset,10,Y
+2015,None,70 - 74,Orchard,Tanglin,10,Y
+2015,None,70 - 74,Outram,China Square,90,Y
+2015,None,70 - 74,Outram,Chinatown,390,Y
+2015,None,70 - 74,Outram,Pearl's Hill,450,Y
+2015,None,70 - 74,Outram,People's Park,10,Y
+2015,None,70 - 74,Pasir Ris,Flora Drive,260,Y
+2015,None,70 - 74,Pasir Ris,Loyang East,60,Y
+2015,None,70 - 74,Pasir Ris,Loyang West,10,Y
+2015,None,70 - 74,Pasir Ris,Pasir Ris Central,400,Y
+2015,None,70 - 74,Pasir Ris,Pasir Ris Drive,1040,Y
+2015,None,70 - 74,Pasir Ris,Pasir Ris Park,40,Y
+2015,None,70 - 74,Pasir Ris,Pasir Ris West,540,Y
+2015,None,70 - 74,Punggol,Matilda,400,Y
+2015,None,70 - 74,Punggol,Northshore,10,Y
+2015,None,70 - 74,Punggol,Punggol Field,700,Y
+2015,None,70 - 74,Punggol,Punggol Town Centre,80,Y
+2015,None,70 - 74,Punggol,Waterway East,380,Y
+2015,None,70 - 74,Queenstown,Commonwealth,370,Y
+2015,None,70 - 74,Queenstown,Dover,430,Y
+2015,None,70 - 74,Queenstown,Ghim Moh,620,Y
+2015,None,70 - 74,Queenstown,Holland Drive,790,Y
+2015,None,70 - 74,Queenstown,Kent Ridge,40,Y
+2015,None,70 - 74,Queenstown,Margaret Drive,330,Y
+2015,None,70 - 74,Queenstown,Mei Chin,580,Y
+2015,None,70 - 74,Queenstown,One North,10,Y
+2015,None,70 - 74,Queenstown,Pasir Panjang 1,100,Y
+2015,None,70 - 74,Queenstown,Pasir Panjang 2,90,Y
+2015,None,70 - 74,Queenstown,Queensway,10,Y
+2015,None,70 - 74,Queenstown,Tanglin Halt,580,Y
+2015,None,70 - 74,River Valley,Institution Hill,70,Y
+2015,None,70 - 74,River Valley,Leonie Hill,60,Y
+2015,None,70 - 74,River Valley,One Tree Hill,70,Y
+2015,None,70 - 74,River Valley,Oxley,60,Y
+2015,None,70 - 74,Rochor,Bencoolen,50,Y
+2015,None,70 - 74,Rochor,Farrer Park,110,Y
+2015,None,70 - 74,Rochor,Kampong Glam,10,Y
+2015,None,70 - 74,Rochor,Little India,190,Y
+2015,None,70 - 74,Rochor,Mount Emily,10,Y
+2015,None,70 - 74,Rochor,Selegie,10,Y
+2015,None,70 - 74,Rochor,Sungei Road,130,Y
+2015,None,70 - 74,Rochor,Victoria,110,Y
+2015,None,70 - 74,Sembawang,Admiralty,280,Y
+2015,None,70 - 74,Sembawang,Sembawang Central,450,Y
+2015,None,70 - 74,Sembawang,Sembawang North,380,Y
+2015,None,70 - 74,Sembawang,Sembawang Springs,120,Y
+2015,None,70 - 74,Sembawang,Sembawang Straits,40,Y
+2015,None,70 - 74,Sengkang,Anchorvale,600,Y
+2015,None,70 - 74,Sengkang,Compassvale,290,Y
+2015,None,70 - 74,Sengkang,Fernvale,550,Y
+2015,None,70 - 74,Sengkang,Rivervale,1020,Y
+2015,None,70 - 74,Sengkang,Sengkang Town Centre,890,Y
+2015,None,70 - 74,Serangoon,Lorong Chuan,210,Y
+2015,None,70 - 74,Serangoon,Seletar Hills,450,Y
+2015,None,70 - 74,Serangoon,Serangoon Central,780,Y
+2015,None,70 - 74,Serangoon,Serangoon Garden,1390,Y
+2015,None,70 - 74,Serangoon,Serangoon North,360,Y
+2015,None,70 - 74,Serangoon,Upper Paya Lebar,500,Y
+2015,None,70 - 74,Singapore River,Boat Quay,10,Y
+2015,None,70 - 74,Singapore River,Robertson Quay,40,Y
+2015,None,70 - 74,Southern Islands,Sentosa,20,Y
+2015,None,70 - 74,Sungei Kadut,Gali Batu,20,Y
+2015,None,70 - 74,Sungei Kadut,Turf Club,30,Y
+2015,None,70 - 74,Tampines,Simei,850,Y
+2015,None,70 - 74,Tampines,Tampines East,3000,Y
+2015,None,70 - 74,Tampines,Tampines West,1630,Y
+2015,None,70 - 74,Tampines,Xilin,30,Y
+2015,None,70 - 74,Tanglin,Chatsworth,170,Y
+2015,None,70 - 74,Tanglin,Nassim,210,Y
+2015,None,70 - 74,Tanglin,Ridout,40,Y
+2015,None,70 - 74,Tanglin,Tyersall,120,Y
+2015,None,70 - 74,Toa Payoh,Boon Teck,690,Y
+2015,None,70 - 74,Toa Payoh,Braddell,440,Y
+2015,None,70 - 74,Toa Payoh,Joo Seng,250,Y
+2015,None,70 - 74,Toa Payoh,Kim Keat,330,Y
+2015,None,70 - 74,Toa Payoh,Lorong 8 Toa Payoh,400,Y
+2015,None,70 - 74,Toa Payoh,Pei Chun,510,Y
+2015,None,70 - 74,Toa Payoh,Potong Pasir,460,Y
+2015,None,70 - 74,Toa Payoh,Sennett,190,Y
+2015,None,70 - 74,Toa Payoh,Toa Payoh Central,1060,Y
+2015,None,70 - 74,Toa Payoh,Toa Payoh West,680,Y
+2015,None,70 - 74,Toa Payoh,Woodleigh,40,Y
+2015,None,70 - 74,Western Water Catchment,Western Water Catchment,10,Y
+2015,None,70 - 74,Woodlands,Midview,540,Y
+2015,None,70 - 74,Woodlands,North Coast,430,Y
+2015,None,70 - 74,Woodlands,Woodgrove,540,Y
+2015,None,70 - 74,Woodlands,Woodlands East,1160,Y
+2015,None,70 - 74,Woodlands,Woodlands South,530,Y
+2015,None,70 - 74,Woodlands,Woodlands West,860,Y
+2015,None,70 - 74,Yishun,Khatib,280,Y
+2015,None,70 - 74,Yishun,Lower Seletar,30,Y
+2015,None,70 - 74,Yishun,Nee Soon,40,Y
+2015,None,70 - 74,Yishun,Northland,640,Y
+2015,None,70 - 74,Yishun,Springleaf,130,Y
+2015,None,70 - 74,Yishun,Yishun Central,40,Y
+2015,None,70 - 74,Yishun,Yishun East,820,Y
+2015,None,70 - 74,Yishun,Yishun South,930,Y
+2015,None,70 - 74,Yishun,Yishun West,1520,Y
+2015,None,75 - 79,Ang Mo Kio,Ang Mo Kio Town Centre,120,Y
+2015,None,75 - 79,Ang Mo Kio,Cheng San,790,Y
+2015,None,75 - 79,Ang Mo Kio,Chong Boon,920,Y
+2015,None,75 - 79,Ang Mo Kio,Kebun Bahru,810,Y
+2015,None,75 - 79,Ang Mo Kio,Sembawang Hills,190,Y
+2015,None,75 - 79,Ang Mo Kio,Shangri-La,560,Y
+2015,None,75 - 79,Ang Mo Kio,Tagore,200,Y
+2015,None,75 - 79,Ang Mo Kio,Townsville,840,Y
+2015,None,75 - 79,Ang Mo Kio,Yio Chu Kang East,90,Y
+2015,None,75 - 79,Ang Mo Kio,Yio Chu Kang West,630,Y
+2015,None,75 - 79,Bedok,Bayshore,100,Y
+2015,None,75 - 79,Bedok,Bedok North,2260,Y
+2015,None,75 - 79,Bedok,Bedok Reservoir,410,Y
+2015,None,75 - 79,Bedok,Bedok South,1550,Y
+2015,None,75 - 79,Bedok,Frankel,890,Y
+2015,None,75 - 79,Bedok,Kaki Bukit,790,Y
+2015,None,75 - 79,Bedok,Kembangan,1030,Y
+2015,None,75 - 79,Bedok,Siglap,290,Y
+2015,None,75 - 79,Bishan,Bishan East,680,Y
+2015,None,75 - 79,Bishan,Marymount,550,Y
+2015,None,75 - 79,Bishan,Upper Thomson,910,Y
+2015,None,75 - 79,Bukit Batok,Bukit Batok Central,480,Y
+2015,None,75 - 79,Bukit Batok,Bukit Batok East,250,Y
+2015,None,75 - 79,Bukit Batok,Bukit Batok South,160,Y
+2015,None,75 - 79,Bukit Batok,Bukit Batok West,240,Y
+2015,None,75 - 79,Bukit Batok,Gombak,200,Y
+2015,None,75 - 79,Bukit Batok,Guilin,200,Y
+2015,None,75 - 79,Bukit Batok,Hillview,280,Y
+2015,None,75 - 79,Bukit Batok,Hong Kah North,420,Y
+2015,None,75 - 79,Bukit Merah,Alexandra Hill,550,Y
+2015,None,75 - 79,Bukit Merah,Alexandra North,20,Y
+2015,None,75 - 79,Bukit Merah,Bukit Ho Swee,630,Y
+2015,None,75 - 79,Bukit Merah,Bukit Merah,40,Y
+2015,None,75 - 79,Bukit Merah,Depot Road,110,Y
+2015,None,75 - 79,Bukit Merah,Everton Park,330,Y
+2015,None,75 - 79,Bukit Merah,Henderson Hill,570,Y
+2015,None,75 - 79,Bukit Merah,Kampong Tiong Bahru,470,Y
+2015,None,75 - 79,Bukit Merah,Maritime Square,40,Y
+2015,None,75 - 79,Bukit Merah,Redhill,370,Y
+2015,None,75 - 79,Bukit Merah,Telok Blangah Drive,590,Y
+2015,None,75 - 79,Bukit Merah,Telok Blangah Rise,460,Y
+2015,None,75 - 79,Bukit Merah,Telok Blangah Way,410,Y
+2015,None,75 - 79,Bukit Merah,Tiong Bahru,420,Y
+2015,None,75 - 79,Bukit Merah,Tiong Bahru Station,580,Y
+2015,None,75 - 79,Bukit Panjang,Bangkit,490,Y
+2015,None,75 - 79,Bukit Panjang,Dairy Farm,70,Y
+2015,None,75 - 79,Bukit Panjang,Fajar,360,Y
+2015,None,75 - 79,Bukit Panjang,Jelebu,570,Y
+2015,None,75 - 79,Bukit Panjang,Nature Reserve,60,Y
+2015,None,75 - 79,Bukit Panjang,Saujana,230,Y
+2015,None,75 - 79,Bukit Panjang,Senja,220,Y
+2015,None,75 - 79,Bukit Timah,Anak Bukit,550,Y
+2015,None,75 - 79,Bukit Timah,Coronation Road,180,Y
+2015,None,75 - 79,Bukit Timah,Farrer Court,140,Y
+2015,None,75 - 79,Bukit Timah,Hillcrest,240,Y
+2015,None,75 - 79,Bukit Timah,Holland Road,230,Y
+2015,None,75 - 79,Bukit Timah,Leedon Park,140,Y
+2015,None,75 - 79,Bukit Timah,Swiss Club,130,Y
+2015,None,75 - 79,Bukit Timah,Ulu Pandan,270,Y
+2015,None,75 - 79,Changi,Changi Point,20,Y
+2015,None,75 - 79,Changi,Changi West,10,Y
+2015,None,75 - 79,Choa Chu Kang,Choa Chu Kang Central,270,Y
+2015,None,75 - 79,Choa Chu Kang,Choa Chu Kang North,390,Y
+2015,None,75 - 79,Choa Chu Kang,Keat Hong,190,Y
+2015,None,75 - 79,Choa Chu Kang,Peng Siang,380,Y
+2015,None,75 - 79,Choa Chu Kang,Teck Whye,510,Y
+2015,None,75 - 79,Choa Chu Kang,Yew Tee,480,Y
+2015,None,75 - 79,Clementi,Clementi Central,400,Y
+2015,None,75 - 79,Clementi,Clementi North,1020,Y
+2015,None,75 - 79,Clementi,Clementi West,380,Y
+2015,None,75 - 79,Clementi,Clementi Woods,440,Y
+2015,None,75 - 79,Clementi,Faber,80,Y
+2015,None,75 - 79,Clementi,Sunset Way,170,Y
+2015,None,75 - 79,Clementi,West Coast,100,Y
+2015,None,75 - 79,Downtown Core,Bugis,130,Y
+2015,None,75 - 79,Downtown Core,Tanjong Pagar,10,Y
+2015,None,75 - 79,Geylang,Aljunied,1190,Y
+2015,None,75 - 79,Geylang,Geylang East,900,Y
+2015,None,75 - 79,Geylang,Kampong Ubi,180,Y
+2015,None,75 - 79,Geylang,Macpherson,1020,Y
+2015,None,75 - 79,Hougang,Hougang Central,110,Y
+2015,None,75 - 79,Hougang,Hougang East,340,Y
+2015,None,75 - 79,Hougang,Hougang West,940,Y
+2015,None,75 - 79,Hougang,Kangkar,650,Y
+2015,None,75 - 79,Hougang,Kovan,580,Y
+2015,None,75 - 79,Hougang,Lorong Ah Soo,940,Y
+2015,None,75 - 79,Hougang,Tai Seng,410,Y
+2015,None,75 - 79,Hougang,Trafalgar,710,Y
+2015,None,75 - 79,Jurong East,Lakeside,30,Y
+2015,None,75 - 79,Jurong East,Teban Gardens,410,Y
+2015,None,75 - 79,Jurong East,Toh Guan,210,Y
+2015,None,75 - 79,Jurong East,Yuhua East,610,Y
+2015,None,75 - 79,Jurong East,Yuhua West,440,Y
+2015,None,75 - 79,Jurong West,Boon Lay Place,500,Y
+2015,None,75 - 79,Jurong West,Hong Kah,1020,Y
+2015,None,75 - 79,Jurong West,Jurong West Central,630,Y
+2015,None,75 - 79,Jurong West,Taman Jurong,530,Y
+2015,None,75 - 79,Jurong West,Wenya,70,Y
+2015,None,75 - 79,Jurong West,Yunnan,800,Y
+2015,None,75 - 79,Kallang,Bendemeer,1040,Y
+2015,None,75 - 79,Kallang,Boon Keng,380,Y
+2015,None,75 - 79,Kallang,Crawford,520,Y
+2015,None,75 - 79,Kallang,Geylang Bahru,490,Y
+2015,None,75 - 79,Kallang,Kampong Bugis,20,Y
+2015,None,75 - 79,Kallang,Kampong Java,390,Y
+2015,None,75 - 79,Kallang,Lavender,330,Y
+2015,None,75 - 79,Kallang,Tanjong Rhu,220,Y
+2015,None,75 - 79,Mandai,Mandai Estate,40,Y
+2015,None,75 - 79,Marine Parade,Katong,250,Y
+2015,None,75 - 79,Marine Parade,Marine Parade,1180,Y
+2015,None,75 - 79,Marine Parade,Mountbatten,220,Y
+2015,None,75 - 79,Newton,Cairnhill,80,Y
+2015,None,75 - 79,Newton,Goodwood Park,10,Y
+2015,None,75 - 79,Newton,Monk's Hill,30,Y
+2015,None,75 - 79,Newton,Orange Grove,30,Y
+2015,None,75 - 79,Novena,Balestier,1040,Y
+2015,None,75 - 79,Novena,Dunearn,120,Y
+2015,None,75 - 79,Novena,Malcolm,60,Y
+2015,None,75 - 79,Novena,Moulmein,150,Y
+2015,None,75 - 79,Novena,Mount Pleasant,10,Y
+2015,None,75 - 79,Orchard,Boulevard,10,Y
+2015,None,75 - 79,Orchard,Tanglin,10,Y
+2015,None,75 - 79,Outram,China Square,70,Y
+2015,None,75 - 79,Outram,Chinatown,380,Y
+2015,None,75 - 79,Outram,Pearl's Hill,390,Y
+2015,None,75 - 79,Outram,People's Park,10,Y
+2015,None,75 - 79,Pasir Ris,Flora Drive,210,Y
+2015,None,75 - 79,Pasir Ris,Loyang East,30,Y
+2015,None,75 - 79,Pasir Ris,Loyang West,30,Y
+2015,None,75 - 79,Pasir Ris,Pasir Ris Central,330,Y
+2015,None,75 - 79,Pasir Ris,Pasir Ris Drive,810,Y
+2015,None,75 - 79,Pasir Ris,Pasir Ris Park,20,Y
+2015,None,75 - 79,Pasir Ris,Pasir Ris West,460,Y
+2015,None,75 - 79,Punggol,Matilda,230,Y
+2015,None,75 - 79,Punggol,Northshore,10,Y
+2015,None,75 - 79,Punggol,Punggol Field,520,Y
+2015,None,75 - 79,Punggol,Punggol Town Centre,60,Y
+2015,None,75 - 79,Punggol,Waterway East,230,Y
+2015,None,75 - 79,Queenstown,Commonwealth,390,Y
+2015,None,75 - 79,Queenstown,Dover,390,Y
+2015,None,75 - 79,Queenstown,Ghim Moh,530,Y
+2015,None,75 - 79,Queenstown,Holland Drive,720,Y
+2015,None,75 - 79,Queenstown,Kent Ridge,20,Y
+2015,None,75 - 79,Queenstown,Margaret Drive,320,Y
+2015,None,75 - 79,Queenstown,Mei Chin,630,Y
+2015,None,75 - 79,Queenstown,Pasir Panjang 1,60,Y
+2015,None,75 - 79,Queenstown,Pasir Panjang 2,50,Y
+2015,None,75 - 79,Queenstown,Queensway,10,Y
+2015,None,75 - 79,Queenstown,Tanglin Halt,580,Y
+2015,None,75 - 79,River Valley,Institution Hill,50,Y
+2015,None,75 - 79,River Valley,Leonie Hill,30,Y
+2015,None,75 - 79,River Valley,One Tree Hill,40,Y
+2015,None,75 - 79,River Valley,Oxley,50,Y
+2015,None,75 - 79,Rochor,Bencoolen,50,Y
+2015,None,75 - 79,Rochor,Farrer Park,90,Y
+2015,None,75 - 79,Rochor,Kampong Glam,10,Y
+2015,None,75 - 79,Rochor,Little India,150,Y
+2015,None,75 - 79,Rochor,Mount Emily,10,Y
+2015,None,75 - 79,Rochor,Selegie,10,Y
+2015,None,75 - 79,Rochor,Sungei Road,100,Y
+2015,None,75 - 79,Rochor,Victoria,100,Y
+2015,None,75 - 79,Seletar,Seletar,10,Y
+2015,None,75 - 79,Sembawang,Admiralty,200,Y
+2015,None,75 - 79,Sembawang,Sembawang Central,330,Y
+2015,None,75 - 79,Sembawang,Sembawang North,260,Y
+2015,None,75 - 79,Sembawang,Sembawang Springs,110,Y
+2015,None,75 - 79,Sembawang,Sembawang Straits,30,Y
+2015,None,75 - 79,Sengkang,Anchorvale,390,Y
+2015,None,75 - 79,Sengkang,Compassvale,210,Y
+2015,None,75 - 79,Sengkang,Fernvale,400,Y
+2015,None,75 - 79,Sengkang,Rivervale,740,Y
+2015,None,75 - 79,Sengkang,Sengkang Town Centre,670,Y
+2015,None,75 - 79,Serangoon,Lorong Chuan,200,Y
+2015,None,75 - 79,Serangoon,Seletar Hills,360,Y
+2015,None,75 - 79,Serangoon,Serangoon Central,690,Y
+2015,None,75 - 79,Serangoon,Serangoon Garden,1100,Y
+2015,None,75 - 79,Serangoon,Serangoon North,250,Y
+2015,None,75 - 79,Serangoon,Upper Paya Lebar,390,Y
+2015,None,75 - 79,Singapore River,Boat Quay,10,Y
+2015,None,75 - 79,Singapore River,Robertson Quay,30,Y
+2015,None,75 - 79,Southern Islands,Sentosa,10,Y
+2015,None,75 - 79,Sungei Kadut,Gali Batu,10,Y
+2015,None,75 - 79,Sungei Kadut,Turf Club,30,Y
+2015,None,75 - 79,Tampines,Simei,710,Y
+2015,None,75 - 79,Tampines,Tampines East,2350,Y
+2015,None,75 - 79,Tampines,Tampines West,1220,Y
+2015,None,75 - 79,Tampines,Xilin,20,Y
+2015,None,75 - 79,Tanglin,Chatsworth,100,Y
+2015,None,75 - 79,Tanglin,Nassim,150,Y
+2015,None,75 - 79,Tanglin,Ridout,40,Y
+2015,None,75 - 79,Tanglin,Tyersall,90,Y
+2015,None,75 - 79,Toa Payoh,Boon Teck,660,Y
+2015,None,75 - 79,Toa Payoh,Braddell,390,Y
+2015,None,75 - 79,Toa Payoh,Joo Seng,230,Y
+2015,None,75 - 79,Toa Payoh,Kim Keat,280,Y
+2015,None,75 - 79,Toa Payoh,Lorong 8 Toa Payoh,350,Y
+2015,None,75 - 79,Toa Payoh,Pei Chun,460,Y
+2015,None,75 - 79,Toa Payoh,Potong Pasir,340,Y
+2015,None,75 - 79,Toa Payoh,Sennett,150,Y
+2015,None,75 - 79,Toa Payoh,Toa Payoh Central,960,Y
+2015,None,75 - 79,Toa Payoh,Toa Payoh West,670,Y
+2015,None,75 - 79,Toa Payoh,Woodleigh,20,Y
+2015,None,75 - 79,Western Water Catchment,Western Water Catchment,10,Y
+2015,None,75 - 79,Woodlands,Midview,400,Y
+2015,None,75 - 79,Woodlands,North Coast,330,Y
+2015,None,75 - 79,Woodlands,Woodgrove,410,Y
+2015,None,75 - 79,Woodlands,Woodlands East,920,Y
+2015,None,75 - 79,Woodlands,Woodlands South,350,Y
+2015,None,75 - 79,Woodlands,Woodlands West,690,Y
+2015,None,75 - 79,Yishun,Khatib,170,Y
+2015,None,75 - 79,Yishun,Lower Seletar,20,Y
+2015,None,75 - 79,Yishun,Nee Soon,20,Y
+2015,None,75 - 79,Yishun,Northland,460,Y
+2015,None,75 - 79,Yishun,Springleaf,90,Y
+2015,None,75 - 79,Yishun,Yishun Central,20,Y
+2015,None,75 - 79,Yishun,Yishun East,590,Y
+2015,None,75 - 79,Yishun,Yishun South,670,Y
+2015,None,75 - 79,Yishun,Yishun West,1140,Y
+2015,None,80 - 84,Ang Mo Kio,Ang Mo Kio Town Centre,60,Y
+2015,None,80 - 84,Ang Mo Kio,Cheng San,480,Y
+2015,None,80 - 84,Ang Mo Kio,Chong Boon,540,Y
+2015,None,80 - 84,Ang Mo Kio,Kebun Bahru,530,Y
+2015,None,80 - 84,Ang Mo Kio,Sembawang Hills,140,Y
+2015,None,80 - 84,Ang Mo Kio,Shangri-La,430,Y
+2015,None,80 - 84,Ang Mo Kio,Tagore,140,Y
+2015,None,80 - 84,Ang Mo Kio,Townsville,520,Y
+2015,None,80 - 84,Ang Mo Kio,Yio Chu Kang East,40,Y
+2015,None,80 - 84,Ang Mo Kio,Yio Chu Kang West,390,Y
+2015,None,80 - 84,Bedok,Bayshore,60,Y
+2015,None,80 - 84,Bedok,Bedok North,1490,Y
+2015,None,80 - 84,Bedok,Bedok Reservoir,230,Y
+2015,None,80 - 84,Bedok,Bedok South,1010,Y
+2015,None,80 - 84,Bedok,Frankel,640,Y
+2015,None,80 - 84,Bedok,Kaki Bukit,440,Y
+2015,None,80 - 84,Bedok,Kembangan,720,Y
+2015,None,80 - 84,Bedok,Siglap,170,Y
+2015,None,80 - 84,Bishan,Bishan East,420,Y
+2015,None,80 - 84,Bishan,Marymount,300,Y
+2015,None,80 - 84,Bishan,Upper Thomson,660,Y
+2015,None,80 - 84,Bukit Batok,Bukit Batok Central,300,Y
+2015,None,80 - 84,Bukit Batok,Bukit Batok East,170,Y
+2015,None,80 - 84,Bukit Batok,Bukit Batok South,100,Y
+2015,None,80 - 84,Bukit Batok,Bukit Batok West,180,Y
+2015,None,80 - 84,Bukit Batok,Gombak,150,Y
+2015,None,80 - 84,Bukit Batok,Guilin,120,Y
+2015,None,80 - 84,Bukit Batok,Hillview,160,Y
+2015,None,80 - 84,Bukit Batok,Hong Kah North,270,Y
+2015,None,80 - 84,Bukit Merah,Alexandra Hill,380,Y
+2015,None,80 - 84,Bukit Merah,Bukit Ho Swee,440,Y
+2015,None,80 - 84,Bukit Merah,Bukit Merah,20,Y
+2015,None,80 - 84,Bukit Merah,Depot Road,80,Y
+2015,None,80 - 84,Bukit Merah,Everton Park,190,Y
+2015,None,80 - 84,Bukit Merah,Henderson Hill,370,Y
+2015,None,80 - 84,Bukit Merah,Kampong Tiong Bahru,260,Y
+2015,None,80 - 84,Bukit Merah,Maritime Square,10,Y
+2015,None,80 - 84,Bukit Merah,Redhill,240,Y
+2015,None,80 - 84,Bukit Merah,Telok Blangah Drive,380,Y
+2015,None,80 - 84,Bukit Merah,Telok Blangah Rise,290,Y
+2015,None,80 - 84,Bukit Merah,Telok Blangah Way,270,Y
+2015,None,80 - 84,Bukit Merah,Tiong Bahru,260,Y
+2015,None,80 - 84,Bukit Merah,Tiong Bahru Station,360,Y
+2015,None,80 - 84,Bukit Panjang,Bangkit,330,Y
+2015,None,80 - 84,Bukit Panjang,Dairy Farm,40,Y
+2015,None,80 - 84,Bukit Panjang,Fajar,220,Y
+2015,None,80 - 84,Bukit Panjang,Jelebu,340,Y
+2015,None,80 - 84,Bukit Panjang,Nature Reserve,30,Y
+2015,None,80 - 84,Bukit Panjang,Saujana,180,Y
+2015,None,80 - 84,Bukit Panjang,Senja,150,Y
+2015,None,80 - 84,Bukit Timah,Anak Bukit,350,Y
+2015,None,80 - 84,Bukit Timah,Coronation Road,110,Y
+2015,None,80 - 84,Bukit Timah,Farrer Court,110,Y
+2015,None,80 - 84,Bukit Timah,Hillcrest,160,Y
+2015,None,80 - 84,Bukit Timah,Holland Road,140,Y
+2015,None,80 - 84,Bukit Timah,Leedon Park,80,Y
+2015,None,80 - 84,Bukit Timah,Swiss Club,110,Y
+2015,None,80 - 84,Bukit Timah,Ulu Pandan,160,Y
+2015,None,80 - 84,Changi,Changi Point,20,Y
+2015,None,80 - 84,Changi,Changi West,10,Y
+2015,None,80 - 84,Choa Chu Kang,Choa Chu Kang Central,150,Y
+2015,None,80 - 84,Choa Chu Kang,Choa Chu Kang North,270,Y
+2015,None,80 - 84,Choa Chu Kang,Keat Hong,140,Y
+2015,None,80 - 84,Choa Chu Kang,Peng Siang,270,Y
+2015,None,80 - 84,Choa Chu Kang,Teck Whye,320,Y
+2015,None,80 - 84,Choa Chu Kang,Yew Tee,290,Y
+2015,None,80 - 84,Clementi,Clementi Central,230,Y
+2015,None,80 - 84,Clementi,Clementi North,600,Y
+2015,None,80 - 84,Clementi,Clementi West,210,Y
+2015,None,80 - 84,Clementi,Clementi Woods,250,Y
+2015,None,80 - 84,Clementi,Faber,50,Y
+2015,None,80 - 84,Clementi,Sunset Way,100,Y
+2015,None,80 - 84,Clementi,West Coast,40,Y
+2015,None,80 - 84,Downtown Core,Bugis,60,Y
+2015,None,80 - 84,Downtown Core,Tanjong Pagar,10,Y
+2015,None,80 - 84,Geylang,Aljunied,810,Y
+2015,None,80 - 84,Geylang,Geylang East,600,Y
+2015,None,80 - 84,Geylang,Kampong Ubi,110,Y
+2015,None,80 - 84,Geylang,Macpherson,710,Y
+2015,None,80 - 84,Hougang,Hougang Central,70,Y
+2015,None,80 - 84,Hougang,Hougang East,220,Y
+2015,None,80 - 84,Hougang,Hougang West,610,Y
+2015,None,80 - 84,Hougang,Kangkar,380,Y
+2015,None,80 - 84,Hougang,Kovan,350,Y
+2015,None,80 - 84,Hougang,Lorong Ah Soo,620,Y
+2015,None,80 - 84,Hougang,Tai Seng,280,Y
+2015,None,80 - 84,Hougang,Trafalgar,530,Y
+2015,None,80 - 84,Jurong East,Lakeside,20,Y
+2015,None,80 - 84,Jurong East,Teban Gardens,220,Y
+2015,None,80 - 84,Jurong East,Toh Guan,160,Y
+2015,None,80 - 84,Jurong East,Yuhua East,380,Y
+2015,None,80 - 84,Jurong East,Yuhua West,270,Y
+2015,None,80 - 84,Jurong West,Boon Lay Place,270,Y
+2015,None,80 - 84,Jurong West,Hong Kah,600,Y
+2015,None,80 - 84,Jurong West,Jurong West Central,380,Y
+2015,None,80 - 84,Jurong West,Taman Jurong,350,Y
+2015,None,80 - 84,Jurong West,Wenya,40,Y
+2015,None,80 - 84,Jurong West,Yunnan,440,Y
+2015,None,80 - 84,Kallang,Bendemeer,660,Y
+2015,None,80 - 84,Kallang,Boon Keng,240,Y
+2015,None,80 - 84,Kallang,Crawford,330,Y
+2015,None,80 - 84,Kallang,Geylang Bahru,330,Y
+2015,None,80 - 84,Kallang,Kampong Bugis,20,Y
+2015,None,80 - 84,Kallang,Kampong Java,220,Y
+2015,None,80 - 84,Kallang,Lavender,200,Y
+2015,None,80 - 84,Kallang,Tanjong Rhu,130,Y
+2015,None,80 - 84,Mandai,Mandai Estate,20,Y
+2015,None,80 - 84,Marine Parade,Katong,170,Y
+2015,None,80 - 84,Marine Parade,Marine Parade,700,Y
+2015,None,80 - 84,Marine Parade,Mountbatten,160,Y
+2015,None,80 - 84,Newton,Cairnhill,60,Y
+2015,None,80 - 84,Newton,Goodwood Park,20,Y
+2015,None,80 - 84,Newton,Monk's Hill,20,Y
+2015,None,80 - 84,Newton,Orange Grove,20,Y
+2015,None,80 - 84,Novena,Balestier,710,Y
+2015,None,80 - 84,Novena,Dunearn,90,Y
+2015,None,80 - 84,Novena,Malcolm,50,Y
+2015,None,80 - 84,Novena,Moulmein,110,Y
+2015,None,80 - 84,Novena,Mount Pleasant,10,Y
+2015,None,80 - 84,Orchard,Boulevard,10,Y
+2015,None,80 - 84,Outram,China Square,40,Y
+2015,None,80 - 84,Outram,Chinatown,250,Y
+2015,None,80 - 84,Outram,Pearl's Hill,240,Y
+2015,None,80 - 84,Outram,People's Park,10,Y
+2015,None,80 - 84,Pasir Ris,Flora Drive,140,Y
+2015,None,80 - 84,Pasir Ris,Loyang East,30,Y
+2015,None,80 - 84,Pasir Ris,Loyang West,40,Y
+2015,None,80 - 84,Pasir Ris,Pasir Ris Central,230,Y
+2015,None,80 - 84,Pasir Ris,Pasir Ris Drive,560,Y
+2015,None,80 - 84,Pasir Ris,Pasir Ris Park,10,Y
+2015,None,80 - 84,Pasir Ris,Pasir Ris West,330,Y
+2015,None,80 - 84,Punggol,Matilda,150,Y
+2015,None,80 - 84,Punggol,Northshore,10,Y
+2015,None,80 - 84,Punggol,Punggol Field,320,Y
+2015,None,80 - 84,Punggol,Punggol Town Centre,30,Y
+2015,None,80 - 84,Punggol,Waterway East,160,Y
+2015,None,80 - 84,Queenstown,Commonwealth,290,Y
+2015,None,80 - 84,Queenstown,Dover,200,Y
+2015,None,80 - 84,Queenstown,Ghim Moh,370,Y
+2015,None,80 - 84,Queenstown,Holland Drive,430,Y
+2015,None,80 - 84,Queenstown,Kent Ridge,10,Y
+2015,None,80 - 84,Queenstown,Margaret Drive,200,Y
+2015,None,80 - 84,Queenstown,Mei Chin,420,Y
+2015,None,80 - 84,Queenstown,Pasir Panjang 1,50,Y
+2015,None,80 - 84,Queenstown,Pasir Panjang 2,30,Y
+2015,None,80 - 84,Queenstown,Tanglin Halt,400,Y
+2015,None,80 - 84,River Valley,Institution Hill,20,Y
+2015,None,80 - 84,River Valley,Leonie Hill,20,Y
+2015,None,80 - 84,River Valley,One Tree Hill,30,Y
+2015,None,80 - 84,River Valley,Oxley,20,Y
+2015,None,80 - 84,Rochor,Bencoolen,40,Y
+2015,None,80 - 84,Rochor,Farrer Park,60,Y
+2015,None,80 - 84,Rochor,Kampong Glam,10,Y
+2015,None,80 - 84,Rochor,Little India,90,Y
+2015,None,80 - 84,Rochor,Mount Emily,10,Y
+2015,None,80 - 84,Rochor,Selegie,10,Y
+2015,None,80 - 84,Rochor,Sungei Road,70,Y
+2015,None,80 - 84,Rochor,Victoria,50,Y
+2015,None,80 - 84,Sembawang,Admiralty,130,Y
+2015,None,80 - 84,Sembawang,Sembawang Central,230,Y
+2015,None,80 - 84,Sembawang,Sembawang North,150,Y
+2015,None,80 - 84,Sembawang,Sembawang Springs,90,Y
+2015,None,80 - 84,Sembawang,Sembawang Straits,20,Y
+2015,None,80 - 84,Sengkang,Anchorvale,200,Y
+2015,None,80 - 84,Sengkang,Compassvale,90,Y
+2015,None,80 - 84,Sengkang,Fernvale,290,Y
+2015,None,80 - 84,Sengkang,Rivervale,460,Y
+2015,None,80 - 84,Sengkang,Sengkang Town Centre,420,Y
+2015,None,80 - 84,Serangoon,Lorong Chuan,150,Y
+2015,None,80 - 84,Serangoon,Seletar Hills,220,Y
+2015,None,80 - 84,Serangoon,Serangoon Central,380,Y
+2015,None,80 - 84,Serangoon,Serangoon Garden,770,Y
+2015,None,80 - 84,Serangoon,Serangoon North,160,Y
+2015,None,80 - 84,Serangoon,Upper Paya Lebar,250,Y
+2015,None,80 - 84,Singapore River,Robertson Quay,10,Y
+2015,None,80 - 84,Southern Islands,Sentosa,10,Y
+2015,None,80 - 84,Sungei Kadut,Gali Batu,10,Y
+2015,None,80 - 84,Sungei Kadut,Turf Club,20,Y
+2015,None,80 - 84,Tampines,Simei,420,Y
+2015,None,80 - 84,Tampines,Tampines East,1560,Y
+2015,None,80 - 84,Tampines,Tampines West,820,Y
+2015,None,80 - 84,Tampines,Xilin,20,Y
+2015,None,80 - 84,Tanglin,Chatsworth,60,Y
+2015,None,80 - 84,Tanglin,Nassim,110,Y
+2015,None,80 - 84,Tanglin,Ridout,30,Y
+2015,None,80 - 84,Tanglin,Tyersall,60,Y
+2015,None,80 - 84,Toa Payoh,Boon Teck,430,Y
+2015,None,80 - 84,Toa Payoh,Braddell,220,Y
+2015,None,80 - 84,Toa Payoh,Joo Seng,150,Y
+2015,None,80 - 84,Toa Payoh,Kim Keat,160,Y
+2015,None,80 - 84,Toa Payoh,Lorong 8 Toa Payoh,210,Y
+2015,None,80 - 84,Toa Payoh,Pei Chun,280,Y
+2015,None,80 - 84,Toa Payoh,Potong Pasir,220,Y
+2015,None,80 - 84,Toa Payoh,Sennett,130,Y
+2015,None,80 - 84,Toa Payoh,Toa Payoh Central,610,Y
+2015,None,80 - 84,Toa Payoh,Toa Payoh West,370,Y
+2015,None,80 - 84,Toa Payoh,Woodleigh,20,Y
+2015,None,80 - 84,Western Water Catchment,Western Water Catchment,10,Y
+2015,None,80 - 84,Woodlands,Midview,270,Y
+2015,None,80 - 84,Woodlands,North Coast,190,Y
+2015,None,80 - 84,Woodlands,Woodgrove,270,Y
+2015,None,80 - 84,Woodlands,Woodlands East,550,Y
+2015,None,80 - 84,Woodlands,Woodlands South,220,Y
+2015,None,80 - 84,Woodlands,Woodlands West,400,Y
+2015,None,80 - 84,Yishun,Khatib,120,Y
+2015,None,80 - 84,Yishun,Lower Seletar,10,Y
+2015,None,80 - 84,Yishun,Nee Soon,20,Y
+2015,None,80 - 84,Yishun,Northland,260,Y
+2015,None,80 - 84,Yishun,Springleaf,40,Y
+2015,None,80 - 84,Yishun,Yishun Central,10,Y
+2015,None,80 - 84,Yishun,Yishun East,360,Y
+2015,None,80 - 84,Yishun,Yishun South,430,Y
+2015,None,80 - 84,Yishun,Yishun West,680,Y
+2015,None,85 & Over,Ang Mo Kio,Ang Mo Kio Town Centre,50,Y
+2015,None,85 & Over,Ang Mo Kio,Cheng San,370,Y
+2015,None,85 & Over,Ang Mo Kio,Chong Boon,380,Y
+2015,None,85 & Over,Ang Mo Kio,Kebun Bahru,330,Y
+2015,None,85 & Over,Ang Mo Kio,Sembawang Hills,130,Y
+2015,None,85 & Over,Ang Mo Kio,Shangri-La,250,Y
+2015,None,85 & Over,Ang Mo Kio,Tagore,120,Y
+2015,None,85 & Over,Ang Mo Kio,Townsville,380,Y
+2015,None,85 & Over,Ang Mo Kio,Yio Chu Kang East,60,Y
+2015,None,85 & Over,Ang Mo Kio,Yio Chu Kang West,240,Y
+2015,None,85 & Over,Bedok,Bayshore,110,Y
+2015,None,85 & Over,Bedok,Bedok North,1130,Y
+2015,None,85 & Over,Bedok,Bedok Reservoir,180,Y
+2015,None,85 & Over,Bedok,Bedok South,830,Y
+2015,None,85 & Over,Bedok,Frankel,640,Y
+2015,None,85 & Over,Bedok,Kaki Bukit,390,Y
+2015,None,85 & Over,Bedok,Kembangan,640,Y
+2015,None,85 & Over,Bedok,Siglap,120,Y
+2015,None,85 & Over,Bishan,Bishan East,280,Y
+2015,None,85 & Over,Bishan,Marymount,290,Y
+2015,None,85 & Over,Bishan,Upper Thomson,520,Y
+2015,None,85 & Over,Bukit Batok,Bukit Batok Central,230,Y
+2015,None,85 & Over,Bukit Batok,Bukit Batok East,110,Y
+2015,None,85 & Over,Bukit Batok,Bukit Batok South,80,Y
+2015,None,85 & Over,Bukit Batok,Bukit Batok West,140,Y
+2015,None,85 & Over,Bukit Batok,Gombak,100,Y
+2015,None,85 & Over,Bukit Batok,Guilin,110,Y
+2015,None,85 & Over,Bukit Batok,Hillview,150,Y
+2015,None,85 & Over,Bukit Batok,Hong Kah North,180,Y
+2015,None,85 & Over,Bukit Merah,Alexandra Hill,350,Y
+2015,None,85 & Over,Bukit Merah,Bukit Ho Swee,390,Y
+2015,None,85 & Over,Bukit Merah,Bukit Merah,20,Y
+2015,None,85 & Over,Bukit Merah,Depot Road,70,Y
+2015,None,85 & Over,Bukit Merah,Everton Park,180,Y
+2015,None,85 & Over,Bukit Merah,Henderson Hill,260,Y
+2015,None,85 & Over,Bukit Merah,Kampong Tiong Bahru,210,Y
+2015,None,85 & Over,Bukit Merah,Maritime Square,20,Y
+2015,None,85 & Over,Bukit Merah,Redhill,290,Y
+2015,None,85 & Over,Bukit Merah,Telok Blangah Drive,240,Y
+2015,None,85 & Over,Bukit Merah,Telok Blangah Rise,230,Y
+2015,None,85 & Over,Bukit Merah,Telok Blangah Way,210,Y
+2015,None,85 & Over,Bukit Merah,Tiong Bahru,270,Y
+2015,None,85 & Over,Bukit Merah,Tiong Bahru Station,270,Y
+2015,None,85 & Over,Bukit Panjang,Bangkit,250,Y
+2015,None,85 & Over,Bukit Panjang,Dairy Farm,50,Y
+2015,None,85 & Over,Bukit Panjang,Fajar,150,Y
+2015,None,85 & Over,Bukit Panjang,Jelebu,240,Y
+2015,None,85 & Over,Bukit Panjang,Nature Reserve,20,Y
+2015,None,85 & Over,Bukit Panjang,Saujana,150,Y
+2015,None,85 & Over,Bukit Panjang,Senja,140,Y
+2015,None,85 & Over,Bukit Timah,Anak Bukit,260,Y
+2015,None,85 & Over,Bukit Timah,Coronation Road,100,Y
+2015,None,85 & Over,Bukit Timah,Farrer Court,80,Y
+2015,None,85 & Over,Bukit Timah,Hillcrest,130,Y
+2015,None,85 & Over,Bukit Timah,Holland Road,110,Y
+2015,None,85 & Over,Bukit Timah,Leedon Park,90,Y
+2015,None,85 & Over,Bukit Timah,Swiss Club,100,Y
+2015,None,85 & Over,Bukit Timah,Ulu Pandan,120,Y
+2015,None,85 & Over,Changi,Changi Point,30,Y
+2015,None,85 & Over,Changi,Changi West,10,Y
+2015,None,85 & Over,Choa Chu Kang,Choa Chu Kang Central,120,Y
+2015,None,85 & Over,Choa Chu Kang,Choa Chu Kang North,180,Y
+2015,None,85 & Over,Choa Chu Kang,Keat Hong,100,Y
+2015,None,85 & Over,Choa Chu Kang,Peng Siang,220,Y
+2015,None,85 & Over,Choa Chu Kang,Teck Whye,230,Y
+2015,None,85 & Over,Choa Chu Kang,Yew Tee,200,Y
+2015,None,85 & Over,Clementi,Clementi Central,190,Y
+2015,None,85 & Over,Clementi,Clementi North,500,Y
+2015,None,85 & Over,Clementi,Clementi West,150,Y
+2015,None,85 & Over,Clementi,Clementi Woods,200,Y
+2015,None,85 & Over,Clementi,Faber,40,Y
+2015,None,85 & Over,Clementi,Sunset Way,70,Y
+2015,None,85 & Over,Clementi,West Coast,40,Y
+2015,None,85 & Over,Downtown Core,Bugis,80,Y
+2015,None,85 & Over,Downtown Core,Tanjong Pagar,50,Y
+2015,None,85 & Over,Geylang,Aljunied,740,Y
+2015,None,85 & Over,Geylang,Geylang East,510,Y
+2015,None,85 & Over,Geylang,Kampong Ubi,90,Y
+2015,None,85 & Over,Geylang,Macpherson,500,Y
+2015,None,85 & Over,Hougang,Hougang Central,60,Y
+2015,None,85 & Over,Hougang,Hougang East,170,Y
+2015,None,85 & Over,Hougang,Hougang West,420,Y
+2015,None,85 & Over,Hougang,Kangkar,270,Y
+2015,None,85 & Over,Hougang,Kovan,340,Y
+2015,None,85 & Over,Hougang,Lorong Ah Soo,440,Y
+2015,None,85 & Over,Hougang,Tai Seng,240,Y
+2015,None,85 & Over,Hougang,Trafalgar,400,Y
+2015,None,85 & Over,Jurong East,Lakeside,10,Y
+2015,None,85 & Over,Jurong East,Teban Gardens,170,Y
+2015,None,85 & Over,Jurong East,Toh Guan,100,Y
+2015,None,85 & Over,Jurong East,Yuhua East,270,Y
+2015,None,85 & Over,Jurong East,Yuhua West,210,Y
+2015,None,85 & Over,Jurong West,Boon Lay Place,190,Y
+2015,None,85 & Over,Jurong West,Hong Kah,400,Y
+2015,None,85 & Over,Jurong West,Jurong West Central,260,Y
+2015,None,85 & Over,Jurong West,Taman Jurong,230,Y
+2015,None,85 & Over,Jurong West,Wenya,20,Y
+2015,None,85 & Over,Jurong West,Yunnan,310,Y
+2015,None,85 & Over,Kallang,Bendemeer,580,Y
+2015,None,85 & Over,Kallang,Boon Keng,210,Y
+2015,None,85 & Over,Kallang,Crawford,270,Y
+2015,None,85 & Over,Kallang,Geylang Bahru,250,Y
+2015,None,85 & Over,Kallang,Kampong Bugis,10,Y
+2015,None,85 & Over,Kallang,Kampong Java,200,Y
+2015,None,85 & Over,Kallang,Lavender,160,Y
+2015,None,85 & Over,Kallang,Tanjong Rhu,130,Y
+2015,None,85 & Over,Mandai,Mandai Estate,10,Y
+2015,None,85 & Over,Marine Parade,Katong,190,Y
+2015,None,85 & Over,Marine Parade,Marine Parade,590,Y
+2015,None,85 & Over,Marine Parade,Mountbatten,160,Y
+2015,None,85 & Over,Newton,Cairnhill,50,Y
+2015,None,85 & Over,Newton,Goodwood Park,20,Y
+2015,None,85 & Over,Newton,Monk's Hill,20,Y
+2015,None,85 & Over,Newton,Orange Grove,10,Y
+2015,None,85 & Over,Novena,Balestier,680,Y
+2015,None,85 & Over,Novena,Dunearn,80,Y
+2015,None,85 & Over,Novena,Malcolm,60,Y
+2015,None,85 & Over,Novena,Moulmein,100,Y
+2015,None,85 & Over,Novena,Mount Pleasant,20,Y
+2015,None,85 & Over,Orchard,Boulevard,10,Y
+2015,None,85 & Over,Orchard,Somerset,10,Y
+2015,None,85 & Over,Outram,China Square,40,Y
+2015,None,85 & Over,Outram,Chinatown,290,Y
+2015,None,85 & Over,Outram,Pearl's Hill,280,Y
+2015,None,85 & Over,Outram,People's Park,10,Y
+2015,None,85 & Over,Pasir Ris,Flora Drive,210,Y
+2015,None,85 & Over,Pasir Ris,Loyang East,30,Y
+2015,None,85 & Over,Pasir Ris,Loyang West,70,Y
+2015,None,85 & Over,Pasir Ris,Pasir Ris Central,160,Y
+2015,None,85 & Over,Pasir Ris,Pasir Ris Drive,430,Y
+2015,None,85 & Over,Pasir Ris,Pasir Ris Park,20,Y
+2015,None,85 & Over,Pasir Ris,Pasir Ris West,230,Y
+2015,None,85 & Over,Punggol,Matilda,110,Y
+2015,None,85 & Over,Punggol,Punggol Field,280,Y
+2015,None,85 & Over,Punggol,Punggol Town Centre,20,Y
+2015,None,85 & Over,Punggol,Waterway East,110,Y
+2015,None,85 & Over,Queenstown,Commonwealth,210,Y
+2015,None,85 & Over,Queenstown,Dover,160,Y
+2015,None,85 & Over,Queenstown,Ghim Moh,240,Y
+2015,None,85 & Over,Queenstown,Holland Drive,320,Y
+2015,None,85 & Over,Queenstown,Margaret Drive,150,Y
+2015,None,85 & Over,Queenstown,Mei Chin,330,Y
+2015,None,85 & Over,Queenstown,Pasir Panjang 1,40,Y
+2015,None,85 & Over,Queenstown,Pasir Panjang 2,30,Y
+2015,None,85 & Over,Queenstown,Tanglin Halt,280,Y
+2015,None,85 & Over,River Valley,Institution Hill,20,Y
+2015,None,85 & Over,River Valley,Leonie Hill,20,Y
+2015,None,85 & Over,River Valley,One Tree Hill,40,Y
+2015,None,85 & Over,River Valley,Oxley,40,Y
+2015,None,85 & Over,Rochor,Bencoolen,40,Y
+2015,None,85 & Over,Rochor,Farrer Park,110,Y
+2015,None,85 & Over,Rochor,Kampong Glam,30,Y
+2015,None,85 & Over,Rochor,Little India,90,Y
+2015,None,85 & Over,Rochor,Mount Emily,20,Y
+2015,None,85 & Over,Rochor,Selegie,10,Y
+2015,None,85 & Over,Rochor,Sungei Road,40,Y
+2015,None,85 & Over,Rochor,Victoria,60,Y
+2015,None,85 & Over,Sembawang,Admiralty,90,Y
+2015,None,85 & Over,Sembawang,Sembawang Central,200,Y
+2015,None,85 & Over,Sembawang,Sembawang North,90,Y
+2015,None,85 & Over,Sembawang,Sembawang Springs,100,Y
+2015,None,85 & Over,Sembawang,Sembawang Straits,10,Y
+2015,None,85 & Over,Sengkang,Anchorvale,170,Y
+2015,None,85 & Over,Sengkang,Compassvale,60,Y
+2015,None,85 & Over,Sengkang,Fernvale,230,Y
+2015,None,85 & Over,Sengkang,Rivervale,350,Y
+2015,None,85 & Over,Sengkang,Sengkang Town Centre,350,Y
+2015,None,85 & Over,Serangoon,Lorong Chuan,160,Y
+2015,None,85 & Over,Serangoon,Seletar Hills,180,Y
+2015,None,85 & Over,Serangoon,Serangoon Central,290,Y
+2015,None,85 & Over,Serangoon,Serangoon Garden,710,Y
+2015,None,85 & Over,Serangoon,Serangoon North,110,Y
+2015,None,85 & Over,Serangoon,Upper Paya Lebar,210,Y
+2015,None,85 & Over,Singapore River,Clarke Quay,10,Y
+2015,None,85 & Over,Singapore River,Robertson Quay,20,Y
+2015,None,85 & Over,Sungei Kadut,Gali Batu,40,Y
+2015,None,85 & Over,Sungei Kadut,Turf Club,10,Y
+2015,None,85 & Over,Tampines,Simei,430,Y
+2015,None,85 & Over,Tampines,Tampines East,1220,Y
+2015,None,85 & Over,Tampines,Tampines West,580,Y
+2015,None,85 & Over,Tampines,Xilin,10,Y
+2015,None,85 & Over,Tanglin,Chatsworth,60,Y
+2015,None,85 & Over,Tanglin,Nassim,130,Y
+2015,None,85 & Over,Tanglin,Ridout,30,Y
+2015,None,85 & Over,Tanglin,Tyersall,50,Y
+2015,None,85 & Over,Toa Payoh,Boon Teck,390,Y
+2015,None,85 & Over,Toa Payoh,Braddell,250,Y
+2015,None,85 & Over,Toa Payoh,Joo Seng,120,Y
+2015,None,85 & Over,Toa Payoh,Kim Keat,140,Y
+2015,None,85 & Over,Toa Payoh,Lorong 8 Toa Payoh,170,Y
+2015,None,85 & Over,Toa Payoh,Pei Chun,220,Y
+2015,None,85 & Over,Toa Payoh,Potong Pasir,140,Y
+2015,None,85 & Over,Toa Payoh,Sennett,150,Y
+2015,None,85 & Over,Toa Payoh,Toa Payoh Central,450,Y
+2015,None,85 & Over,Toa Payoh,Toa Payoh West,320,Y
+2015,None,85 & Over,Toa Payoh,Woodleigh,20,Y
+2015,None,85 & Over,Western Water Catchment,Western Water Catchment,30,Y
+2015,None,85 & Over,Woodlands,Midview,210,Y
+2015,None,85 & Over,Woodlands,North Coast,110,Y
+2015,None,85 & Over,Woodlands,Woodgrove,200,Y
+2015,None,85 & Over,Woodlands,Woodlands East,360,Y
+2015,None,85 & Over,Woodlands,Woodlands South,140,Y
+2015,None,85 & Over,Woodlands,Woodlands West,240,Y
+2015,None,85 & Over,Yishun,Khatib,80,Y
+2015,None,85 & Over,Yishun,Lower Seletar,10,Y
+2015,None,85 & Over,Yishun,Nee Soon,10,Y
+2015,None,85 & Over,Yishun,Northland,220,Y
+2015,None,85 & Over,Yishun,Springleaf,50,Y
+2015,None,85 & Over,Yishun,Yishun Central,10,Y
+2015,None,85 & Over,Yishun,Yishun East,230,Y
+2015,None,85 & Over,Yishun,Yishun South,360,Y
+2015,None,85 & Over,Yishun,Yishun West,520,Y
+2015,Males,65 - 69,Ang Mo Kio,Ang Mo Kio Town Centre,120,Y
+2015,Males,65 - 69,Ang Mo Kio,Cheng San,940,Y
+2015,Males,65 - 69,Ang Mo Kio,Chong Boon,900,Y
+2015,Males,65 - 69,Ang Mo Kio,Kebun Bahru,740,Y
+2015,Males,65 - 69,Ang Mo Kio,Sembawang Hills,190,Y
+2015,Males,65 - 69,Ang Mo Kio,Shangri-La,500,Y
+2015,Males,65 - 69,Ang Mo Kio,Tagore,210,Y
+2015,Males,65 - 69,Ang Mo Kio,Townsville,720,Y
+2015,Males,65 - 69,Ang Mo Kio,Yio Chu Kang East,120,Y
+2015,Males,65 - 69,Ang Mo Kio,Yio Chu Kang West,800,Y
+2015,Males,65 - 69,Bedok,Bayshore,150,Y
+2015,Males,65 - 69,Bedok,Bedok North,2540,Y
+2015,Males,65 - 69,Bedok,Bedok Reservoir,590,Y
+2015,Males,65 - 69,Bedok,Bedok South,1490,Y
+2015,Males,65 - 69,Bedok,Frankel,870,Y
+2015,Males,65 - 69,Bedok,Kaki Bukit,1150,Y
+2015,Males,65 - 69,Bedok,Kembangan,1140,Y
+2015,Males,65 - 69,Bedok,Siglap,240,Y
+2015,Males,65 - 69,Bishan,Bishan East,780,Y
+2015,Males,65 - 69,Bishan,Marymount,690,Y
+2015,Males,65 - 69,Bishan,Upper Thomson,870,Y
+2015,Males,65 - 69,Bukit Batok,Bukit Batok Central,600,Y
+2015,Males,65 - 69,Bukit Batok,Bukit Batok East,340,Y
+2015,Males,65 - 69,Bukit Batok,Bukit Batok South,240,Y
+2015,Males,65 - 69,Bukit Batok,Bukit Batok West,360,Y
+2015,Males,65 - 69,Bukit Batok,Gombak,220,Y
+2015,Males,65 - 69,Bukit Batok,Guilin,240,Y
+2015,Males,65 - 69,Bukit Batok,Hillview,390,Y
+2015,Males,65 - 69,Bukit Batok,Hong Kah North,620,Y
+2015,Males,65 - 69,Bukit Merah,Alexandra Hill,550,Y
+2015,Males,65 - 69,Bukit Merah,Alexandra North,10,Y
+2015,Males,65 - 69,Bukit Merah,Bukit Ho Swee,510,Y
+2015,Males,65 - 69,Bukit Merah,Bukit Merah,40,Y
+2015,Males,65 - 69,Bukit Merah,Depot Road,130,Y
+2015,Males,65 - 69,Bukit Merah,Everton Park,270,Y
+2015,Males,65 - 69,Bukit Merah,Henderson Hill,400,Y
+2015,Males,65 - 69,Bukit Merah,Kampong Tiong Bahru,370,Y
+2015,Males,65 - 69,Bukit Merah,Maritime Square,40,Y
+2015,Males,65 - 69,Bukit Merah,Redhill,270,Y
+2015,Males,65 - 69,Bukit Merah,Telok Blangah Drive,500,Y
+2015,Males,65 - 69,Bukit Merah,Telok Blangah Rise,490,Y
+2015,Males,65 - 69,Bukit Merah,Telok Blangah Way,330,Y
+2015,Males,65 - 69,Bukit Merah,Tiong Bahru,320,Y
+2015,Males,65 - 69,Bukit Merah,Tiong Bahru Station,370,Y
+2015,Males,65 - 69,Bukit Panjang,Bangkit,520,Y
+2015,Males,65 - 69,Bukit Panjang,Dairy Farm,120,Y
+2015,Males,65 - 69,Bukit Panjang,Fajar,460,Y
+2015,Males,65 - 69,Bukit Panjang,Jelebu,700,Y
+2015,Males,65 - 69,Bukit Panjang,Nature Reserve,80,Y
+2015,Males,65 - 69,Bukit Panjang,Saujana,420,Y
+2015,Males,65 - 69,Bukit Panjang,Senja,330,Y
+2015,Males,65 - 69,Bukit Timah,Anak Bukit,560,Y
+2015,Males,65 - 69,Bukit Timah,Coronation Road,150,Y
+2015,Males,65 - 69,Bukit Timah,Farrer Court,120,Y
+2015,Males,65 - 69,Bukit Timah,Hillcrest,210,Y
+2015,Males,65 - 69,Bukit Timah,Holland Road,210,Y
+2015,Males,65 - 69,Bukit Timah,Leedon Park,200,Y
+2015,Males,65 - 69,Bukit Timah,Swiss Club,130,Y
+2015,Males,65 - 69,Bukit Timah,Ulu Pandan,350,Y
+2015,Males,65 - 69,Changi,Changi Point,30,Y
+2015,Males,65 - 69,Changi,Changi West,20,Y
+2015,Males,65 - 69,Choa Chu Kang,Choa Chu Kang Central,340,Y
+2015,Males,65 - 69,Choa Chu Kang,Choa Chu Kang North,450,Y
+2015,Males,65 - 69,Choa Chu Kang,Keat Hong,270,Y
+2015,Males,65 - 69,Choa Chu Kang,Peng Siang,600,Y
+2015,Males,65 - 69,Choa Chu Kang,Teck Whye,600,Y
+2015,Males,65 - 69,Choa Chu Kang,Yew Tee,580,Y
+2015,Males,65 - 69,Clementi,Clementi Central,400,Y
+2015,Males,65 - 69,Clementi,Clementi North,1010,Y
+2015,Males,65 - 69,Clementi,Clementi West,490,Y
+2015,Males,65 - 69,Clementi,Clementi Woods,520,Y
+2015,Males,65 - 69,Clementi,Faber,100,Y
+2015,Males,65 - 69,Clementi,Sunset Way,230,Y
+2015,Males,65 - 69,Clementi,West Coast,150,Y
+2015,Males,65 - 69,Downtown Core,Bugis,100,Y
+2015,Males,65 - 69,Downtown Core,Tanjong Pagar,10,Y
+2015,Males,65 - 69,Geylang,Aljunied,1120,Y
+2015,Males,65 - 69,Geylang,Geylang East,980,Y
+2015,Males,65 - 69,Geylang,Kampong Ubi,310,Y
+2015,Males,65 - 69,Geylang,Macpherson,730,Y
+2015,Males,65 - 69,Hougang,Hougang Central,110,Y
+2015,Males,65 - 69,Hougang,Hougang East,450,Y
+2015,Males,65 - 69,Hougang,Hougang West,1290,Y
+2015,Males,65 - 69,Hougang,Kangkar,630,Y
+2015,Males,65 - 69,Hougang,Kovan,650,Y
+2015,Males,65 - 69,Hougang,Lorong Ah Soo,930,Y
+2015,Males,65 - 69,Hougang,Tai Seng,370,Y
+2015,Males,65 - 69,Hougang,Trafalgar,1000,Y
+2015,Males,65 - 69,Jurong East,Lakeside,40,Y
+2015,Males,65 - 69,Jurong East,Teban Gardens,620,Y
+2015,Males,65 - 69,Jurong East,Toh Guan,350,Y
+2015,Males,65 - 69,Jurong East,Yuhua East,800,Y
+2015,Males,65 - 69,Jurong East,Yuhua West,580,Y
+2015,Males,65 - 69,Jurong West,Boon Lay Place,670,Y
+2015,Males,65 - 69,Jurong West,Hong Kah,1560,Y
+2015,Males,65 - 69,Jurong West,Jurong West Central,1160,Y
+2015,Males,65 - 69,Jurong West,Taman Jurong,740,Y
+2015,Males,65 - 69,Jurong West,Wenya,110,Y
+2015,Males,65 - 69,Jurong West,Yunnan,1380,Y
+2015,Males,65 - 69,Kallang,Bendemeer,950,Y
+2015,Males,65 - 69,Kallang,Boon Keng,300,Y
+2015,Males,65 - 69,Kallang,Crawford,470,Y
+2015,Males,65 - 69,Kallang,Geylang Bahru,370,Y
+2015,Males,65 - 69,Kallang,Kampong Bugis,30,Y
+2015,Males,65 - 69,Kallang,Kampong Java,340,Y
+2015,Males,65 - 69,Kallang,Lavender,370,Y
+2015,Males,65 - 69,Kallang,Tanjong Rhu,210,Y
+2015,Males,65 - 69,Mandai,Mandai Estate,40,Y
+2015,Males,65 - 69,Marine Parade,Katong,210,Y
+2015,Males,65 - 69,Marine Parade,Marine Parade,750,Y
+2015,Males,65 - 69,Marine Parade,Mountbatten,290,Y
+2015,Males,65 - 69,Museum,Fort Canning,10,Y
+2015,Males,65 - 69,Newton,Cairnhill,90,Y
+2015,Males,65 - 69,Newton,Goodwood Park,20,Y
+2015,Males,65 - 69,Newton,Monk's Hill,20,Y
+2015,Males,65 - 69,Newton,Orange Grove,60,Y
+2015,Males,65 - 69,Novena,Balestier,830,Y
+2015,Males,65 - 69,Novena,Dunearn,100,Y
+2015,Males,65 - 69,Novena,Malcolm,70,Y
+2015,Males,65 - 69,Novena,Moulmein,140,Y
+2015,Males,65 - 69,Novena,Mount Pleasant,20,Y
+2015,Males,65 - 69,Orchard,Boulevard,10,Y
+2015,Males,65 - 69,Orchard,Somerset,10,Y
+2015,Males,65 - 69,Orchard,Tanglin,10,Y
+2015,Males,65 - 69,Outram,China Square,70,Y
+2015,Males,65 - 69,Outram,Chinatown,280,Y
+2015,Males,65 - 69,Outram,Pearl's Hill,390,Y
+2015,Males,65 - 69,Outram,People's Park,10,Y
+2015,Males,65 - 69,Pasir Ris,Flora Drive,230,Y
+2015,Males,65 - 69,Pasir Ris,Loyang East,50,Y
+2015,Males,65 - 69,Pasir Ris,Loyang West,10,Y
+2015,Males,65 - 69,Pasir Ris,Pasir Ris Central,380,Y
+2015,Males,65 - 69,Pasir Ris,Pasir Ris Drive,1050,Y
+2015,Males,65 - 69,Pasir Ris,Pasir Ris Park,20,Y
+2015,Males,65 - 69,Pasir Ris,Pasir Ris West,470,Y
+2015,Males,65 - 69,Punggol,Matilda,360,Y
+2015,Males,65 - 69,Punggol,Northshore,10,Y
+2015,Males,65 - 69,Punggol,Punggol Field,670,Y
+2015,Males,65 - 69,Punggol,Punggol Town Centre,70,Y
+2015,Males,65 - 69,Punggol,Waterway East,320,Y
+2015,Males,65 - 69,Queenstown,Commonwealth,200,Y
+2015,Males,65 - 69,Queenstown,Dover,310,Y
+2015,Males,65 - 69,Queenstown,Ghim Moh,340,Y
+2015,Males,65 - 69,Queenstown,Holland Drive,440,Y
+2015,Males,65 - 69,Queenstown,Kent Ridge,40,Y
+2015,Males,65 - 69,Queenstown,Margaret Drive,260,Y
+2015,Males,65 - 69,Queenstown,Mei Chin,410,Y
+2015,Males,65 - 69,Queenstown,One North,10,Y
+2015,Males,65 - 69,Queenstown,Pasir Panjang 1,100,Y
+2015,Males,65 - 69,Queenstown,Pasir Panjang 2,110,Y
+2015,Males,65 - 69,Queenstown,Port,10,Y
+2015,Males,65 - 69,Queenstown,Queensway,10,Y
+2015,Males,65 - 69,Queenstown,Tanglin Halt,340,Y
+2015,Males,65 - 69,River Valley,Institution Hill,70,Y
+2015,Males,65 - 69,River Valley,Leonie Hill,60,Y
+2015,Males,65 - 69,River Valley,One Tree Hill,50,Y
+2015,Males,65 - 69,River Valley,Oxley,50,Y
+2015,Males,65 - 69,Rochor,Bencoolen,40,Y
+2015,Males,65 - 69,Rochor,Farrer Park,70,Y
+2015,Males,65 - 69,Rochor,Little India,130,Y
+2015,Males,65 - 69,Rochor,Mount Emily,20,Y
+2015,Males,65 - 69,Rochor,Selegie,10,Y
+2015,Males,65 - 69,Rochor,Sungei Road,80,Y
+2015,Males,65 - 69,Rochor,Victoria,70,Y
+2015,Males,65 - 69,Sembawang,Admiralty,190,Y
+2015,Males,65 - 69,Sembawang,Sembawang Central,380,Y
+2015,Males,65 - 69,Sembawang,Sembawang North,360,Y
+2015,Males,65 - 69,Sembawang,Sembawang Springs,100,Y
+2015,Males,65 - 69,Sembawang,Sembawang Straits,40,Y
+2015,Males,65 - 69,Sengkang,Anchorvale,530,Y
+2015,Males,65 - 69,Sengkang,Compassvale,210,Y
+2015,Males,65 - 69,Sengkang,Fernvale,460,Y
+2015,Males,65 - 69,Sengkang,Rivervale,1070,Y
+2015,Males,65 - 69,Sengkang,Sengkang Town Centre,820,Y
+2015,Males,65 - 69,Serangoon,Lorong Chuan,180,Y
+2015,Males,65 - 69,Serangoon,Seletar Hills,400,Y
+2015,Males,65 - 69,Serangoon,Serangoon Central,760,Y
+2015,Males,65 - 69,Serangoon,Serangoon Garden,1180,Y
+2015,Males,65 - 69,Serangoon,Serangoon North,370,Y
+2015,Males,65 - 69,Serangoon,Upper Paya Lebar,430,Y
+2015,Males,65 - 69,Singapore River,Boat Quay,10,Y
+2015,Males,65 - 69,Singapore River,Robertson Quay,40,Y
+2015,Males,65 - 69,Southern Islands,Sentosa,20,Y
+2015,Males,65 - 69,Sungei Kadut,Gali Batu,10,Y
+2015,Males,65 - 69,Sungei Kadut,Turf Club,30,Y
+2015,Males,65 - 69,Tampines,Simei,940,Y
+2015,Males,65 - 69,Tampines,Tampines East,3070,Y
+2015,Males,65 - 69,Tampines,Tampines West,1700,Y
+2015,Males,65 - 69,Tampines,Xilin,40,Y
+2015,Males,65 - 69,Tanglin,Chatsworth,120,Y
+2015,Males,65 - 69,Tanglin,Nassim,220,Y
+2015,Males,65 - 69,Tanglin,Ridout,50,Y
+2015,Males,65 - 69,Tanglin,Tyersall,70,Y
+2015,Males,65 - 69,Toa Payoh,Boon Teck,430,Y
+2015,Males,65 - 69,Toa Payoh,Braddell,280,Y
+2015,Males,65 - 69,Toa Payoh,Joo Seng,190,Y
+2015,Males,65 - 69,Toa Payoh,Kim Keat,230,Y
+2015,Males,65 - 69,Toa Payoh,Lorong 8 Toa Payoh,270,Y
+2015,Males,65 - 69,Toa Payoh,Pei Chun,290,Y
+2015,Males,65 - 69,Toa Payoh,Potong Pasir,420,Y
+2015,Males,65 - 69,Toa Payoh,Sennett,160,Y
+2015,Males,65 - 69,Toa Payoh,Toa Payoh Central,650,Y
+2015,Males,65 - 69,Toa Payoh,Toa Payoh West,380,Y
+2015,Males,65 - 69,Toa Payoh,Woodleigh,50,Y
+2015,Males,65 - 69,Western Water Catchment,Western Water Catchment,10,Y
+2015,Males,65 - 69,Woodlands,Midview,470,Y
+2015,Males,65 - 69,Woodlands,North Coast,400,Y
+2015,Males,65 - 69,Woodlands,Woodgrove,490,Y
+2015,Males,65 - 69,Woodlands,Woodlands East,1130,Y
+2015,Males,65 - 69,Woodlands,Woodlands South,510,Y
+2015,Males,65 - 69,Woodlands,Woodlands West,760,Y
+2015,Males,65 - 69,Yishun,Khatib,280,Y
+2015,Males,65 - 69,Yishun,Lower Seletar,20,Y
+2015,Males,65 - 69,Yishun,Nee Soon,30,Y
+2015,Males,65 - 69,Yishun,Northland,630,Y
+2015,Males,65 - 69,Yishun,Springleaf,130,Y
+2015,Males,65 - 69,Yishun,Yishun Central,40,Y
+2015,Males,65 - 69,Yishun,Yishun East,800,Y
+2015,Males,65 - 69,Yishun,Yishun South,900,Y
+2015,Males,65 - 69,Yishun,Yishun West,1260,Y
+2015,Males,70 - 74,Ang Mo Kio,Ang Mo Kio Town Centre,80,Y
+2015,Males,70 - 74,Ang Mo Kio,Cheng San,490,Y
+2015,Males,70 - 74,Ang Mo Kio,Chong Boon,600,Y
+2015,Males,70 - 74,Ang Mo Kio,Kebun Bahru,460,Y
+2015,Males,70 - 74,Ang Mo Kio,Sembawang Hills,130,Y
+2015,Males,70 - 74,Ang Mo Kio,Shangri-La,320,Y
+2015,Males,70 - 74,Ang Mo Kio,Tagore,100,Y
+2015,Males,70 - 74,Ang Mo Kio,Townsville,460,Y
+2015,Males,70 - 74,Ang Mo Kio,Yio Chu Kang East,80,Y
+2015,Males,70 - 74,Ang Mo Kio,Yio Chu Kang West,360,Y
+2015,Males,70 - 74,Bedok,Bayshore,50,Y
+2015,Males,70 - 74,Bedok,Bedok North,1400,Y
+2015,Males,70 - 74,Bedok,Bedok Reservoir,300,Y
+2015,Males,70 - 74,Bedok,Bedok South,890,Y
+2015,Males,70 - 74,Bedok,Frankel,450,Y
+2015,Males,70 - 74,Bedok,Kaki Bukit,500,Y
+2015,Males,70 - 74,Bedok,Kembangan,690,Y
+2015,Males,70 - 74,Bedok,Siglap,160,Y
+2015,Males,70 - 74,Bishan,Bishan East,410,Y
+2015,Males,70 - 74,Bishan,Marymount,360,Y
+2015,Males,70 - 74,Bishan,Upper Thomson,500,Y
+2015,Males,70 - 74,Bukit Batok,Bukit Batok Central,290,Y
+2015,Males,70 - 74,Bukit Batok,Bukit Batok East,140,Y
+2015,Males,70 - 74,Bukit Batok,Bukit Batok South,100,Y
+2015,Males,70 - 74,Bukit Batok,Bukit Batok West,170,Y
+2015,Males,70 - 74,Bukit Batok,Gombak,120,Y
+2015,Males,70 - 74,Bukit Batok,Guilin,140,Y
+2015,Males,70 - 74,Bukit Batok,Hillview,200,Y
+2015,Males,70 - 74,Bukit Batok,Hong Kah North,290,Y
+2015,Males,70 - 74,Bukit Merah,Alexandra Hill,260,Y
+2015,Males,70 - 74,Bukit Merah,Alexandra North,10,Y
+2015,Males,70 - 74,Bukit Merah,Bukit Ho Swee,340,Y
+2015,Males,70 - 74,Bukit Merah,Bukit Merah,30,Y
+2015,Males,70 - 74,Bukit Merah,Depot Road,80,Y
+2015,Males,70 - 74,Bukit Merah,Everton Park,170,Y
+2015,Males,70 - 74,Bukit Merah,Henderson Hill,310,Y
+2015,Males,70 - 74,Bukit Merah,Kampong Tiong Bahru,220,Y
+2015,Males,70 - 74,Bukit Merah,Maritime Square,20,Y
+2015,Males,70 - 74,Bukit Merah,Redhill,170,Y
+2015,Males,70 - 74,Bukit Merah,Telok Blangah Drive,310,Y
+2015,Males,70 - 74,Bukit Merah,Telok Blangah Rise,320,Y
+2015,Males,70 - 74,Bukit Merah,Telok Blangah Way,220,Y
+2015,Males,70 - 74,Bukit Merah,Tiong Bahru,200,Y
+2015,Males,70 - 74,Bukit Merah,Tiong Bahru Station,230,Y
+2015,Males,70 - 74,Bukit Panjang,Bangkit,300,Y
+2015,Males,70 - 74,Bukit Panjang,Dairy Farm,50,Y
+2015,Males,70 - 74,Bukit Panjang,Fajar,250,Y
+2015,Males,70 - 74,Bukit Panjang,Jelebu,350,Y
+2015,Males,70 - 74,Bukit Panjang,Nature Reserve,40,Y
+2015,Males,70 - 74,Bukit Panjang,Saujana,160,Y
+2015,Males,70 - 74,Bukit Panjang,Senja,150,Y
+2015,Males,70 - 74,Bukit Timah,Anak Bukit,340,Y
+2015,Males,70 - 74,Bukit Timah,Coronation Road,110,Y
+2015,Males,70 - 74,Bukit Timah,Farrer Court,70,Y
+2015,Males,70 - 74,Bukit Timah,Hillcrest,140,Y
+2015,Males,70 - 74,Bukit Timah,Holland Road,120,Y
+2015,Males,70 - 74,Bukit Timah,Leedon Park,100,Y
+2015,Males,70 - 74,Bukit Timah,Swiss Club,80,Y
+2015,Males,70 - 74,Bukit Timah,Ulu Pandan,180,Y
+2015,Males,70 - 74,Changi,Changi Point,20,Y
+2015,Males,70 - 74,Changi,Changi West,10,Y
+2015,Males,70 - 74,Choa Chu Kang,Choa Chu Kang Central,190,Y
+2015,Males,70 - 74,Choa Chu Kang,Choa Chu Kang North,210,Y
+2015,Males,70 - 74,Choa Chu Kang,Keat Hong,110,Y
+2015,Males,70 - 74,Choa Chu Kang,Peng Siang,270,Y
+2015,Males,70 - 74,Choa Chu Kang,Teck Whye,360,Y
+2015,Males,70 - 74,Choa Chu Kang,Yew Tee,260,Y
+2015,Males,70 - 74,Clementi,Clementi Central,250,Y
+2015,Males,70 - 74,Clementi,Clementi North,580,Y
+2015,Males,70 - 74,Clementi,Clementi West,270,Y
+2015,Males,70 - 74,Clementi,Clementi Woods,280,Y
+2015,Males,70 - 74,Clementi,Faber,50,Y
+2015,Males,70 - 74,Clementi,Sunset Way,110,Y
+2015,Males,70 - 74,Clementi,West Coast,70,Y
+2015,Males,70 - 74,Downtown Core,Bugis,50,Y
+2015,Males,70 - 74,Downtown Core,Central Subzone,10,Y
+2015,Males,70 - 74,Geylang,Aljunied,700,Y
+2015,Males,70 - 74,Geylang,Geylang East,510,Y
+2015,Males,70 - 74,Geylang,Kampong Ubi,160,Y
+2015,Males,70 - 74,Geylang,Macpherson,470,Y
+2015,Males,70 - 74,Hougang,Hougang Central,60,Y
+2015,Males,70 - 74,Hougang,Hougang East,250,Y
+2015,Males,70 - 74,Hougang,Hougang West,600,Y
+2015,Males,70 - 74,Hougang,Kangkar,350,Y
+2015,Males,70 - 74,Hougang,Kovan,310,Y
+2015,Males,70 - 74,Hougang,Lorong Ah Soo,550,Y
+2015,Males,70 - 74,Hougang,Tai Seng,220,Y
+2015,Males,70 - 74,Hougang,Trafalgar,480,Y
+2015,Males,70 - 74,Jurong East,Lakeside,30,Y
+2015,Males,70 - 74,Jurong East,Teban Gardens,330,Y
+2015,Males,70 - 74,Jurong East,Toh Guan,160,Y
+2015,Males,70 - 74,Jurong East,Yuhua East,400,Y
+2015,Males,70 - 74,Jurong East,Yuhua West,280,Y
+2015,Males,70 - 74,Jurong West,Boon Lay Place,370,Y
+2015,Males,70 - 74,Jurong West,Hong Kah,750,Y
+2015,Males,70 - 74,Jurong West,Jurong West Central,440,Y
+2015,Males,70 - 74,Jurong West,Taman Jurong,330,Y
+2015,Males,70 - 74,Jurong West,Wenya,60,Y
+2015,Males,70 - 74,Jurong West,Yunnan,590,Y
+2015,Males,70 - 74,Kallang,Bendemeer,580,Y
+2015,Males,70 - 74,Kallang,Boon Keng,180,Y
+2015,Males,70 - 74,Kallang,Crawford,310,Y
+2015,Males,70 - 74,Kallang,Geylang Bahru,220,Y
+2015,Males,70 - 74,Kallang,Kampong Bugis,10,Y
+2015,Males,70 - 74,Kallang,Kampong Java,210,Y
+2015,Males,70 - 74,Kallang,Lavender,200,Y
+2015,Males,70 - 74,Kallang,Tanjong Rhu,160,Y
+2015,Males,70 - 74,Mandai,Mandai Estate,30,Y
+2015,Males,70 - 74,Marine Parade,Katong,140,Y
+2015,Males,70 - 74,Marine Parade,Marine Parade,540,Y
+2015,Males,70 - 74,Marine Parade,Mountbatten,120,Y
+2015,Males,70 - 74,Newton,Cairnhill,40,Y
+2015,Males,70 - 74,Newton,Goodwood Park,10,Y
+2015,Males,70 - 74,Newton,Monk's Hill,10,Y
+2015,Males,70 - 74,Newton,Orange Grove,30,Y
+2015,Males,70 - 74,Novena,Balestier,550,Y
+2015,Males,70 - 74,Novena,Dunearn,70,Y
+2015,Males,70 - 74,Novena,Malcolm,40,Y
+2015,Males,70 - 74,Novena,Moulmein,70,Y
+2015,Males,70 - 74,Novena,Mount Pleasant,10,Y
+2015,Males,70 - 74,Orchard,Boulevard,10,Y
+2015,Males,70 - 74,Outram,China Square,40,Y
+2015,Males,70 - 74,Outram,Chinatown,190,Y
+2015,Males,70 - 74,Outram,Pearl's Hill,240,Y
+2015,Males,70 - 74,Outram,People's Park,10,Y
+2015,Males,70 - 74,Pasir Ris,Flora Drive,120,Y
+2015,Males,70 - 74,Pasir Ris,Loyang East,30,Y
+2015,Males,70 - 74,Pasir Ris,Loyang West,10,Y
+2015,Males,70 - 74,Pasir Ris,Pasir Ris Central,180,Y
+2015,Males,70 - 74,Pasir Ris,Pasir Ris Drive,460,Y
+2015,Males,70 - 74,Pasir Ris,Pasir Ris Park,20,Y
+2015,Males,70 - 74,Pasir Ris,Pasir Ris West,220,Y
+2015,Males,70 - 74,Punggol,Matilda,190,Y
+2015,Males,70 - 74,Punggol,Punggol Field,300,Y
+2015,Males,70 - 74,Punggol,Punggol Town Centre,40,Y
+2015,Males,70 - 74,Punggol,Waterway East,170,Y
+2015,Males,70 - 74,Queenstown,Commonwealth,130,Y
+2015,Males,70 - 74,Queenstown,Dover,190,Y
+2015,Males,70 - 74,Queenstown,Ghim Moh,260,Y
+2015,Males,70 - 74,Queenstown,Holland Drive,310,Y
+2015,Males,70 - 74,Queenstown,Kent Ridge,20,Y
+2015,Males,70 - 74,Queenstown,Margaret Drive,140,Y
+2015,Males,70 - 74,Queenstown,Mei Chin,240,Y
+2015,Males,70 - 74,Queenstown,Pasir Panjang 1,50,Y
+2015,Males,70 - 74,Queenstown,Pasir Panjang 2,50,Y
+2015,Males,70 - 74,Queenstown,Queensway,10,Y
+2015,Males,70 - 74,Queenstown,Tanglin Halt,240,Y
+2015,Males,70 - 74,River Valley,Institution Hill,40,Y
+2015,Males,70 - 74,River Valley,Leonie Hill,20,Y
+2015,Males,70 - 74,River Valley,One Tree Hill,30,Y
+2015,Males,70 - 74,River Valley,Oxley,30,Y
+2015,Males,70 - 74,Rochor,Bencoolen,20,Y
+2015,Males,70 - 74,Rochor,Farrer Park,50,Y
+2015,Males,70 - 74,Rochor,Kampong Glam,10,Y
+2015,Males,70 - 74,Rochor,Little India,90,Y
+2015,Males,70 - 74,Rochor,Selegie,10,Y
+2015,Males,70 - 74,Rochor,Sungei Road,70,Y
+2015,Males,70 - 74,Rochor,Victoria,60,Y
+2015,Males,70 - 74,Sembawang,Admiralty,130,Y
+2015,Males,70 - 74,Sembawang,Sembawang Central,180,Y
+2015,Males,70 - 74,Sembawang,Sembawang North,170,Y
+2015,Males,70 - 74,Sembawang,Sembawang Springs,70,Y
+2015,Males,70 - 74,Sembawang,Sembawang Straits,20,Y
+2015,Males,70 - 74,Sengkang,Anchorvale,270,Y
+2015,Males,70 - 74,Sengkang,Compassvale,140,Y
+2015,Males,70 - 74,Sengkang,Fernvale,260,Y
+2015,Males,70 - 74,Sengkang,Rivervale,500,Y
+2015,Males,70 - 74,Sengkang,Sengkang Town Centre,400,Y
+2015,Males,70 - 74,Serangoon,Lorong Chuan,100,Y
+2015,Males,70 - 74,Serangoon,Seletar Hills,230,Y
+2015,Males,70 - 74,Serangoon,Serangoon Central,340,Y
+2015,Males,70 - 74,Serangoon,Serangoon Garden,650,Y
+2015,Males,70 - 74,Serangoon,Serangoon North,140,Y
+2015,Males,70 - 74,Serangoon,Upper Paya Lebar,230,Y
+2015,Males,70 - 74,Singapore River,Boat Quay,10,Y
+2015,Males,70 - 74,Singapore River,Robertson Quay,20,Y
+2015,Males,70 - 74,Southern Islands,Sentosa,10,Y
+2015,Males,70 - 74,Sungei Kadut,Gali Batu,10,Y
+2015,Males,70 - 74,Sungei Kadut,Turf Club,20,Y
+2015,Males,70 - 74,Tampines,Simei,390,Y
+2015,Males,70 - 74,Tampines,Tampines East,1360,Y
+2015,Males,70 - 74,Tampines,Tampines West,760,Y
+2015,Males,70 - 74,Tampines,Xilin,10,Y
+2015,Males,70 - 74,Tanglin,Chatsworth,80,Y
+2015,Males,70 - 74,Tanglin,Nassim,110,Y
+2015,Males,70 - 74,Tanglin,Ridout,20,Y
+2015,Males,70 - 74,Tanglin,Tyersall,60,Y
+2015,Males,70 - 74,Toa Payoh,Boon Teck,290,Y
+2015,Males,70 - 74,Toa Payoh,Braddell,200,Y
+2015,Males,70 - 74,Toa Payoh,Joo Seng,130,Y
+2015,Males,70 - 74,Toa Payoh,Kim Keat,140,Y
+2015,Males,70 - 74,Toa Payoh,Lorong 8 Toa Payoh,180,Y
+2015,Males,70 - 74,Toa Payoh,Pei Chun,210,Y
+2015,Males,70 - 74,Toa Payoh,Potong Pasir,220,Y
+2015,Males,70 - 74,Toa Payoh,Sennett,80,Y
+2015,Males,70 - 74,Toa Payoh,Toa Payoh Central,460,Y
+2015,Males,70 - 74,Toa Payoh,Toa Payoh West,290,Y
+2015,Males,70 - 74,Toa Payoh,Woodleigh,20,Y
+2015,Males,70 - 74,Western Water Catchment,Western Water Catchment,10,Y
+2015,Males,70 - 74,Woodlands,Midview,250,Y
+2015,Males,70 - 74,Woodlands,North Coast,210,Y
+2015,Males,70 - 74,Woodlands,Woodgrove,210,Y
+2015,Males,70 - 74,Woodlands,Woodlands East,520,Y
+2015,Males,70 - 74,Woodlands,Woodlands South,250,Y
+2015,Males,70 - 74,Woodlands,Woodlands West,420,Y
+2015,Males,70 - 74,Yishun,Khatib,130,Y
+2015,Males,70 - 74,Yishun,Lower Seletar,10,Y
+2015,Males,70 - 74,Yishun,Nee Soon,20,Y
+2015,Males,70 - 74,Yishun,Northland,280,Y
+2015,Males,70 - 74,Yishun,Springleaf,70,Y
+2015,Males,70 - 74,Yishun,Yishun Central,30,Y
+2015,Males,70 - 74,Yishun,Yishun East,410,Y
+2015,Males,70 - 74,Yishun,Yishun South,440,Y
+2015,Males,70 - 74,Yishun,Yishun West,720,Y
+2015,Males,75 - 79,Ang Mo Kio,Ang Mo Kio Town Centre,50,Y
+2015,Males,75 - 79,Ang Mo Kio,Cheng San,370,Y
+2015,Males,75 - 79,Ang Mo Kio,Chong Boon,420,Y
+2015,Males,75 - 79,Ang Mo Kio,Kebun Bahru,380,Y
+2015,Males,75 - 79,Ang Mo Kio,Sembawang Hills,80,Y
+2015,Males,75 - 79,Ang Mo Kio,Shangri-La,250,Y
+2015,Males,75 - 79,Ang Mo Kio,Tagore,110,Y
+2015,Males,75 - 79,Ang Mo Kio,Townsville,360,Y
+2015,Males,75 - 79,Ang Mo Kio,Yio Chu Kang East,50,Y
+2015,Males,75 - 79,Ang Mo Kio,Yio Chu Kang West,280,Y
+2015,Males,75 - 79,Bedok,Bayshore,50,Y
+2015,Males,75 - 79,Bedok,Bedok North,1000,Y
+2015,Males,75 - 79,Bedok,Bedok Reservoir,190,Y
+2015,Males,75 - 79,Bedok,Bedok South,700,Y
+2015,Males,75 - 79,Bedok,Frankel,380,Y
+2015,Males,75 - 79,Bedok,Kaki Bukit,360,Y
+2015,Males,75 - 79,Bedok,Kembangan,440,Y
+2015,Males,75 - 79,Bedok,Siglap,140,Y
+2015,Males,75 - 79,Bishan,Bishan East,310,Y
+2015,Males,75 - 79,Bishan,Marymount,240,Y
+2015,Males,75 - 79,Bishan,Upper Thomson,420,Y
+2015,Males,75 - 79,Bukit Batok,Bukit Batok Central,230,Y
+2015,Males,75 - 79,Bukit Batok,Bukit Batok East,120,Y
+2015,Males,75 - 79,Bukit Batok,Bukit Batok South,70,Y
+2015,Males,75 - 79,Bukit Batok,Bukit Batok West,110,Y
+2015,Males,75 - 79,Bukit Batok,Gombak,90,Y
+2015,Males,75 - 79,Bukit Batok,Guilin,90,Y
+2015,Males,75 - 79,Bukit Batok,Hillview,140,Y
+2015,Males,75 - 79,Bukit Batok,Hong Kah North,210,Y
+2015,Males,75 - 79,Bukit Merah,Alexandra Hill,270,Y
+2015,Males,75 - 79,Bukit Merah,Alexandra North,10,Y
+2015,Males,75 - 79,Bukit Merah,Bukit Ho Swee,260,Y
+2015,Males,75 - 79,Bukit Merah,Bukit Merah,20,Y
+2015,Males,75 - 79,Bukit Merah,Depot Road,50,Y
+2015,Males,75 - 79,Bukit Merah,Everton Park,140,Y
+2015,Males,75 - 79,Bukit Merah,Henderson Hill,250,Y
+2015,Males,75 - 79,Bukit Merah,Kampong Tiong Bahru,230,Y
+2015,Males,75 - 79,Bukit Merah,Maritime Square,20,Y
+2015,Males,75 - 79,Bukit Merah,Redhill,160,Y
+2015,Males,75 - 79,Bukit Merah,Telok Blangah Drive,260,Y
+2015,Males,75 - 79,Bukit Merah,Telok Blangah Rise,220,Y
+2015,Males,75 - 79,Bukit Merah,Telok Blangah Way,180,Y
+2015,Males,75 - 79,Bukit Merah,Tiong Bahru,180,Y
+2015,Males,75 - 79,Bukit Merah,Tiong Bahru Station,250,Y
+2015,Males,75 - 79,Bukit Panjang,Bangkit,220,Y
+2015,Males,75 - 79,Bukit Panjang,Dairy Farm,30,Y
+2015,Males,75 - 79,Bukit Panjang,Fajar,160,Y
+2015,Males,75 - 79,Bukit Panjang,Jelebu,260,Y
+2015,Males,75 - 79,Bukit Panjang,Nature Reserve,30,Y
+2015,Males,75 - 79,Bukit Panjang,Saujana,90,Y
+2015,Males,75 - 79,Bukit Panjang,Senja,110,Y
+2015,Males,75 - 79,Bukit Timah,Anak Bukit,250,Y
+2015,Males,75 - 79,Bukit Timah,Coronation Road,90,Y
+2015,Males,75 - 79,Bukit Timah,Farrer Court,60,Y
+2015,Males,75 - 79,Bukit Timah,Hillcrest,110,Y
+2015,Males,75 - 79,Bukit Timah,Holland Road,110,Y
+2015,Males,75 - 79,Bukit Timah,Leedon Park,60,Y
+2015,Males,75 - 79,Bukit Timah,Swiss Club,60,Y
+2015,Males,75 - 79,Bukit Timah,Ulu Pandan,120,Y
+2015,Males,75 - 79,Changi,Changi Point,10,Y
+2015,Males,75 - 79,Choa Chu Kang,Choa Chu Kang Central,140,Y
+2015,Males,75 - 79,Choa Chu Kang,Choa Chu Kang North,150,Y
+2015,Males,75 - 79,Choa Chu Kang,Keat Hong,80,Y
+2015,Males,75 - 79,Choa Chu Kang,Peng Siang,170,Y
+2015,Males,75 - 79,Choa Chu Kang,Teck Whye,230,Y
+2015,Males,75 - 79,Choa Chu Kang,Yew Tee,210,Y
+2015,Males,75 - 79,Clementi,Clementi Central,200,Y
+2015,Males,75 - 79,Clementi,Clementi North,460,Y
+2015,Males,75 - 79,Clementi,Clementi West,180,Y
+2015,Males,75 - 79,Clementi,Clementi Woods,210,Y
+2015,Males,75 - 79,Clementi,Faber,40,Y
+2015,Males,75 - 79,Clementi,Sunset Way,80,Y
+2015,Males,75 - 79,Clementi,West Coast,50,Y
+2015,Males,75 - 79,Downtown Core,Bugis,50,Y
+2015,Males,75 - 79,Geylang,Aljunied,520,Y
+2015,Males,75 - 79,Geylang,Geylang East,430,Y
+2015,Males,75 - 79,Geylang,Kampong Ubi,90,Y
+2015,Males,75 - 79,Geylang,Macpherson,420,Y
+2015,Males,75 - 79,Hougang,Hougang Central,40,Y
+2015,Males,75 - 79,Hougang,Hougang East,160,Y
+2015,Males,75 - 79,Hougang,Hougang West,400,Y
+2015,Males,75 - 79,Hougang,Kangkar,300,Y
+2015,Males,75 - 79,Hougang,Kovan,250,Y
+2015,Males,75 - 79,Hougang,Lorong Ah Soo,430,Y
+2015,Males,75 - 79,Hougang,Tai Seng,200,Y
+2015,Males,75 - 79,Hougang,Trafalgar,340,Y
+2015,Males,75 - 79,Jurong East,Lakeside,20,Y
+2015,Males,75 - 79,Jurong East,Teban Gardens,200,Y
+2015,Males,75 - 79,Jurong East,Toh Guan,80,Y
+2015,Males,75 - 79,Jurong East,Yuhua East,280,Y
+2015,Males,75 - 79,Jurong East,Yuhua West,180,Y
+2015,Males,75 - 79,Jurong West,Boon Lay Place,240,Y
+2015,Males,75 - 79,Jurong West,Hong Kah,500,Y
+2015,Males,75 - 79,Jurong West,Jurong West Central,290,Y
+2015,Males,75 - 79,Jurong West,Taman Jurong,240,Y
+2015,Males,75 - 79,Jurong West,Wenya,30,Y
+2015,Males,75 - 79,Jurong West,Yunnan,390,Y
+2015,Males,75 - 79,Kallang,Bendemeer,480,Y
+2015,Males,75 - 79,Kallang,Boon Keng,160,Y
+2015,Males,75 - 79,Kallang,Crawford,280,Y
+2015,Males,75 - 79,Kallang,Geylang Bahru,220,Y
+2015,Males,75 - 79,Kallang,Kampong Bugis,10,Y
+2015,Males,75 - 79,Kallang,Kampong Java,180,Y
+2015,Males,75 - 79,Kallang,Lavender,170,Y
+2015,Males,75 - 79,Kallang,Tanjong Rhu,90,Y
+2015,Males,75 - 79,Mandai,Mandai Estate,20,Y
+2015,Males,75 - 79,Marine Parade,Katong,110,Y
+2015,Males,75 - 79,Marine Parade,Marine Parade,510,Y
+2015,Males,75 - 79,Marine Parade,Mountbatten,110,Y
+2015,Males,75 - 79,Newton,Cairnhill,30,Y
+2015,Males,75 - 79,Newton,Goodwood Park,10,Y
+2015,Males,75 - 79,Newton,Monk's Hill,10,Y
+2015,Males,75 - 79,Newton,Orange Grove,20,Y
+2015,Males,75 - 79,Novena,Balestier,430,Y
+2015,Males,75 - 79,Novena,Dunearn,60,Y
+2015,Males,75 - 79,Novena,Malcolm,20,Y
+2015,Males,75 - 79,Novena,Moulmein,70,Y
+2015,Males,75 - 79,Novena,Mount Pleasant,10,Y
+2015,Males,75 - 79,Orchard,Boulevard,10,Y
+2015,Males,75 - 79,Orchard,Tanglin,10,Y
+2015,Males,75 - 79,Outram,China Square,30,Y
+2015,Males,75 - 79,Outram,Chinatown,170,Y
+2015,Males,75 - 79,Outram,Pearl's Hill,200,Y
+2015,Males,75 - 79,Outram,People's Park,10,Y
+2015,Males,75 - 79,Pasir Ris,Flora Drive,100,Y
+2015,Males,75 - 79,Pasir Ris,Loyang East,20,Y
+2015,Males,75 - 79,Pasir Ris,Loyang West,20,Y
+2015,Males,75 - 79,Pasir Ris,Pasir Ris Central,130,Y
+2015,Males,75 - 79,Pasir Ris,Pasir Ris Drive,330,Y
+2015,Males,75 - 79,Pasir Ris,Pasir Ris Park,10,Y
+2015,Males,75 - 79,Pasir Ris,Pasir Ris West,190,Y
+2015,Males,75 - 79,Punggol,Matilda,110,Y
+2015,Males,75 - 79,Punggol,Northshore,10,Y
+2015,Males,75 - 79,Punggol,Punggol Field,230,Y
+2015,Males,75 - 79,Punggol,Punggol Town Centre,20,Y
+2015,Males,75 - 79,Punggol,Waterway East,100,Y
+2015,Males,75 - 79,Queenstown,Commonwealth,150,Y
+2015,Males,75 - 79,Queenstown,Dover,190,Y
+2015,Males,75 - 79,Queenstown,Ghim Moh,230,Y
+2015,Males,75 - 79,Queenstown,Holland Drive,290,Y
+2015,Males,75 - 79,Queenstown,Kent Ridge,10,Y
+2015,Males,75 - 79,Queenstown,Margaret Drive,120,Y
+2015,Males,75 - 79,Queenstown,Mei Chin,260,Y
+2015,Males,75 - 79,Queenstown,Pasir Panjang 1,30,Y
+2015,Males,75 - 79,Queenstown,Pasir Panjang 2,20,Y
+2015,Males,75 - 79,Queenstown,Tanglin Halt,230,Y
+2015,Males,75 - 79,River Valley,Institution Hill,20,Y
+2015,Males,75 - 79,River Valley,Leonie Hill,20,Y
+2015,Males,75 - 79,River Valley,One Tree Hill,20,Y
+2015,Males,75 - 79,River Valley,Oxley,20,Y
+2015,Males,75 - 79,Rochor,Bencoolen,20,Y
+2015,Males,75 - 79,Rochor,Farrer Park,50,Y
+2015,Males,75 - 79,Rochor,Little India,70,Y
+2015,Males,75 - 79,Rochor,Mount Emily,10,Y
+2015,Males,75 - 79,Rochor,Sungei Road,50,Y
+2015,Males,75 - 79,Rochor,Victoria,40,Y
+2015,Males,75 - 79,Sembawang,Admiralty,80,Y
+2015,Males,75 - 79,Sembawang,Sembawang Central,130,Y
+2015,Males,75 - 79,Sembawang,Sembawang North,110,Y
+2015,Males,75 - 79,Sembawang,Sembawang Springs,50,Y
+2015,Males,75 - 79,Sembawang,Sembawang Straits,20,Y
+2015,Males,75 - 79,Sengkang,Anchorvale,180,Y
+2015,Males,75 - 79,Sengkang,Compassvale,100,Y
+2015,Males,75 - 79,Sengkang,Fernvale,180,Y
+2015,Males,75 - 79,Sengkang,Rivervale,300,Y
+2015,Males,75 - 79,Sengkang,Sengkang Town Centre,270,Y
+2015,Males,75 - 79,Serangoon,Lorong Chuan,80,Y
+2015,Males,75 - 79,Serangoon,Seletar Hills,170,Y
+2015,Males,75 - 79,Serangoon,Serangoon Central,300,Y
+2015,Males,75 - 79,Serangoon,Serangoon Garden,470,Y
+2015,Males,75 - 79,Serangoon,Serangoon North,110,Y
+2015,Males,75 - 79,Serangoon,Upper Paya Lebar,180,Y
+2015,Males,75 - 79,Singapore River,Robertson Quay,10,Y
+2015,Males,75 - 79,Southern Islands,Sentosa,10,Y
+2015,Males,75 - 79,Sungei Kadut,Gali Batu,10,Y
+2015,Males,75 - 79,Sungei Kadut,Turf Club,20,Y
+2015,Males,75 - 79,Tampines,Simei,320,Y
+2015,Males,75 - 79,Tampines,Tampines East,960,Y
+2015,Males,75 - 79,Tampines,Tampines West,540,Y
+2015,Males,75 - 79,Tampines,Xilin,10,Y
+2015,Males,75 - 79,Tanglin,Chatsworth,50,Y
+2015,Males,75 - 79,Tanglin,Nassim,70,Y
+2015,Males,75 - 79,Tanglin,Ridout,10,Y
+2015,Males,75 - 79,Tanglin,Tyersall,40,Y
+2015,Males,75 - 79,Toa Payoh,Boon Teck,270,Y
+2015,Males,75 - 79,Toa Payoh,Braddell,160,Y
+2015,Males,75 - 79,Toa Payoh,Joo Seng,100,Y
+2015,Males,75 - 79,Toa Payoh,Kim Keat,140,Y
+2015,Males,75 - 79,Toa Payoh,Lorong 8 Toa Payoh,160,Y
+2015,Males,75 - 79,Toa Payoh,Pei Chun,210,Y
+2015,Males,75 - 79,Toa Payoh,Potong Pasir,160,Y
+2015,Males,75 - 79,Toa Payoh,Sennett,70,Y
+2015,Males,75 - 79,Toa Payoh,Toa Payoh Central,390,Y
+2015,Males,75 - 79,Toa Payoh,Toa Payoh West,260,Y
+2015,Males,75 - 79,Toa Payoh,Woodleigh,10,Y
+2015,Males,75 - 79,Woodlands,Midview,170,Y
+2015,Males,75 - 79,Woodlands,North Coast,150,Y
+2015,Males,75 - 79,Woodlands,Woodgrove,170,Y
+2015,Males,75 - 79,Woodlands,Woodlands East,380,Y
+2015,Males,75 - 79,Woodlands,Woodlands South,180,Y
+2015,Males,75 - 79,Woodlands,Woodlands West,340,Y
+2015,Males,75 - 79,Yishun,Khatib,70,Y
+2015,Males,75 - 79,Yishun,Lower Seletar,10,Y
+2015,Males,75 - 79,Yishun,Nee Soon,10,Y
+2015,Males,75 - 79,Yishun,Northland,210,Y
+2015,Males,75 - 79,Yishun,Springleaf,40,Y
+2015,Males,75 - 79,Yishun,Yishun East,260,Y
+2015,Males,75 - 79,Yishun,Yishun South,310,Y
+2015,Males,75 - 79,Yishun,Yishun West,530,Y
+2015,Males,80 - 84,Ang Mo Kio,Ang Mo Kio Town Centre,20,Y
+2015,Males,80 - 84,Ang Mo Kio,Cheng San,200,Y
+2015,Males,80 - 84,Ang Mo Kio,Chong Boon,230,Y
+2015,Males,80 - 84,Ang Mo Kio,Kebun Bahru,230,Y
+2015,Males,80 - 84,Ang Mo Kio,Sembawang Hills,50,Y
+2015,Males,80 - 84,Ang Mo Kio,Shangri-La,170,Y
+2015,Males,80 - 84,Ang Mo Kio,Tagore,60,Y
+2015,Males,80 - 84,Ang Mo Kio,Townsville,190,Y
+2015,Males,80 - 84,Ang Mo Kio,Yio Chu Kang East,20,Y
+2015,Males,80 - 84,Ang Mo Kio,Yio Chu Kang West,160,Y
+2015,Males,80 - 84,Bedok,Bayshore,30,Y
+2015,Males,80 - 84,Bedok,Bedok North,610,Y
+2015,Males,80 - 84,Bedok,Bedok Reservoir,80,Y
+2015,Males,80 - 84,Bedok,Bedok South,410,Y
+2015,Males,80 - 84,Bedok,Frankel,250,Y
+2015,Males,80 - 84,Bedok,Kaki Bukit,180,Y
+2015,Males,80 - 84,Bedok,Kembangan,280,Y
+2015,Males,80 - 84,Bedok,Siglap,80,Y
+2015,Males,80 - 84,Bishan,Bishan East,160,Y
+2015,Males,80 - 84,Bishan,Marymount,100,Y
+2015,Males,80 - 84,Bishan,Upper Thomson,270,Y
+2015,Males,80 - 84,Bukit Batok,Bukit Batok Central,110,Y
+2015,Males,80 - 84,Bukit Batok,Bukit Batok East,60,Y
+2015,Males,80 - 84,Bukit Batok,Bukit Batok South,30,Y
+2015,Males,80 - 84,Bukit Batok,Bukit Batok West,70,Y
+2015,Males,80 - 84,Bukit Batok,Gombak,60,Y
+2015,Males,80 - 84,Bukit Batok,Guilin,50,Y
+2015,Males,80 - 84,Bukit Batok,Hillview,70,Y
+2015,Males,80 - 84,Bukit Batok,Hong Kah North,120,Y
+2015,Males,80 - 84,Bukit Merah,Alexandra Hill,170,Y
+2015,Males,80 - 84,Bukit Merah,Bukit Ho Swee,150,Y
+2015,Males,80 - 84,Bukit Merah,Bukit Merah,10,Y
+2015,Males,80 - 84,Bukit Merah,Depot Road,30,Y
+2015,Males,80 - 84,Bukit Merah,Everton Park,80,Y
+2015,Males,80 - 84,Bukit Merah,Henderson Hill,150,Y
+2015,Males,80 - 84,Bukit Merah,Kampong Tiong Bahru,110,Y
+2015,Males,80 - 84,Bukit Merah,Maritime Square,10,Y
+2015,Males,80 - 84,Bukit Merah,Redhill,90,Y
+2015,Males,80 - 84,Bukit Merah,Telok Blangah Drive,180,Y
+2015,Males,80 - 84,Bukit Merah,Telok Blangah Rise,130,Y
+2015,Males,80 - 84,Bukit Merah,Telok Blangah Way,110,Y
+2015,Males,80 - 84,Bukit Merah,Tiong Bahru,100,Y
+2015,Males,80 - 84,Bukit Merah,Tiong Bahru Station,160,Y
+2015,Males,80 - 84,Bukit Panjang,Bangkit,130,Y
+2015,Males,80 - 84,Bukit Panjang,Dairy Farm,20,Y
+2015,Males,80 - 84,Bukit Panjang,Fajar,90,Y
+2015,Males,80 - 84,Bukit Panjang,Jelebu,150,Y
+2015,Males,80 - 84,Bukit Panjang,Nature Reserve,20,Y
+2015,Males,80 - 84,Bukit Panjang,Saujana,60,Y
+2015,Males,80 - 84,Bukit Panjang,Senja,60,Y
+2015,Males,80 - 84,Bukit Timah,Anak Bukit,160,Y
+2015,Males,80 - 84,Bukit Timah,Coronation Road,50,Y
+2015,Males,80 - 84,Bukit Timah,Farrer Court,50,Y
+2015,Males,80 - 84,Bukit Timah,Hillcrest,70,Y
+2015,Males,80 - 84,Bukit Timah,Holland Road,60,Y
+2015,Males,80 - 84,Bukit Timah,Leedon Park,40,Y
+2015,Males,80 - 84,Bukit Timah,Swiss Club,50,Y
+2015,Males,80 - 84,Bukit Timah,Ulu Pandan,80,Y
+2015,Males,80 - 84,Changi,Changi Point,10,Y
+2015,Males,80 - 84,Choa Chu Kang,Choa Chu Kang Central,50,Y
+2015,Males,80 - 84,Choa Chu Kang,Choa Chu Kang North,100,Y
+2015,Males,80 - 84,Choa Chu Kang,Keat Hong,40,Y
+2015,Males,80 - 84,Choa Chu Kang,Peng Siang,110,Y
+2015,Males,80 - 84,Choa Chu Kang,Teck Whye,140,Y
+2015,Males,80 - 84,Choa Chu Kang,Yew Tee,100,Y
+2015,Males,80 - 84,Clementi,Clementi Central,90,Y
+2015,Males,80 - 84,Clementi,Clementi North,240,Y
+2015,Males,80 - 84,Clementi,Clementi West,90,Y
+2015,Males,80 - 84,Clementi,Clementi Woods,100,Y
+2015,Males,80 - 84,Clementi,Faber,30,Y
+2015,Males,80 - 84,Clementi,Sunset Way,40,Y
+2015,Males,80 - 84,Clementi,West Coast,10,Y
+2015,Males,80 - 84,Downtown Core,Bugis,20,Y
+2015,Males,80 - 84,Geylang,Aljunied,320,Y
+2015,Males,80 - 84,Geylang,Geylang East,250,Y
+2015,Males,80 - 84,Geylang,Kampong Ubi,50,Y
+2015,Males,80 - 84,Geylang,Macpherson,300,Y
+2015,Males,80 - 84,Hougang,Hougang Central,30,Y
+2015,Males,80 - 84,Hougang,Hougang East,70,Y
+2015,Males,80 - 84,Hougang,Hougang West,210,Y
+2015,Males,80 - 84,Hougang,Kangkar,140,Y
+2015,Males,80 - 84,Hougang,Kovan,140,Y
+2015,Males,80 - 84,Hougang,Lorong Ah Soo,250,Y
+2015,Males,80 - 84,Hougang,Tai Seng,140,Y
+2015,Males,80 - 84,Hougang,Trafalgar,220,Y
+2015,Males,80 - 84,Jurong East,Lakeside,10,Y
+2015,Males,80 - 84,Jurong East,Teban Gardens,90,Y
+2015,Males,80 - 84,Jurong East,Toh Guan,60,Y
+2015,Males,80 - 84,Jurong East,Yuhua East,150,Y
+2015,Males,80 - 84,Jurong East,Yuhua West,120,Y
+2015,Males,80 - 84,Jurong West,Boon Lay Place,130,Y
+2015,Males,80 - 84,Jurong West,Hong Kah,270,Y
+2015,Males,80 - 84,Jurong West,Jurong West Central,130,Y
+2015,Males,80 - 84,Jurong West,Taman Jurong,140,Y
+2015,Males,80 - 84,Jurong West,Wenya,20,Y
+2015,Males,80 - 84,Jurong West,Yunnan,160,Y
+2015,Males,80 - 84,Kallang,Bendemeer,270,Y
+2015,Males,80 - 84,Kallang,Boon Keng,90,Y
+2015,Males,80 - 84,Kallang,Crawford,170,Y
+2015,Males,80 - 84,Kallang,Geylang Bahru,140,Y
+2015,Males,80 - 84,Kallang,Kampong Bugis,10,Y
+2015,Males,80 - 84,Kallang,Kampong Java,90,Y
+2015,Males,80 - 84,Kallang,Lavender,110,Y
+2015,Males,80 - 84,Kallang,Tanjong Rhu,50,Y
+2015,Males,80 - 84,Mandai,Mandai Estate,10,Y
+2015,Males,80 - 84,Marine Parade,Katong,70,Y
+2015,Males,80 - 84,Marine Parade,Marine Parade,300,Y
+2015,Males,80 - 84,Marine Parade,Mountbatten,70,Y
+2015,Males,80 - 84,Newton,Cairnhill,30,Y
+2015,Males,80 - 84,Newton,Monk's Hill,10,Y
+2015,Males,80 - 84,Newton,Orange Grove,10,Y
+2015,Males,80 - 84,Novena,Balestier,280,Y
+2015,Males,80 - 84,Novena,Dunearn,40,Y
+2015,Males,80 - 84,Novena,Malcolm,20,Y
+2015,Males,80 - 84,Novena,Moulmein,50,Y
+2015,Males,80 - 84,Novena,Mount Pleasant,10,Y
+2015,Males,80 - 84,Outram,China Square,20,Y
+2015,Males,80 - 84,Outram,Chinatown,100,Y
+2015,Males,80 - 84,Outram,Pearl's Hill,120,Y
+2015,Males,80 - 84,Pasir Ris,Flora Drive,60,Y
+2015,Males,80 - 84,Pasir Ris,Loyang East,20,Y
+2015,Males,80 - 84,Pasir Ris,Loyang West,20,Y
+2015,Males,80 - 84,Pasir Ris,Pasir Ris Central,90,Y
+2015,Males,80 - 84,Pasir Ris,Pasir Ris Drive,200,Y
+2015,Males,80 - 84,Pasir Ris,Pasir Ris West,120,Y
+2015,Males,80 - 84,Punggol,Matilda,60,Y
+2015,Males,80 - 84,Punggol,Punggol Field,130,Y
+2015,Males,80 - 84,Punggol,Punggol Town Centre,10,Y
+2015,Males,80 - 84,Punggol,Waterway East,70,Y
+2015,Males,80 - 84,Queenstown,Commonwealth,100,Y
+2015,Males,80 - 84,Queenstown,Dover,80,Y
+2015,Males,80 - 84,Queenstown,Ghim Moh,170,Y
+2015,Males,80 - 84,Queenstown,Holland Drive,200,Y
+2015,Males,80 - 84,Queenstown,Margaret Drive,80,Y
+2015,Males,80 - 84,Queenstown,Mei Chin,160,Y
+2015,Males,80 - 84,Queenstown,Pasir Panjang 1,20,Y
+2015,Males,80 - 84,Queenstown,Pasir Panjang 2,10,Y
+2015,Males,80 - 84,Queenstown,Tanglin Halt,150,Y
+2015,Males,80 - 84,River Valley,Institution Hill,20,Y
+2015,Males,80 - 84,River Valley,Leonie Hill,10,Y
+2015,Males,80 - 84,River Valley,One Tree Hill,20,Y
+2015,Males,80 - 84,River Valley,Oxley,10,Y
+2015,Males,80 - 84,Rochor,Bencoolen,20,Y
+2015,Males,80 - 84,Rochor,Farrer Park,30,Y
+2015,Males,80 - 84,Rochor,Kampong Glam,10,Y
+2015,Males,80 - 84,Rochor,Little India,50,Y
+2015,Males,80 - 84,Rochor,Mount Emily,10,Y
+2015,Males,80 - 84,Rochor,Selegie,10,Y
+2015,Males,80 - 84,Rochor,Sungei Road,40,Y
+2015,Males,80 - 84,Rochor,Victoria,20,Y
+2015,Males,80 - 84,Sembawang,Admiralty,50,Y
+2015,Males,80 - 84,Sembawang,Sembawang Central,80,Y
+2015,Males,80 - 84,Sembawang,Sembawang North,50,Y
+2015,Males,80 - 84,Sembawang,Sembawang Springs,40,Y
+2015,Males,80 - 84,Sembawang,Sembawang Straits,10,Y
+2015,Males,80 - 84,Sengkang,Anchorvale,70,Y
+2015,Males,80 - 84,Sengkang,Compassvale,30,Y
+2015,Males,80 - 84,Sengkang,Fernvale,90,Y
+2015,Males,80 - 84,Sengkang,Rivervale,160,Y
+2015,Males,80 - 84,Sengkang,Sengkang Town Centre,130,Y
+2015,Males,80 - 84,Serangoon,Lorong Chuan,70,Y
+2015,Males,80 - 84,Serangoon,Seletar Hills,100,Y
+2015,Males,80 - 84,Serangoon,Serangoon Central,150,Y
+2015,Males,80 - 84,Serangoon,Serangoon Garden,320,Y
+2015,Males,80 - 84,Serangoon,Serangoon North,50,Y
+2015,Males,80 - 84,Serangoon,Upper Paya Lebar,100,Y
+2015,Males,80 - 84,Sungei Kadut,Turf Club,10,Y
+2015,Males,80 - 84,Tampines,Simei,150,Y
+2015,Males,80 - 84,Tampines,Tampines East,600,Y
+2015,Males,80 - 84,Tampines,Tampines West,290,Y
+2015,Males,80 - 84,Tampines,Xilin,10,Y
+2015,Males,80 - 84,Tanglin,Chatsworth,30,Y
+2015,Males,80 - 84,Tanglin,Nassim,50,Y
+2015,Males,80 - 84,Tanglin,Ridout,20,Y
+2015,Males,80 - 84,Tanglin,Tyersall,20,Y
+2015,Males,80 - 84,Toa Payoh,Boon Teck,160,Y
+2015,Males,80 - 84,Toa Payoh,Braddell,90,Y
+2015,Males,80 - 84,Toa Payoh,Joo Seng,60,Y
+2015,Males,80 - 84,Toa Payoh,Kim Keat,70,Y
+2015,Males,80 - 84,Toa Payoh,Lorong 8 Toa Payoh,90,Y
+2015,Males,80 - 84,Toa Payoh,Pei Chun,110,Y
+2015,Males,80 - 84,Toa Payoh,Potong Pasir,90,Y
+2015,Males,80 - 84,Toa Payoh,Sennett,60,Y
+2015,Males,80 - 84,Toa Payoh,Toa Payoh Central,240,Y
+2015,Males,80 - 84,Toa Payoh,Toa Payoh West,150,Y
+2015,Males,80 - 84,Toa Payoh,Woodleigh,10,Y
+2015,Males,80 - 84,Woodlands,Midview,110,Y
+2015,Males,80 - 84,Woodlands,North Coast,90,Y
+2015,Males,80 - 84,Woodlands,Woodgrove,120,Y
+2015,Males,80 - 84,Woodlands,Woodlands East,200,Y
+2015,Males,80 - 84,Woodlands,Woodlands South,80,Y
+2015,Males,80 - 84,Woodlands,Woodlands West,180,Y
+2015,Males,80 - 84,Yishun,Khatib,60,Y
+2015,Males,80 - 84,Yishun,Nee Soon,10,Y
+2015,Males,80 - 84,Yishun,Northland,90,Y
+2015,Males,80 - 84,Yishun,Springleaf,20,Y
+2015,Males,80 - 84,Yishun,Yishun Central,10,Y
+2015,Males,80 - 84,Yishun,Yishun East,140,Y
+2015,Males,80 - 84,Yishun,Yishun South,170,Y
+2015,Males,80 - 84,Yishun,Yishun West,280,Y
+2015,Males,85 & Over,Ang Mo Kio,Ang Mo Kio Town Centre,20,Y
+2015,Males,85 & Over,Ang Mo Kio,Cheng San,110,Y
+2015,Males,85 & Over,Ang Mo Kio,Chong Boon,140,Y
+2015,Males,85 & Over,Ang Mo Kio,Kebun Bahru,110,Y
+2015,Males,85 & Over,Ang Mo Kio,Sembawang Hills,50,Y
+2015,Males,85 & Over,Ang Mo Kio,Shangri-La,90,Y
+2015,Males,85 & Over,Ang Mo Kio,Tagore,40,Y
+2015,Males,85 & Over,Ang Mo Kio,Townsville,130,Y
+2015,Males,85 & Over,Ang Mo Kio,Yio Chu Kang East,20,Y
+2015,Males,85 & Over,Ang Mo Kio,Yio Chu Kang West,80,Y
+2015,Males,85 & Over,Bedok,Bayshore,30,Y
+2015,Males,85 & Over,Bedok,Bedok North,370,Y
+2015,Males,85 & Over,Bedok,Bedok Reservoir,60,Y
+2015,Males,85 & Over,Bedok,Bedok South,270,Y
+2015,Males,85 & Over,Bedok,Frankel,220,Y
+2015,Males,85 & Over,Bedok,Kaki Bukit,120,Y
+2015,Males,85 & Over,Bedok,Kembangan,200,Y
+2015,Males,85 & Over,Bedok,Siglap,40,Y
+2015,Males,85 & Over,Bishan,Bishan East,70,Y
+2015,Males,85 & Over,Bishan,Marymount,90,Y
+2015,Males,85 & Over,Bishan,Upper Thomson,170,Y
+2015,Males,85 & Over,Bukit Batok,Bukit Batok Central,80,Y
+2015,Males,85 & Over,Bukit Batok,Bukit Batok East,30,Y
+2015,Males,85 & Over,Bukit Batok,Bukit Batok South,30,Y
+2015,Males,85 & Over,Bukit Batok,Bukit Batok West,30,Y
+2015,Males,85 & Over,Bukit Batok,Gombak,30,Y
+2015,Males,85 & Over,Bukit Batok,Guilin,40,Y
+2015,Males,85 & Over,Bukit Batok,Hillview,60,Y
+2015,Males,85 & Over,Bukit Batok,Hong Kah North,70,Y
+2015,Males,85 & Over,Bukit Merah,Alexandra Hill,110,Y
+2015,Males,85 & Over,Bukit Merah,Bukit Ho Swee,140,Y
+2015,Males,85 & Over,Bukit Merah,Bukit Merah,10,Y
+2015,Males,85 & Over,Bukit Merah,Depot Road,20,Y
+2015,Males,85 & Over,Bukit Merah,Everton Park,80,Y
+2015,Males,85 & Over,Bukit Merah,Henderson Hill,100,Y
+2015,Males,85 & Over,Bukit Merah,Kampong Tiong Bahru,70,Y
+2015,Males,85 & Over,Bukit Merah,Maritime Square,10,Y
+2015,Males,85 & Over,Bukit Merah,Redhill,80,Y
+2015,Males,85 & Over,Bukit Merah,Telok Blangah Drive,80,Y
+2015,Males,85 & Over,Bukit Merah,Telok Blangah Rise,90,Y
+2015,Males,85 & Over,Bukit Merah,Telok Blangah Way,90,Y
+2015,Males,85 & Over,Bukit Merah,Tiong Bahru,80,Y
+2015,Males,85 & Over,Bukit Merah,Tiong Bahru Station,90,Y
+2015,Males,85 & Over,Bukit Panjang,Bangkit,90,Y
+2015,Males,85 & Over,Bukit Panjang,Dairy Farm,20,Y
+2015,Males,85 & Over,Bukit Panjang,Fajar,40,Y
+2015,Males,85 & Over,Bukit Panjang,Jelebu,70,Y
+2015,Males,85 & Over,Bukit Panjang,Nature Reserve,10,Y
+2015,Males,85 & Over,Bukit Panjang,Saujana,50,Y
+2015,Males,85 & Over,Bukit Panjang,Senja,60,Y
+2015,Males,85 & Over,Bukit Timah,Anak Bukit,100,Y
+2015,Males,85 & Over,Bukit Timah,Coronation Road,40,Y
+2015,Males,85 & Over,Bukit Timah,Farrer Court,40,Y
+2015,Males,85 & Over,Bukit Timah,Hillcrest,50,Y
+2015,Males,85 & Over,Bukit Timah,Holland Road,30,Y
+2015,Males,85 & Over,Bukit Timah,Leedon Park,30,Y
+2015,Males,85 & Over,Bukit Timah,Swiss Club,50,Y
+2015,Males,85 & Over,Bukit Timah,Ulu Pandan,40,Y
+2015,Males,85 & Over,Changi,Changi Point,10,Y
+2015,Males,85 & Over,Changi,Changi West,10,Y
+2015,Males,85 & Over,Choa Chu Kang,Choa Chu Kang Central,40,Y
+2015,Males,85 & Over,Choa Chu Kang,Choa Chu Kang North,60,Y
+2015,Males,85 & Over,Choa Chu Kang,Keat Hong,40,Y
+2015,Males,85 & Over,Choa Chu Kang,Peng Siang,70,Y
+2015,Males,85 & Over,Choa Chu Kang,Teck Whye,80,Y
+2015,Males,85 & Over,Choa Chu Kang,Yew Tee,60,Y
+2015,Males,85 & Over,Clementi,Clementi Central,60,Y
+2015,Males,85 & Over,Clementi,Clementi North,180,Y
+2015,Males,85 & Over,Clementi,Clementi West,60,Y
+2015,Males,85 & Over,Clementi,Clementi Woods,70,Y
+2015,Males,85 & Over,Clementi,Faber,10,Y
+2015,Males,85 & Over,Clementi,Sunset Way,30,Y
+2015,Males,85 & Over,Clementi,West Coast,10,Y
+2015,Males,85 & Over,Downtown Core,Bugis,30,Y
+2015,Males,85 & Over,Downtown Core,Tanjong Pagar,40,Y
+2015,Males,85 & Over,Geylang,Aljunied,270,Y
+2015,Males,85 & Over,Geylang,Geylang East,180,Y
+2015,Males,85 & Over,Geylang,Kampong Ubi,30,Y
+2015,Males,85 & Over,Geylang,Macpherson,180,Y
+2015,Males,85 & Over,Hougang,Hougang Central,20,Y
+2015,Males,85 & Over,Hougang,Hougang East,50,Y
+2015,Males,85 & Over,Hougang,Hougang West,130,Y
+2015,Males,85 & Over,Hougang,Kangkar,90,Y
+2015,Males,85 & Over,Hougang,Kovan,110,Y
+2015,Males,85 & Over,Hougang,Lorong Ah Soo,140,Y
+2015,Males,85 & Over,Hougang,Tai Seng,70,Y
+2015,Males,85 & Over,Hougang,Trafalgar,120,Y
+2015,Males,85 & Over,Jurong East,Teban Gardens,60,Y
+2015,Males,85 & Over,Jurong East,Toh Guan,30,Y
+2015,Males,85 & Over,Jurong East,Yuhua East,90,Y
+2015,Males,85 & Over,Jurong East,Yuhua West,70,Y
+2015,Males,85 & Over,Jurong West,Boon Lay Place,70,Y
+2015,Males,85 & Over,Jurong West,Hong Kah,140,Y
+2015,Males,85 & Over,Jurong West,Jurong West Central,80,Y
+2015,Males,85 & Over,Jurong West,Taman Jurong,90,Y
+2015,Males,85 & Over,Jurong West,Wenya,10,Y
+2015,Males,85 & Over,Jurong West,Yunnan,90,Y
+2015,Males,85 & Over,Kallang,Bendemeer,190,Y
+2015,Males,85 & Over,Kallang,Boon Keng,80,Y
+2015,Males,85 & Over,Kallang,Crawford,140,Y
+2015,Males,85 & Over,Kallang,Geylang Bahru,90,Y
+2015,Males,85 & Over,Kallang,Kampong Java,70,Y
+2015,Males,85 & Over,Kallang,Lavender,70,Y
+2015,Males,85 & Over,Kallang,Tanjong Rhu,40,Y
+2015,Males,85 & Over,Mandai,Mandai Estate,10,Y
+2015,Males,85 & Over,Marine Parade,Katong,60,Y
+2015,Males,85 & Over,Marine Parade,Marine Parade,210,Y
+2015,Males,85 & Over,Marine Parade,Mountbatten,50,Y
+2015,Males,85 & Over,Newton,Cairnhill,20,Y
+2015,Males,85 & Over,Newton,Goodwood Park,10,Y
+2015,Males,85 & Over,Newton,Monk's Hill,10,Y
+2015,Males,85 & Over,Newton,Orange Grove,10,Y
+2015,Males,85 & Over,Novena,Balestier,220,Y
+2015,Males,85 & Over,Novena,Dunearn,30,Y
+2015,Males,85 & Over,Novena,Malcolm,20,Y
+2015,Males,85 & Over,Novena,Moulmein,40,Y
+2015,Males,85 & Over,Novena,Mount Pleasant,10,Y
+2015,Males,85 & Over,Outram,China Square,10,Y
+2015,Males,85 & Over,Outram,Chinatown,90,Y
+2015,Males,85 & Over,Outram,Pearl's Hill,110,Y
+2015,Males,85 & Over,Pasir Ris,Flora Drive,50,Y
+2015,Males,85 & Over,Pasir Ris,Loyang East,10,Y
+2015,Males,85 & Over,Pasir Ris,Loyang West,20,Y
+2015,Males,85 & Over,Pasir Ris,Pasir Ris Central,50,Y
+2015,Males,85 & Over,Pasir Ris,Pasir Ris Drive,130,Y
+2015,Males,85 & Over,Pasir Ris,Pasir Ris Park,10,Y
+2015,Males,85 & Over,Pasir Ris,Pasir Ris West,70,Y
+2015,Males,85 & Over,Punggol,Matilda,20,Y
+2015,Males,85 & Over,Punggol,Punggol Field,80,Y
+2015,Males,85 & Over,Punggol,Punggol Town Centre,10,Y
+2015,Males,85 & Over,Punggol,Waterway East,30,Y
+2015,Males,85 & Over,Queenstown,Commonwealth,70,Y
+2015,Males,85 & Over,Queenstown,Dover,60,Y
+2015,Males,85 & Over,Queenstown,Ghim Moh,80,Y
+2015,Males,85 & Over,Queenstown,Holland Drive,120,Y
+2015,Males,85 & Over,Queenstown,Margaret Drive,50,Y
+2015,Males,85 & Over,Queenstown,Mei Chin,130,Y
+2015,Males,85 & Over,Queenstown,Pasir Panjang 1,10,Y
+2015,Males,85 & Over,Queenstown,Pasir Panjang 2,10,Y
+2015,Males,85 & Over,Queenstown,Tanglin Halt,90,Y
+2015,Males,85 & Over,River Valley,Institution Hill,10,Y
+2015,Males,85 & Over,River Valley,Leonie Hill,10,Y
+2015,Males,85 & Over,River Valley,One Tree Hill,10,Y
+2015,Males,85 & Over,River Valley,Oxley,20,Y
+2015,Males,85 & Over,Rochor,Bencoolen,20,Y
+2015,Males,85 & Over,Rochor,Farrer Park,80,Y
+2015,Males,85 & Over,Rochor,Kampong Glam,30,Y
+2015,Males,85 & Over,Rochor,Little India,60,Y
+2015,Males,85 & Over,Rochor,Mount Emily,10,Y
+2015,Males,85 & Over,Rochor,Sungei Road,20,Y
+2015,Males,85 & Over,Rochor,Victoria,30,Y
+2015,Males,85 & Over,Sembawang,Admiralty,40,Y
+2015,Males,85 & Over,Sembawang,Sembawang Central,60,Y
+2015,Males,85 & Over,Sembawang,Sembawang North,30,Y
+2015,Males,85 & Over,Sembawang,Sembawang Springs,40,Y
+2015,Males,85 & Over,Sengkang,Anchorvale,50,Y
+2015,Males,85 & Over,Sengkang,Compassvale,20,Y
+2015,Males,85 & Over,Sengkang,Fernvale,70,Y
+2015,Males,85 & Over,Sengkang,Rivervale,100,Y
+2015,Males,85 & Over,Sengkang,Sengkang Town Centre,100,Y
+2015,Males,85 & Over,Serangoon,Lorong Chuan,60,Y
+2015,Males,85 & Over,Serangoon,Seletar Hills,60,Y
+2015,Males,85 & Over,Serangoon,Serangoon Central,90,Y
+2015,Males,85 & Over,Serangoon,Serangoon Garden,210,Y
+2015,Males,85 & Over,Serangoon,Serangoon North,30,Y
+2015,Males,85 & Over,Serangoon,Upper Paya Lebar,70,Y
+2015,Males,85 & Over,Singapore River,Clarke Quay,10,Y
+2015,Males,85 & Over,Singapore River,Robertson Quay,10,Y
+2015,Males,85 & Over,Tampines,Simei,130,Y
+2015,Males,85 & Over,Tampines,Tampines East,370,Y
+2015,Males,85 & Over,Tampines,Tampines West,170,Y
+2015,Males,85 & Over,Tanglin,Chatsworth,20,Y
+2015,Males,85 & Over,Tanglin,Nassim,50,Y
+2015,Males,85 & Over,Tanglin,Ridout,10,Y
+2015,Males,85 & Over,Tanglin,Tyersall,20,Y
+2015,Males,85 & Over,Toa Payoh,Boon Teck,120,Y
+2015,Males,85 & Over,Toa Payoh,Braddell,90,Y
+2015,Males,85 & Over,Toa Payoh,Joo Seng,50,Y
+2015,Males,85 & Over,Toa Payoh,Kim Keat,50,Y
+2015,Males,85 & Over,Toa Payoh,Lorong 8 Toa Payoh,50,Y
+2015,Males,85 & Over,Toa Payoh,Pei Chun,70,Y
+2015,Males,85 & Over,Toa Payoh,Potong Pasir,40,Y
+2015,Males,85 & Over,Toa Payoh,Sennett,60,Y
+2015,Males,85 & Over,Toa Payoh,Toa Payoh Central,180,Y
+2015,Males,85 & Over,Toa Payoh,Toa Payoh West,110,Y
+2015,Males,85 & Over,Toa Payoh,Woodleigh,10,Y
+2015,Males,85 & Over,Woodlands,Midview,70,Y
+2015,Males,85 & Over,Woodlands,North Coast,40,Y
+2015,Males,85 & Over,Woodlands,Woodgrove,70,Y
+2015,Males,85 & Over,Woodlands,Woodlands East,110,Y
+2015,Males,85 & Over,Woodlands,Woodlands South,50,Y
+2015,Males,85 & Over,Woodlands,Woodlands West,100,Y
+2015,Males,85 & Over,Yishun,Khatib,30,Y
+2015,Males,85 & Over,Yishun,Nee Soon,10,Y
+2015,Males,85 & Over,Yishun,Northland,70,Y
+2015,Males,85 & Over,Yishun,Springleaf,20,Y
+2015,Males,85 & Over,Yishun,Yishun East,60,Y
+2015,Males,85 & Over,Yishun,Yishun South,120,Y
+2015,Males,85 & Over,Yishun,Yishun West,150,Y
+2015,Females,65 - 69,Ang Mo Kio,Ang Mo Kio Town Centre,150,Y
+2015,Females,65 - 69,Ang Mo Kio,Cheng San,970,Y
+2015,Females,65 - 69,Ang Mo Kio,Chong Boon,1050,Y
+2015,Females,65 - 69,Ang Mo Kio,Kebun Bahru,870,Y
+2015,Females,65 - 69,Ang Mo Kio,Sembawang Hills,210,Y
+2015,Females,65 - 69,Ang Mo Kio,Shangri-La,610,Y
+2015,Females,65 - 69,Ang Mo Kio,Tagore,190,Y
+2015,Females,65 - 69,Ang Mo Kio,Townsville,880,Y
+2015,Females,65 - 69,Ang Mo Kio,Yio Chu Kang East,100,Y
+2015,Females,65 - 69,Ang Mo Kio,Yio Chu Kang West,780,Y
+2015,Females,65 - 69,Bedok,Bayshore,140,Y
+2015,Females,65 - 69,Bedok,Bedok North,2810,Y
+2015,Females,65 - 69,Bedok,Bedok Reservoir,600,Y
+2015,Females,65 - 69,Bedok,Bedok South,1600,Y
+2015,Females,65 - 69,Bedok,Frankel,890,Y
+2015,Females,65 - 69,Bedok,Kaki Bukit,1080,Y
+2015,Females,65 - 69,Bedok,Kembangan,1170,Y
+2015,Females,65 - 69,Bedok,Siglap,280,Y
+2015,Females,65 - 69,Bishan,Bishan East,890,Y
+2015,Females,65 - 69,Bishan,Marymount,700,Y
+2015,Females,65 - 69,Bishan,Upper Thomson,930,Y
+2015,Females,65 - 69,Bukit Batok,Bukit Batok Central,610,Y
+2015,Females,65 - 69,Bukit Batok,Bukit Batok East,380,Y
+2015,Females,65 - 69,Bukit Batok,Bukit Batok South,220,Y
+2015,Females,65 - 69,Bukit Batok,Bukit Batok West,350,Y
+2015,Females,65 - 69,Bukit Batok,Gombak,240,Y
+2015,Females,65 - 69,Bukit Batok,Guilin,270,Y
+2015,Females,65 - 69,Bukit Batok,Hillview,330,Y
+2015,Females,65 - 69,Bukit Batok,Hong Kah North,590,Y
+2015,Females,65 - 69,Bukit Merah,Alexandra Hill,530,Y
+2015,Females,65 - 69,Bukit Merah,Alexandra North,20,Y
+2015,Females,65 - 69,Bukit Merah,Bukit Ho Swee,560,Y
+2015,Females,65 - 69,Bukit Merah,Bukit Merah,60,Y
+2015,Females,65 - 69,Bukit Merah,Depot Road,160,Y
+2015,Females,65 - 69,Bukit Merah,Everton Park,330,Y
+2015,Females,65 - 69,Bukit Merah,Henderson Hill,450,Y
+2015,Females,65 - 69,Bukit Merah,Kampong Tiong Bahru,410,Y
+2015,Females,65 - 69,Bukit Merah,Maritime Square,40,Y
+2015,Females,65 - 69,Bukit Merah,Redhill,310,Y
+2015,Females,65 - 69,Bukit Merah,Telok Blangah Drive,630,Y
+2015,Females,65 - 69,Bukit Merah,Telok Blangah Rise,610,Y
+2015,Females,65 - 69,Bukit Merah,Telok Blangah Way,390,Y
+2015,Females,65 - 69,Bukit Merah,Tiong Bahru,440,Y
+2015,Females,65 - 69,Bukit Merah,Tiong Bahru Station,520,Y
+2015,Females,65 - 69,Bukit Panjang,Bangkit,550,Y
+2015,Females,65 - 69,Bukit Panjang,Dairy Farm,100,Y
+2015,Females,65 - 69,Bukit Panjang,Fajar,460,Y
+2015,Females,65 - 69,Bukit Panjang,Jelebu,670,Y
+2015,Females,65 - 69,Bukit Panjang,Nature Reserve,80,Y
+2015,Females,65 - 69,Bukit Panjang,Saujana,370,Y
+2015,Females,65 - 69,Bukit Panjang,Senja,340,Y
+2015,Females,65 - 69,Bukit Timah,Anak Bukit,590,Y
+2015,Females,65 - 69,Bukit Timah,Coronation Road,170,Y
+2015,Females,65 - 69,Bukit Timah,Farrer Court,150,Y
+2015,Females,65 - 69,Bukit Timah,Hillcrest,220,Y
+2015,Females,65 - 69,Bukit Timah,Holland Road,230,Y
+2015,Females,65 - 69,Bukit Timah,Leedon Park,180,Y
+2015,Females,65 - 69,Bukit Timah,Swiss Club,120,Y
+2015,Females,65 - 69,Bukit Timah,Ulu Pandan,360,Y
+2015,Females,65 - 69,Changi,Changi Point,20,Y
+2015,Females,65 - 69,Changi,Changi West,10,Y
+2015,Females,65 - 69,Choa Chu Kang,Choa Chu Kang Central,370,Y
+2015,Females,65 - 69,Choa Chu Kang,Choa Chu Kang North,470,Y
+2015,Females,65 - 69,Choa Chu Kang,Keat Hong,230,Y
+2015,Females,65 - 69,Choa Chu Kang,Peng Siang,560,Y
+2015,Females,65 - 69,Choa Chu Kang,Teck Whye,600,Y
+2015,Females,65 - 69,Choa Chu Kang,Yew Tee,590,Y
+2015,Females,65 - 69,Clementi,Clementi Central,480,Y
+2015,Females,65 - 69,Clementi,Clementi North,1240,Y
+2015,Females,65 - 69,Clementi,Clementi West,570,Y
+2015,Females,65 - 69,Clementi,Clementi Woods,570,Y
+2015,Females,65 - 69,Clementi,Faber,90,Y
+2015,Females,65 - 69,Clementi,Sunset Way,210,Y
+2015,Females,65 - 69,Clementi,West Coast,140,Y
+2015,Females,65 - 69,Downtown Core,Bugis,110,Y
+2015,Females,65 - 69,Downtown Core,Central Subzone,10,Y
+2015,Females,65 - 69,Geylang,Aljunied,1180,Y
+2015,Females,65 - 69,Geylang,Geylang East,1070,Y
+2015,Females,65 - 69,Geylang,Kampong Ubi,290,Y
+2015,Females,65 - 69,Geylang,Macpherson,790,Y
+2015,Females,65 - 69,Hougang,Hougang Central,110,Y
+2015,Females,65 - 69,Hougang,Hougang East,490,Y
+2015,Females,65 - 69,Hougang,Hougang West,1240,Y
+2015,Females,65 - 69,Hougang,Kangkar,660,Y
+2015,Females,65 - 69,Hougang,Kovan,620,Y
+2015,Females,65 - 69,Hougang,Lorong Ah Soo,1080,Y
+2015,Females,65 - 69,Hougang,Tai Seng,350,Y
+2015,Females,65 - 69,Hougang,Trafalgar,870,Y
+2015,Females,65 - 69,Jurong East,Lakeside,30,Y
+2015,Females,65 - 69,Jurong East,Teban Gardens,640,Y
+2015,Females,65 - 69,Jurong East,Toh Guan,320,Y
+2015,Females,65 - 69,Jurong East,Yuhua East,860,Y
+2015,Females,65 - 69,Jurong East,Yuhua West,520,Y
+2015,Females,65 - 69,Jurong West,Boon Lay Place,610,Y
+2015,Females,65 - 69,Jurong West,Hong Kah,1520,Y
+2015,Females,65 - 69,Jurong West,Jurong West Central,990,Y
+2015,Females,65 - 69,Jurong West,Taman Jurong,700,Y
+2015,Females,65 - 69,Jurong West,Wenya,140,Y
+2015,Females,65 - 69,Jurong West,Yunnan,1250,Y
+2015,Females,65 - 69,Kallang,Bendemeer,1020,Y
+2015,Females,65 - 69,Kallang,Boon Keng,340,Y
+2015,Females,65 - 69,Kallang,Crawford,350,Y
+2015,Females,65 - 69,Kallang,Geylang Bahru,390,Y
+2015,Females,65 - 69,Kallang,Kampong Bugis,30,Y
+2015,Females,65 - 69,Kallang,Kampong Java,410,Y
+2015,Females,65 - 69,Kallang,Lavender,270,Y
+2015,Females,65 - 69,Kallang,Tanjong Rhu,250,Y
+2015,Females,65 - 69,Mandai,Mandai Estate,40,Y
+2015,Females,65 - 69,Marine Parade,Katong,260,Y
+2015,Females,65 - 69,Marine Parade,Marine Parade,980,Y
+2015,Females,65 - 69,Marine Parade,Mountbatten,280,Y
+2015,Females,65 - 69,Newton,Cairnhill,80,Y
+2015,Females,65 - 69,Newton,Goodwood Park,20,Y
+2015,Females,65 - 69,Newton,Monk's Hill,30,Y
+2015,Females,65 - 69,Newton,Newton Circus,10,Y
+2015,Females,65 - 69,Newton,Orange Grove,50,Y
+2015,Females,65 - 69,Novena,Balestier,940,Y
+2015,Females,65 - 69,Novena,Dunearn,110,Y
+2015,Females,65 - 69,Novena,Malcolm,70,Y
+2015,Females,65 - 69,Novena,Moulmein,160,Y
+2015,Females,65 - 69,Novena,Mount Pleasant,10,Y
+2015,Females,65 - 69,Orchard,Boulevard,10,Y
+2015,Females,65 - 69,Orchard,Somerset,10,Y
+2015,Females,65 - 69,Orchard,Tanglin,20,Y
+2015,Females,65 - 69,Outram,China Square,80,Y
+2015,Females,65 - 69,Outram,Chinatown,340,Y
+2015,Females,65 - 69,Outram,Pearl's Hill,270,Y
+2015,Females,65 - 69,Outram,People's Park,20,Y
+2015,Females,65 - 69,Pasir Ris,Flora Drive,210,Y
+2015,Females,65 - 69,Pasir Ris,Loyang East,50,Y
+2015,Females,65 - 69,Pasir Ris,Pasir Ris Central,410,Y
+2015,Females,65 - 69,Pasir Ris,Pasir Ris Drive,1060,Y
+2015,Females,65 - 69,Pasir Ris,Pasir Ris Park,30,Y
+2015,Females,65 - 69,Pasir Ris,Pasir Ris West,490,Y
+2015,Females,65 - 69,Punggol,Matilda,430,Y
+2015,Females,65 - 69,Punggol,Northshore,10,Y
+2015,Females,65 - 69,Punggol,Punggol Field,720,Y
+2015,Females,65 - 69,Punggol,Punggol Town Centre,70,Y
+2015,Females,65 - 69,Punggol,Waterway East,380,Y
+2015,Females,65 - 69,Queenstown,Commonwealth,290,Y
+2015,Females,65 - 69,Queenstown,Dover,410,Y
+2015,Females,65 - 69,Queenstown,Ghim Moh,500,Y
+2015,Females,65 - 69,Queenstown,Holland Drive,600,Y
+2015,Females,65 - 69,Queenstown,Kent Ridge,20,Y
+2015,Females,65 - 69,Queenstown,Margaret Drive,320,Y
+2015,Females,65 - 69,Queenstown,Mei Chin,460,Y
+2015,Females,65 - 69,Queenstown,One North,10,Y
+2015,Females,65 - 69,Queenstown,Pasir Panjang 1,100,Y
+2015,Females,65 - 69,Queenstown,Pasir Panjang 2,90,Y
+2015,Females,65 - 69,Queenstown,Port,10,Y
+2015,Females,65 - 69,Queenstown,Queensway,10,Y
+2015,Females,65 - 69,Queenstown,Tanglin Halt,520,Y
+2015,Females,65 - 69,River Valley,Institution Hill,90,Y
+2015,Females,65 - 69,River Valley,Leonie Hill,50,Y
+2015,Females,65 - 69,River Valley,One Tree Hill,50,Y
+2015,Females,65 - 69,River Valley,Oxley,50,Y
+2015,Females,65 - 69,Rochor,Bencoolen,50,Y
+2015,Females,65 - 69,Rochor,Farrer Park,90,Y
+2015,Females,65 - 69,Rochor,Little India,130,Y
+2015,Females,65 - 69,Rochor,Mount Emily,20,Y
+2015,Females,65 - 69,Rochor,Selegie,10,Y
+2015,Females,65 - 69,Rochor,Sungei Road,100,Y
+2015,Females,65 - 69,Rochor,Victoria,100,Y
+2015,Females,65 - 69,Sembawang,Admiralty,240,Y
+2015,Females,65 - 69,Sembawang,Sembawang Central,390,Y
+2015,Females,65 - 69,Sembawang,Sembawang North,380,Y
+2015,Females,65 - 69,Sembawang,Sembawang Springs,90,Y
+2015,Females,65 - 69,Sembawang,Sembawang Straits,40,Y
+2015,Females,65 - 69,Sengkang,Anchorvale,580,Y
+2015,Females,65 - 69,Sengkang,Compassvale,280,Y
+2015,Females,65 - 69,Sengkang,Fernvale,550,Y
+2015,Females,65 - 69,Sengkang,Rivervale,1090,Y
+2015,Females,65 - 69,Sengkang,Sengkang Town Centre,850,Y
+2015,Females,65 - 69,Serangoon,Lorong Chuan,190,Y
+2015,Females,65 - 69,Serangoon,Seletar Hills,380,Y
+2015,Females,65 - 69,Serangoon,Serangoon Central,840,Y
+2015,Females,65 - 69,Serangoon,Serangoon Garden,1310,Y
+2015,Females,65 - 69,Serangoon,Serangoon North,310,Y
+2015,Females,65 - 69,Serangoon,Upper Paya Lebar,500,Y
+2015,Females,65 - 69,Singapore River,Robertson Quay,40,Y
+2015,Females,65 - 69,Southern Islands,Sentosa,20,Y
+2015,Females,65 - 69,Sungei Kadut,Gali Batu,10,Y
+2015,Females,65 - 69,Sungei Kadut,Turf Club,20,Y
+2015,Females,65 - 69,Tampines,Simei,920,Y
+2015,Females,65 - 69,Tampines,Tampines East,3150,Y
+2015,Females,65 - 69,Tampines,Tampines West,1630,Y
+2015,Females,65 - 69,Tampines,Xilin,30,Y
+2015,Females,65 - 69,Tanglin,Chatsworth,130,Y
+2015,Females,65 - 69,Tanglin,Nassim,210,Y
+2015,Females,65 - 69,Tanglin,Ridout,40,Y
+2015,Females,65 - 69,Tanglin,Tyersall,90,Y
+2015,Females,65 - 69,Toa Payoh,Boon Teck,510,Y
+2015,Females,65 - 69,Toa Payoh,Braddell,320,Y
+2015,Females,65 - 69,Toa Payoh,Joo Seng,220,Y
+2015,Females,65 - 69,Toa Payoh,Kim Keat,310,Y
+2015,Females,65 - 69,Toa Payoh,Lorong 8 Toa Payoh,270,Y
+2015,Females,65 - 69,Toa Payoh,Pei Chun,390,Y
+2015,Females,65 - 69,Toa Payoh,Potong Pasir,490,Y
+2015,Females,65 - 69,Toa Payoh,Sennett,150,Y
+2015,Females,65 - 69,Toa Payoh,Toa Payoh Central,870,Y
+2015,Females,65 - 69,Toa Payoh,Toa Payoh West,500,Y
+2015,Females,65 - 69,Toa Payoh,Woodleigh,50,Y
+2015,Females,65 - 69,Woodlands,Midview,480,Y
+2015,Females,65 - 69,Woodlands,North Coast,400,Y
+2015,Females,65 - 69,Woodlands,Woodgrove,510,Y
+2015,Females,65 - 69,Woodlands,Woodlands East,1230,Y
+2015,Females,65 - 69,Woodlands,Woodlands South,560,Y
+2015,Females,65 - 69,Woodlands,Woodlands West,710,Y
+2015,Females,65 - 69,Yishun,Khatib,270,Y
+2015,Females,65 - 69,Yishun,Lower Seletar,30,Y
+2015,Females,65 - 69,Yishun,Nee Soon,20,Y
+2015,Females,65 - 69,Yishun,Northland,640,Y
+2015,Females,65 - 69,Yishun,Springleaf,120,Y
+2015,Females,65 - 69,Yishun,Yishun Central,30,Y
+2015,Females,65 - 69,Yishun,Yishun East,920,Y
+2015,Females,65 - 69,Yishun,Yishun South,900,Y
+2015,Females,65 - 69,Yishun,Yishun West,1330,Y
+2015,Females,70 - 74,Ang Mo Kio,Ang Mo Kio Town Centre,80,Y
+2015,Females,70 - 74,Ang Mo Kio,Cheng San,580,Y
+2015,Females,70 - 74,Ang Mo Kio,Chong Boon,690,Y
+2015,Females,70 - 74,Ang Mo Kio,Kebun Bahru,550,Y
+2015,Females,70 - 74,Ang Mo Kio,Sembawang Hills,130,Y
+2015,Females,70 - 74,Ang Mo Kio,Shangri-La,430,Y
+2015,Females,70 - 74,Ang Mo Kio,Tagore,110,Y
+2015,Females,70 - 74,Ang Mo Kio,Townsville,580,Y
+2015,Females,70 - 74,Ang Mo Kio,Yio Chu Kang East,50,Y
+2015,Females,70 - 74,Ang Mo Kio,Yio Chu Kang West,400,Y
+2015,Females,70 - 74,Bedok,Bayshore,80,Y
+2015,Females,70 - 74,Bedok,Bedok North,1540,Y
+2015,Females,70 - 74,Bedok,Bedok Reservoir,290,Y
+2015,Females,70 - 74,Bedok,Bedok South,1040,Y
+2015,Females,70 - 74,Bedok,Frankel,520,Y
+2015,Females,70 - 74,Bedok,Kaki Bukit,520,Y
+2015,Females,70 - 74,Bedok,Kembangan,710,Y
+2015,Females,70 - 74,Bedok,Siglap,190,Y
+2015,Females,70 - 74,Bishan,Bishan East,460,Y
+2015,Females,70 - 74,Bishan,Marymount,380,Y
+2015,Females,70 - 74,Bishan,Upper Thomson,620,Y
+2015,Females,70 - 74,Bukit Batok,Bukit Batok Central,350,Y
+2015,Females,70 - 74,Bukit Batok,Bukit Batok East,180,Y
+2015,Females,70 - 74,Bukit Batok,Bukit Batok South,100,Y
+2015,Females,70 - 74,Bukit Batok,Bukit Batok West,180,Y
+2015,Females,70 - 74,Bukit Batok,Gombak,140,Y
+2015,Females,70 - 74,Bukit Batok,Guilin,160,Y
+2015,Females,70 - 74,Bukit Batok,Hillview,170,Y
+2015,Females,70 - 74,Bukit Batok,Hong Kah North,320,Y
+2015,Females,70 - 74,Bukit Merah,Alexandra Hill,370,Y
+2015,Females,70 - 74,Bukit Merah,Bukit Ho Swee,410,Y
+2015,Females,70 - 74,Bukit Merah,Bukit Merah,20,Y
+2015,Females,70 - 74,Bukit Merah,Depot Road,100,Y
+2015,Females,70 - 74,Bukit Merah,Everton Park,210,Y
+2015,Females,70 - 74,Bukit Merah,Henderson Hill,310,Y
+2015,Females,70 - 74,Bukit Merah,Kampong Tiong Bahru,270,Y
+2015,Females,70 - 74,Bukit Merah,Maritime Square,20,Y
+2015,Females,70 - 74,Bukit Merah,Redhill,210,Y
+2015,Females,70 - 74,Bukit Merah,Telok Blangah Drive,410,Y
+2015,Females,70 - 74,Bukit Merah,Telok Blangah Rise,370,Y
+2015,Females,70 - 74,Bukit Merah,Telok Blangah Way,270,Y
+2015,Females,70 - 74,Bukit Merah,Tiong Bahru,290,Y
+2015,Females,70 - 74,Bukit Merah,Tiong Bahru Station,330,Y
+2015,Females,70 - 74,Bukit Panjang,Bangkit,380,Y
+2015,Females,70 - 74,Bukit Panjang,Dairy Farm,40,Y
+2015,Females,70 - 74,Bukit Panjang,Fajar,270,Y
+2015,Females,70 - 74,Bukit Panjang,Jelebu,370,Y
+2015,Females,70 - 74,Bukit Panjang,Nature Reserve,40,Y
+2015,Females,70 - 74,Bukit Panjang,Saujana,160,Y
+2015,Females,70 - 74,Bukit Panjang,Senja,190,Y
+2015,Females,70 - 74,Bukit Timah,Anak Bukit,350,Y
+2015,Females,70 - 74,Bukit Timah,Coronation Road,130,Y
+2015,Females,70 - 74,Bukit Timah,Farrer Court,80,Y
+2015,Females,70 - 74,Bukit Timah,Hillcrest,150,Y
+2015,Females,70 - 74,Bukit Timah,Holland Road,150,Y
+2015,Females,70 - 74,Bukit Timah,Leedon Park,110,Y
+2015,Females,70 - 74,Bukit Timah,Swiss Club,90,Y
+2015,Females,70 - 74,Bukit Timah,Ulu Pandan,180,Y
+2015,Females,70 - 74,Changi,Changi Point,10,Y
+2015,Females,70 - 74,Changi,Changi West,10,Y
+2015,Females,70 - 74,Choa Chu Kang,Choa Chu Kang Central,210,Y
+2015,Females,70 - 74,Choa Chu Kang,Choa Chu Kang North,290,Y
+2015,Females,70 - 74,Choa Chu Kang,Keat Hong,120,Y
+2015,Females,70 - 74,Choa Chu Kang,Peng Siang,240,Y
+2015,Females,70 - 74,Choa Chu Kang,Teck Whye,380,Y
+2015,Females,70 - 74,Choa Chu Kang,Yew Tee,350,Y
+2015,Females,70 - 74,Clementi,Clementi Central,270,Y
+2015,Females,70 - 74,Clementi,Clementi North,640,Y
+2015,Females,70 - 74,Clementi,Clementi West,270,Y
+2015,Females,70 - 74,Clementi,Clementi Woods,290,Y
+2015,Females,70 - 74,Clementi,Faber,80,Y
+2015,Females,70 - 74,Clementi,Sunset Way,130,Y
+2015,Females,70 - 74,Clementi,West Coast,70,Y
+2015,Females,70 - 74,Downtown Core,Bugis,70,Y
+2015,Females,70 - 74,Geylang,Aljunied,690,Y
+2015,Females,70 - 74,Geylang,Geylang East,570,Y
+2015,Females,70 - 74,Geylang,Kampong Ubi,160,Y
+2015,Females,70 - 74,Geylang,Macpherson,630,Y
+2015,Females,70 - 74,Hougang,Hougang Central,60,Y
+2015,Females,70 - 74,Hougang,Hougang East,250,Y
+2015,Females,70 - 74,Hougang,Hougang West,700,Y
+2015,Females,70 - 74,Hougang,Kangkar,430,Y
+2015,Females,70 - 74,Hougang,Kovan,360,Y
+2015,Females,70 - 74,Hougang,Lorong Ah Soo,650,Y
+2015,Females,70 - 74,Hougang,Tai Seng,230,Y
+2015,Females,70 - 74,Hougang,Trafalgar,470,Y
+2015,Females,70 - 74,Jurong East,Lakeside,30,Y
+2015,Females,70 - 74,Jurong East,Teban Gardens,300,Y
+2015,Females,70 - 74,Jurong East,Toh Guan,140,Y
+2015,Females,70 - 74,Jurong East,Yuhua East,430,Y
+2015,Females,70 - 74,Jurong East,Yuhua West,280,Y
+2015,Females,70 - 74,Jurong West,Boon Lay Place,390,Y
+2015,Females,70 - 74,Jurong West,Hong Kah,780,Y
+2015,Females,70 - 74,Jurong West,Jurong West Central,450,Y
+2015,Females,70 - 74,Jurong West,Taman Jurong,420,Y
+2015,Females,70 - 74,Jurong West,Wenya,60,Y
+2015,Females,70 - 74,Jurong West,Yunnan,610,Y
+2015,Females,70 - 74,Kallang,Bendemeer,700,Y
+2015,Females,70 - 74,Kallang,Boon Keng,220,Y
+2015,Females,70 - 74,Kallang,Crawford,260,Y
+2015,Females,70 - 74,Kallang,Geylang Bahru,300,Y
+2015,Females,70 - 74,Kallang,Kampong Bugis,10,Y
+2015,Females,70 - 74,Kallang,Kampong Java,210,Y
+2015,Females,70 - 74,Kallang,Lavender,170,Y
+2015,Females,70 - 74,Kallang,Tanjong Rhu,160,Y
+2015,Females,70 - 74,Mandai,Mandai Estate,30,Y
+2015,Females,70 - 74,Marine Parade,Katong,140,Y
+2015,Females,70 - 74,Marine Parade,Marine Parade,690,Y
+2015,Females,70 - 74,Marine Parade,Mountbatten,160,Y
+2015,Females,70 - 74,Newton,Cairnhill,50,Y
+2015,Females,70 - 74,Newton,Goodwood Park,10,Y
+2015,Females,70 - 74,Newton,Monk's Hill,20,Y
+2015,Females,70 - 74,Newton,Orange Grove,10,Y
+2015,Females,70 - 74,Novena,Balestier,610,Y
+2015,Females,70 - 74,Novena,Dunearn,70,Y
+2015,Females,70 - 74,Novena,Malcolm,50,Y
+2015,Females,70 - 74,Novena,Moulmein,100,Y
+2015,Females,70 - 74,Novena,Mount Pleasant,10,Y
+2015,Females,70 - 74,Orchard,Boulevard,10,Y
+2015,Females,70 - 74,Outram,China Square,50,Y
+2015,Females,70 - 74,Outram,Chinatown,200,Y
+2015,Females,70 - 74,Outram,Pearl's Hill,200,Y
+2015,Females,70 - 74,Outram,People's Park,10,Y
+2015,Females,70 - 74,Pasir Ris,Flora Drive,140,Y
+2015,Females,70 - 74,Pasir Ris,Loyang East,30,Y
+2015,Females,70 - 74,Pasir Ris,Pasir Ris Central,220,Y
+2015,Females,70 - 74,Pasir Ris,Pasir Ris Drive,580,Y
+2015,Females,70 - 74,Pasir Ris,Pasir Ris Park,20,Y
+2015,Females,70 - 74,Pasir Ris,Pasir Ris West,320,Y
+2015,Females,70 - 74,Punggol,Matilda,210,Y
+2015,Females,70 - 74,Punggol,Northshore,10,Y
+2015,Females,70 - 74,Punggol,Punggol Field,400,Y
+2015,Females,70 - 74,Punggol,Punggol Town Centre,40,Y
+2015,Females,70 - 74,Punggol,Waterway East,210,Y
+2015,Females,70 - 74,Queenstown,Commonwealth,240,Y
+2015,Females,70 - 74,Queenstown,Dover,250,Y
+2015,Females,70 - 74,Queenstown,Ghim Moh,360,Y
+2015,Females,70 - 74,Queenstown,Holland Drive,480,Y
+2015,Females,70 - 74,Queenstown,Kent Ridge,20,Y
+2015,Females,70 - 74,Queenstown,Margaret Drive,190,Y
+2015,Females,70 - 74,Queenstown,Mei Chin,340,Y
+2015,Females,70 - 74,Queenstown,Pasir Panjang 1,40,Y
+2015,Females,70 - 74,Queenstown,Pasir Panjang 2,40,Y
+2015,Females,70 - 74,Queenstown,Tanglin Halt,350,Y
+2015,Females,70 - 74,River Valley,Institution Hill,30,Y
+2015,Females,70 - 74,River Valley,Leonie Hill,30,Y
+2015,Females,70 - 74,River Valley,One Tree Hill,50,Y
+2015,Females,70 - 74,River Valley,Oxley,30,Y
+2015,Females,70 - 74,Rochor,Bencoolen,30,Y
+2015,Females,70 - 74,Rochor,Farrer Park,60,Y
+2015,Females,70 - 74,Rochor,Little India,100,Y
+2015,Females,70 - 74,Rochor,Mount Emily,10,Y
+2015,Females,70 - 74,Rochor,Sungei Road,60,Y
+2015,Females,70 - 74,Rochor,Victoria,60,Y
+2015,Females,70 - 74,Sembawang,Admiralty,150,Y
+2015,Females,70 - 74,Sembawang,Sembawang Central,270,Y
+2015,Females,70 - 74,Sembawang,Sembawang North,210,Y
+2015,Females,70 - 74,Sembawang,Sembawang Springs,60,Y
+2015,Females,70 - 74,Sembawang,Sembawang Straits,30,Y
+2015,Females,70 - 74,Sengkang,Anchorvale,320,Y
+2015,Females,70 - 74,Sengkang,Compassvale,160,Y
+2015,Females,70 - 74,Sengkang,Fernvale,290,Y
+2015,Females,70 - 74,Sengkang,Rivervale,520,Y
+2015,Females,70 - 74,Sengkang,Sengkang Town Centre,500,Y
+2015,Females,70 - 74,Serangoon,Lorong Chuan,110,Y
+2015,Females,70 - 74,Serangoon,Seletar Hills,230,Y
+2015,Females,70 - 74,Serangoon,Serangoon Central,440,Y
+2015,Females,70 - 74,Serangoon,Serangoon Garden,730,Y
+2015,Females,70 - 74,Serangoon,Serangoon North,220,Y
+2015,Females,70 - 74,Serangoon,Upper Paya Lebar,270,Y
+2015,Females,70 - 74,Singapore River,Robertson Quay,20,Y
+2015,Females,70 - 74,Southern Islands,Sentosa,10,Y
+2015,Females,70 - 74,Sungei Kadut,Gali Batu,10,Y
+2015,Females,70 - 74,Sungei Kadut,Turf Club,10,Y
+2015,Females,70 - 74,Tampines,Simei,450,Y
+2015,Females,70 - 74,Tampines,Tampines East,1640,Y
+2015,Females,70 - 74,Tampines,Tampines West,870,Y
+2015,Females,70 - 74,Tampines,Xilin,10,Y
+2015,Females,70 - 74,Tanglin,Chatsworth,100,Y
+2015,Females,70 - 74,Tanglin,Nassim,100,Y
+2015,Females,70 - 74,Tanglin,Ridout,10,Y
+2015,Females,70 - 74,Tanglin,Tyersall,60,Y
+2015,Females,70 - 74,Toa Payoh,Boon Teck,400,Y
+2015,Females,70 - 74,Toa Payoh,Braddell,240,Y
+2015,Females,70 - 74,Toa Payoh,Joo Seng,120,Y
+2015,Females,70 - 74,Toa Payoh,Kim Keat,190,Y
+2015,Females,70 - 74,Toa Payoh,Lorong 8 Toa Payoh,210,Y
+2015,Females,70 - 74,Toa Payoh,Pei Chun,300,Y
+2015,Females,70 - 74,Toa Payoh,Potong Pasir,240,Y
+2015,Females,70 - 74,Toa Payoh,Sennett,100,Y
+2015,Females,70 - 74,Toa Payoh,Toa Payoh Central,600,Y
+2015,Females,70 - 74,Toa Payoh,Toa Payoh West,390,Y
+2015,Females,70 - 74,Toa Payoh,Woodleigh,20,Y
+2015,Females,70 - 74,Western Water Catchment,Western Water Catchment,10,Y
+2015,Females,70 - 74,Woodlands,Midview,300,Y
+2015,Females,70 - 74,Woodlands,North Coast,220,Y
+2015,Females,70 - 74,Woodlands,Woodgrove,330,Y
+2015,Females,70 - 74,Woodlands,Woodlands East,630,Y
+2015,Females,70 - 74,Woodlands,Woodlands South,270,Y
+2015,Females,70 - 74,Woodlands,Woodlands West,440,Y
+2015,Females,70 - 74,Yishun,Khatib,150,Y
+2015,Females,70 - 74,Yishun,Lower Seletar,10,Y
+2015,Females,70 - 74,Yishun,Nee Soon,20,Y
+2015,Females,70 - 74,Yishun,Northland,360,Y
+2015,Females,70 - 74,Yishun,Springleaf,70,Y
+2015,Females,70 - 74,Yishun,Yishun Central,20,Y
+2015,Females,70 - 74,Yishun,Yishun East,410,Y
+2015,Females,70 - 74,Yishun,Yishun South,490,Y
+2015,Females,70 - 74,Yishun,Yishun West,800,Y
+2015,Females,75 - 79,Ang Mo Kio,Ang Mo Kio Town Centre,70,Y
+2015,Females,75 - 79,Ang Mo Kio,Cheng San,420,Y
+2015,Females,75 - 79,Ang Mo Kio,Chong Boon,500,Y
+2015,Females,75 - 79,Ang Mo Kio,Kebun Bahru,430,Y
+2015,Females,75 - 79,Ang Mo Kio,Sembawang Hills,110,Y
+2015,Females,75 - 79,Ang Mo Kio,Shangri-La,300,Y
+2015,Females,75 - 79,Ang Mo Kio,Tagore,90,Y
+2015,Females,75 - 79,Ang Mo Kio,Townsville,480,Y
+2015,Females,75 - 79,Ang Mo Kio,Yio Chu Kang East,40,Y
+2015,Females,75 - 79,Ang Mo Kio,Yio Chu Kang West,360,Y
+2015,Females,75 - 79,Bedok,Bayshore,60,Y
+2015,Females,75 - 79,Bedok,Bedok North,1270,Y
+2015,Females,75 - 79,Bedok,Bedok Reservoir,220,Y
+2015,Females,75 - 79,Bedok,Bedok South,850,Y
+2015,Females,75 - 79,Bedok,Frankel,510,Y
+2015,Females,75 - 79,Bedok,Kaki Bukit,430,Y
+2015,Females,75 - 79,Bedok,Kembangan,590,Y
+2015,Females,75 - 79,Bedok,Siglap,150,Y
+2015,Females,75 - 79,Bishan,Bishan East,380,Y
+2015,Females,75 - 79,Bishan,Marymount,310,Y
+2015,Females,75 - 79,Bishan,Upper Thomson,490,Y
+2015,Females,75 - 79,Bukit Batok,Bukit Batok Central,250,Y
+2015,Females,75 - 79,Bukit Batok,Bukit Batok East,130,Y
+2015,Females,75 - 79,Bukit Batok,Bukit Batok South,100,Y
+2015,Females,75 - 79,Bukit Batok,Bukit Batok West,130,Y
+2015,Females,75 - 79,Bukit Batok,Gombak,110,Y
+2015,Females,75 - 79,Bukit Batok,Guilin,110,Y
+2015,Females,75 - 79,Bukit Batok,Hillview,140,Y
+2015,Females,75 - 79,Bukit Batok,Hong Kah North,220,Y
+2015,Females,75 - 79,Bukit Merah,Alexandra Hill,280,Y
+2015,Females,75 - 79,Bukit Merah,Alexandra North,10,Y
+2015,Females,75 - 79,Bukit Merah,Bukit Ho Swee,380,Y
+2015,Females,75 - 79,Bukit Merah,Bukit Merah,20,Y
+2015,Females,75 - 79,Bukit Merah,Depot Road,60,Y
+2015,Females,75 - 79,Bukit Merah,Everton Park,190,Y
+2015,Females,75 - 79,Bukit Merah,Henderson Hill,320,Y
+2015,Females,75 - 79,Bukit Merah,Kampong Tiong Bahru,240,Y
+2015,Females,75 - 79,Bukit Merah,Maritime Square,20,Y
+2015,Females,75 - 79,Bukit Merah,Redhill,220,Y
+2015,Females,75 - 79,Bukit Merah,Telok Blangah Drive,330,Y
+2015,Females,75 - 79,Bukit Merah,Telok Blangah Rise,240,Y
+2015,Females,75 - 79,Bukit Merah,Telok Blangah Way,230,Y
+2015,Females,75 - 79,Bukit Merah,Tiong Bahru,240,Y
+2015,Females,75 - 79,Bukit Merah,Tiong Bahru Station,330,Y
+2015,Females,75 - 79,Bukit Panjang,Bangkit,270,Y
+2015,Females,75 - 79,Bukit Panjang,Dairy Farm,40,Y
+2015,Females,75 - 79,Bukit Panjang,Fajar,200,Y
+2015,Females,75 - 79,Bukit Panjang,Jelebu,320,Y
+2015,Females,75 - 79,Bukit Panjang,Nature Reserve,30,Y
+2015,Females,75 - 79,Bukit Panjang,Saujana,140,Y
+2015,Females,75 - 79,Bukit Panjang,Senja,110,Y
+2015,Females,75 - 79,Bukit Timah,Anak Bukit,300,Y
+2015,Females,75 - 79,Bukit Timah,Coronation Road,100,Y
+2015,Females,75 - 79,Bukit Timah,Farrer Court,70,Y
+2015,Females,75 - 79,Bukit Timah,Hillcrest,130,Y
+2015,Females,75 - 79,Bukit Timah,Holland Road,130,Y
+2015,Females,75 - 79,Bukit Timah,Leedon Park,80,Y
+2015,Females,75 - 79,Bukit Timah,Swiss Club,70,Y
+2015,Females,75 - 79,Bukit Timah,Ulu Pandan,160,Y
+2015,Females,75 - 79,Changi,Changi Point,10,Y
+2015,Females,75 - 79,Changi,Changi West,10,Y
+2015,Females,75 - 79,Choa Chu Kang,Choa Chu Kang Central,140,Y
+2015,Females,75 - 79,Choa Chu Kang,Choa Chu Kang North,230,Y
+2015,Females,75 - 79,Choa Chu Kang,Keat Hong,110,Y
+2015,Females,75 - 79,Choa Chu Kang,Peng Siang,210,Y
+2015,Females,75 - 79,Choa Chu Kang,Teck Whye,280,Y
+2015,Females,75 - 79,Choa Chu Kang,Yew Tee,270,Y
+2015,Females,75 - 79,Clementi,Clementi Central,210,Y
+2015,Females,75 - 79,Clementi,Clementi North,560,Y
+2015,Females,75 - 79,Clementi,Clementi West,200,Y
+2015,Females,75 - 79,Clementi,Clementi Woods,240,Y
+2015,Females,75 - 79,Clementi,Faber,40,Y
+2015,Females,75 - 79,Clementi,Sunset Way,90,Y
+2015,Females,75 - 79,Clementi,West Coast,40,Y
+2015,Females,75 - 79,Downtown Core,Bugis,70,Y
+2015,Females,75 - 79,Geylang,Aljunied,670,Y
+2015,Females,75 - 79,Geylang,Geylang East,480,Y
+2015,Females,75 - 79,Geylang,Kampong Ubi,100,Y
+2015,Females,75 - 79,Geylang,Macpherson,600,Y
+2015,Females,75 - 79,Hougang,Hougang Central,70,Y
+2015,Females,75 - 79,Hougang,Hougang East,180,Y
+2015,Females,75 - 79,Hougang,Hougang West,540,Y
+2015,Females,75 - 79,Hougang,Kangkar,350,Y
+2015,Females,75 - 79,Hougang,Kovan,340,Y
+2015,Females,75 - 79,Hougang,Lorong Ah Soo,510,Y
+2015,Females,75 - 79,Hougang,Tai Seng,210,Y
+2015,Females,75 - 79,Hougang,Trafalgar,370,Y
+2015,Females,75 - 79,Jurong East,Lakeside,20,Y
+2015,Females,75 - 79,Jurong East,Teban Gardens,210,Y
+2015,Females,75 - 79,Jurong East,Toh Guan,130,Y
+2015,Females,75 - 79,Jurong East,Yuhua East,330,Y
+2015,Females,75 - 79,Jurong East,Yuhua West,260,Y
+2015,Females,75 - 79,Jurong West,Boon Lay Place,270,Y
+2015,Females,75 - 79,Jurong West,Hong Kah,510,Y
+2015,Females,75 - 79,Jurong West,Jurong West Central,350,Y
+2015,Females,75 - 79,Jurong West,Taman Jurong,290,Y
+2015,Females,75 - 79,Jurong West,Wenya,40,Y
+2015,Females,75 - 79,Jurong West,Yunnan,420,Y
+2015,Females,75 - 79,Kallang,Bendemeer,560,Y
+2015,Females,75 - 79,Kallang,Boon Keng,230,Y
+2015,Females,75 - 79,Kallang,Crawford,240,Y
+2015,Females,75 - 79,Kallang,Geylang Bahru,270,Y
+2015,Females,75 - 79,Kallang,Kampong Bugis,10,Y
+2015,Females,75 - 79,Kallang,Kampong Java,220,Y
+2015,Females,75 - 79,Kallang,Lavender,160,Y
+2015,Females,75 - 79,Kallang,Tanjong Rhu,130,Y
+2015,Females,75 - 79,Mandai,Mandai Estate,20,Y
+2015,Females,75 - 79,Marine Parade,Katong,140,Y
+2015,Females,75 - 79,Marine Parade,Marine Parade,670,Y
+2015,Females,75 - 79,Marine Parade,Mountbatten,110,Y
+2015,Females,75 - 79,Newton,Cairnhill,50,Y
+2015,Females,75 - 79,Newton,Goodwood Park,10,Y
+2015,Females,75 - 79,Newton,Monk's Hill,20,Y
+2015,Females,75 - 79,Newton,Orange Grove,20,Y
+2015,Females,75 - 79,Novena,Balestier,610,Y
+2015,Females,75 - 79,Novena,Dunearn,50,Y
+2015,Females,75 - 79,Novena,Malcolm,40,Y
+2015,Females,75 - 79,Novena,Moulmein,80,Y
+2015,Females,75 - 79,Novena,Mount Pleasant,10,Y
+2015,Females,75 - 79,Orchard,Boulevard,10,Y
+2015,Females,75 - 79,Outram,China Square,40,Y
+2015,Females,75 - 79,Outram,Chinatown,210,Y
+2015,Females,75 - 79,Outram,Pearl's Hill,190,Y
+2015,Females,75 - 79,Outram,People's Park,10,Y
+2015,Females,75 - 79,Pasir Ris,Flora Drive,100,Y
+2015,Females,75 - 79,Pasir Ris,Loyang East,20,Y
+2015,Females,75 - 79,Pasir Ris,Loyang West,20,Y
+2015,Females,75 - 79,Pasir Ris,Pasir Ris Central,200,Y
+2015,Females,75 - 79,Pasir Ris,Pasir Ris Drive,480,Y
+2015,Females,75 - 79,Pasir Ris,Pasir Ris Park,10,Y
+2015,Females,75 - 79,Pasir Ris,Pasir Ris West,270,Y
+2015,Females,75 - 79,Punggol,Matilda,130,Y
+2015,Females,75 - 79,Punggol,Punggol Field,280,Y
+2015,Females,75 - 79,Punggol,Punggol Town Centre,40,Y
+2015,Females,75 - 79,Punggol,Waterway East,130,Y
+2015,Females,75 - 79,Queenstown,Commonwealth,240,Y
+2015,Females,75 - 79,Queenstown,Dover,190,Y
+2015,Females,75 - 79,Queenstown,Ghim Moh,300,Y
+2015,Females,75 - 79,Queenstown,Holland Drive,420,Y
+2015,Females,75 - 79,Queenstown,Kent Ridge,10,Y
+2015,Females,75 - 79,Queenstown,Margaret Drive,200,Y
+2015,Females,75 - 79,Queenstown,Mei Chin,370,Y
+2015,Females,75 - 79,Queenstown,Pasir Panjang 1,40,Y
+2015,Females,75 - 79,Queenstown,Pasir Panjang 2,30,Y
+2015,Females,75 - 79,Queenstown,Tanglin Halt,350,Y
+2015,Females,75 - 79,River Valley,Institution Hill,30,Y
+2015,Females,75 - 79,River Valley,Leonie Hill,20,Y
+2015,Females,75 - 79,River Valley,One Tree Hill,20,Y
+2015,Females,75 - 79,River Valley,Oxley,30,Y
+2015,Females,75 - 79,Rochor,Bencoolen,30,Y
+2015,Females,75 - 79,Rochor,Farrer Park,40,Y
+2015,Females,75 - 79,Rochor,Little India,80,Y
+2015,Females,75 - 79,Rochor,Mount Emily,10,Y
+2015,Females,75 - 79,Rochor,Sungei Road,50,Y
+2015,Females,75 - 79,Rochor,Victoria,60,Y
+2015,Females,75 - 79,Sembawang,Admiralty,120,Y
+2015,Females,75 - 79,Sembawang,Sembawang Central,200,Y
+2015,Females,75 - 79,Sembawang,Sembawang North,150,Y
+2015,Females,75 - 79,Sembawang,Sembawang Springs,60,Y
+2015,Females,75 - 79,Sembawang,Sembawang Straits,10,Y
+2015,Females,75 - 79,Sengkang,Anchorvale,210,Y
+2015,Females,75 - 79,Sengkang,Compassvale,110,Y
+2015,Females,75 - 79,Sengkang,Fernvale,220,Y
+2015,Females,75 - 79,Sengkang,Rivervale,450,Y
+2015,Females,75 - 79,Sengkang,Sengkang Town Centre,400,Y
+2015,Females,75 - 79,Serangoon,Lorong Chuan,130,Y
+2015,Females,75 - 79,Serangoon,Seletar Hills,190,Y
+2015,Females,75 - 79,Serangoon,Serangoon Central,390,Y
+2015,Females,75 - 79,Serangoon,Serangoon Garden,640,Y
+2015,Females,75 - 79,Serangoon,Serangoon North,140,Y
+2015,Females,75 - 79,Serangoon,Upper Paya Lebar,210,Y
+2015,Females,75 - 79,Singapore River,Robertson Quay,20,Y
+2015,Females,75 - 79,Southern Islands,Sentosa,10,Y
+2015,Females,75 - 79,Sungei Kadut,Gali Batu,10,Y
+2015,Females,75 - 79,Sungei Kadut,Turf Club,10,Y
+2015,Females,75 - 79,Tampines,Simei,390,Y
+2015,Females,75 - 79,Tampines,Tampines East,1390,Y
+2015,Females,75 - 79,Tampines,Tampines West,690,Y
+2015,Females,75 - 79,Tampines,Xilin,20,Y
+2015,Females,75 - 79,Tanglin,Chatsworth,50,Y
+2015,Females,75 - 79,Tanglin,Nassim,80,Y
+2015,Females,75 - 79,Tanglin,Ridout,30,Y
+2015,Females,75 - 79,Tanglin,Tyersall,50,Y
+2015,Females,75 - 79,Toa Payoh,Boon Teck,390,Y
+2015,Females,75 - 79,Toa Payoh,Braddell,230,Y
+2015,Females,75 - 79,Toa Payoh,Joo Seng,130,Y
+2015,Females,75 - 79,Toa Payoh,Kim Keat,140,Y
+2015,Females,75 - 79,Toa Payoh,Lorong 8 Toa Payoh,190,Y
+2015,Females,75 - 79,Toa Payoh,Pei Chun,260,Y
+2015,Females,75 - 79,Toa Payoh,Potong Pasir,190,Y
+2015,Females,75 - 79,Toa Payoh,Sennett,80,Y
+2015,Females,75 - 79,Toa Payoh,Toa Payoh Central,560,Y
+2015,Females,75 - 79,Toa Payoh,Toa Payoh West,420,Y
+2015,Females,75 - 79,Toa Payoh,Woodleigh,10,Y
+2015,Females,75 - 79,Woodlands,Midview,230,Y
+2015,Females,75 - 79,Woodlands,North Coast,180,Y
+2015,Females,75 - 79,Woodlands,Woodgrove,240,Y
+2015,Females,75 - 79,Woodlands,Woodlands East,540,Y
+2015,Females,75 - 79,Woodlands,Woodlands South,170,Y
+2015,Females,75 - 79,Woodlands,Woodlands West,350,Y
+2015,Females,75 - 79,Yishun,Khatib,100,Y
+2015,Females,75 - 79,Yishun,Lower Seletar,20,Y
+2015,Females,75 - 79,Yishun,Nee Soon,10,Y
+2015,Females,75 - 79,Yishun,Northland,250,Y
+2015,Females,75 - 79,Yishun,Springleaf,40,Y
+2015,Females,75 - 79,Yishun,Yishun Central,20,Y
+2015,Females,75 - 79,Yishun,Yishun East,320,Y
+2015,Females,75 - 79,Yishun,Yishun South,360,Y
+2015,Females,75 - 79,Yishun,Yishun West,620,Y
+2015,Females,80 - 84,Ang Mo Kio,Ang Mo Kio Town Centre,40,Y
+2015,Females,80 - 84,Ang Mo Kio,Cheng San,280,Y
+2015,Females,80 - 84,Ang Mo Kio,Chong Boon,310,Y
+2015,Females,80 - 84,Ang Mo Kio,Kebun Bahru,300,Y
+2015,Females,80 - 84,Ang Mo Kio,Sembawang Hills,80,Y
+2015,Females,80 - 84,Ang Mo Kio,Shangri-La,250,Y
+2015,Females,80 - 84,Ang Mo Kio,Tagore,70,Y
+2015,Females,80 - 84,Ang Mo Kio,Townsville,330,Y
+2015,Females,80 - 84,Ang Mo Kio,Yio Chu Kang East,20,Y
+2015,Females,80 - 84,Ang Mo Kio,Yio Chu Kang West,230,Y
+2015,Females,80 - 84,Bedok,Bayshore,40,Y
+2015,Females,80 - 84,Bedok,Bedok North,880,Y
+2015,Females,80 - 84,Bedok,Bedok Reservoir,150,Y
+2015,Females,80 - 84,Bedok,Bedok South,600,Y
+2015,Females,80 - 84,Bedok,Frankel,390,Y
+2015,Females,80 - 84,Bedok,Kaki Bukit,260,Y
+2015,Females,80 - 84,Bedok,Kembangan,430,Y
+2015,Females,80 - 84,Bedok,Siglap,100,Y
+2015,Females,80 - 84,Bishan,Bishan East,250,Y
+2015,Females,80 - 84,Bishan,Marymount,200,Y
+2015,Females,80 - 84,Bishan,Upper Thomson,390,Y
+2015,Females,80 - 84,Bukit Batok,Bukit Batok Central,190,Y
+2015,Females,80 - 84,Bukit Batok,Bukit Batok East,110,Y
+2015,Females,80 - 84,Bukit Batok,Bukit Batok South,70,Y
+2015,Females,80 - 84,Bukit Batok,Bukit Batok West,110,Y
+2015,Females,80 - 84,Bukit Batok,Gombak,90,Y
+2015,Females,80 - 84,Bukit Batok,Guilin,70,Y
+2015,Females,80 - 84,Bukit Batok,Hillview,90,Y
+2015,Females,80 - 84,Bukit Batok,Hong Kah North,160,Y
+2015,Females,80 - 84,Bukit Merah,Alexandra Hill,210,Y
+2015,Females,80 - 84,Bukit Merah,Bukit Ho Swee,290,Y
+2015,Females,80 - 84,Bukit Merah,Bukit Merah,10,Y
+2015,Females,80 - 84,Bukit Merah,Depot Road,40,Y
+2015,Females,80 - 84,Bukit Merah,Everton Park,110,Y
+2015,Females,80 - 84,Bukit Merah,Henderson Hill,220,Y
+2015,Females,80 - 84,Bukit Merah,Kampong Tiong Bahru,150,Y
+2015,Females,80 - 84,Bukit Merah,Redhill,150,Y
+2015,Females,80 - 84,Bukit Merah,Telok Blangah Drive,200,Y
+2015,Females,80 - 84,Bukit Merah,Telok Blangah Rise,160,Y
+2015,Females,80 - 84,Bukit Merah,Telok Blangah Way,160,Y
+2015,Females,80 - 84,Bukit Merah,Tiong Bahru,150,Y
+2015,Females,80 - 84,Bukit Merah,Tiong Bahru Station,200,Y
+2015,Females,80 - 84,Bukit Panjang,Bangkit,200,Y
+2015,Females,80 - 84,Bukit Panjang,Dairy Farm,30,Y
+2015,Females,80 - 84,Bukit Panjang,Fajar,140,Y
+2015,Females,80 - 84,Bukit Panjang,Jelebu,190,Y
+2015,Females,80 - 84,Bukit Panjang,Nature Reserve,20,Y
+2015,Females,80 - 84,Bukit Panjang,Saujana,110,Y
+2015,Females,80 - 84,Bukit Panjang,Senja,90,Y
+2015,Females,80 - 84,Bukit Timah,Anak Bukit,190,Y
+2015,Females,80 - 84,Bukit Timah,Coronation Road,60,Y
+2015,Females,80 - 84,Bukit Timah,Farrer Court,60,Y
+2015,Females,80 - 84,Bukit Timah,Hillcrest,100,Y
+2015,Females,80 - 84,Bukit Timah,Holland Road,80,Y
+2015,Females,80 - 84,Bukit Timah,Leedon Park,50,Y
+2015,Females,80 - 84,Bukit Timah,Swiss Club,60,Y
+2015,Females,80 - 84,Bukit Timah,Ulu Pandan,80,Y
+2015,Females,80 - 84,Changi,Changi Point,10,Y
+2015,Females,80 - 84,Changi,Changi West,10,Y
+2015,Females,80 - 84,Choa Chu Kang,Choa Chu Kang Central,100,Y
+2015,Females,80 - 84,Choa Chu Kang,Choa Chu Kang North,170,Y
+2015,Females,80 - 84,Choa Chu Kang,Keat Hong,100,Y
+2015,Females,80 - 84,Choa Chu Kang,Peng Siang,160,Y
+2015,Females,80 - 84,Choa Chu Kang,Teck Whye,180,Y
+2015,Females,80 - 84,Choa Chu Kang,Yew Tee,180,Y
+2015,Females,80 - 84,Clementi,Clementi Central,140,Y
+2015,Females,80 - 84,Clementi,Clementi North,350,Y
+2015,Females,80 - 84,Clementi,Clementi West,120,Y
+2015,Females,80 - 84,Clementi,Clementi Woods,150,Y
+2015,Females,80 - 84,Clementi,Faber,30,Y
+2015,Females,80 - 84,Clementi,Sunset Way,60,Y
+2015,Females,80 - 84,Clementi,West Coast,30,Y
+2015,Females,80 - 84,Downtown Core,Bugis,40,Y
+2015,Females,80 - 84,Geylang,Aljunied,490,Y
+2015,Females,80 - 84,Geylang,Geylang East,360,Y
+2015,Females,80 - 84,Geylang,Kampong Ubi,70,Y
+2015,Females,80 - 84,Geylang,Macpherson,410,Y
+2015,Females,80 - 84,Hougang,Hougang Central,40,Y
+2015,Females,80 - 84,Hougang,Hougang East,150,Y
+2015,Females,80 - 84,Hougang,Hougang West,400,Y
+2015,Females,80 - 84,Hougang,Kangkar,230,Y
+2015,Females,80 - 84,Hougang,Kovan,200,Y
+2015,Females,80 - 84,Hougang,Lorong Ah Soo,370,Y
+2015,Females,80 - 84,Hougang,Tai Seng,150,Y
+2015,Females,80 - 84,Hougang,Trafalgar,310,Y
+2015,Females,80 - 84,Jurong East,Lakeside,10,Y
+2015,Females,80 - 84,Jurong East,Teban Gardens,130,Y
+2015,Females,80 - 84,Jurong East,Toh Guan,100,Y
+2015,Females,80 - 84,Jurong East,Yuhua East,220,Y
+2015,Females,80 - 84,Jurong East,Yuhua West,150,Y
+2015,Females,80 - 84,Jurong West,Boon Lay Place,150,Y
+2015,Females,80 - 84,Jurong West,Hong Kah,330,Y
+2015,Females,80 - 84,Jurong West,Jurong West Central,250,Y
+2015,Females,80 - 84,Jurong West,Taman Jurong,210,Y
+2015,Females,80 - 84,Jurong West,Wenya,30,Y
+2015,Females,80 - 84,Jurong West,Yunnan,290,Y
+2015,Females,80 - 84,Kallang,Bendemeer,390,Y
+2015,Females,80 - 84,Kallang,Boon Keng,160,Y
+2015,Females,80 - 84,Kallang,Crawford,160,Y
+2015,Females,80 - 84,Kallang,Geylang Bahru,190,Y
+2015,Females,80 - 84,Kallang,Kampong Bugis,10,Y
+2015,Females,80 - 84,Kallang,Kampong Java,130,Y
+2015,Females,80 - 84,Kallang,Lavender,90,Y
+2015,Females,80 - 84,Kallang,Tanjong Rhu,80,Y
+2015,Females,80 - 84,Mandai,Mandai Estate,10,Y
+2015,Females,80 - 84,Marine Parade,Katong,100,Y
+2015,Females,80 - 84,Marine Parade,Marine Parade,400,Y
+2015,Females,80 - 84,Marine Parade,Mountbatten,90,Y
+2015,Females,80 - 84,Newton,Cairnhill,30,Y
+2015,Females,80 - 84,Newton,Goodwood Park,10,Y
+2015,Females,80 - 84,Newton,Monk's Hill,10,Y
+2015,Females,80 - 84,Newton,Orange Grove,10,Y
+2015,Females,80 - 84,Novena,Balestier,430,Y
+2015,Females,80 - 84,Novena,Dunearn,50,Y
+2015,Females,80 - 84,Novena,Malcolm,30,Y
+2015,Females,80 - 84,Novena,Moulmein,60,Y
+2015,Females,80 - 84,Novena,Mount Pleasant,10,Y
+2015,Females,80 - 84,Outram,China Square,20,Y
+2015,Females,80 - 84,Outram,Chinatown,160,Y
+2015,Females,80 - 84,Outram,Pearl's Hill,120,Y
+2015,Females,80 - 84,Pasir Ris,Flora Drive,80,Y
+2015,Females,80 - 84,Pasir Ris,Loyang East,10,Y
+2015,Females,80 - 84,Pasir Ris,Loyang West,20,Y
+2015,Females,80 - 84,Pasir Ris,Pasir Ris Central,140,Y
+2015,Females,80 - 84,Pasir Ris,Pasir Ris Drive,360,Y
+2015,Females,80 - 84,Pasir Ris,Pasir Ris Park,10,Y
+2015,Females,80 - 84,Pasir Ris,Pasir Ris West,210,Y
+2015,Females,80 - 84,Punggol,Matilda,90,Y
+2015,Females,80 - 84,Punggol,Punggol Field,190,Y
+2015,Females,80 - 84,Punggol,Punggol Town Centre,20,Y
+2015,Females,80 - 84,Punggol,Waterway East,90,Y
+2015,Females,80 - 84,Queenstown,Commonwealth,190,Y
+2015,Females,80 - 84,Queenstown,Dover,120,Y
+2015,Females,80 - 84,Queenstown,Ghim Moh,200,Y
+2015,Females,80 - 84,Queenstown,Holland Drive,240,Y
+2015,Females,80 - 84,Queenstown,Margaret Drive,130,Y
+2015,Females,80 - 84,Queenstown,Mei Chin,260,Y
+2015,Females,80 - 84,Queenstown,Pasir Panjang 1,30,Y
+2015,Females,80 - 84,Queenstown,Pasir Panjang 2,20,Y
+2015,Females,80 - 84,Queenstown,Tanglin Halt,250,Y
+2015,Females,80 - 84,River Valley,Institution Hill,10,Y
+2015,Females,80 - 84,River Valley,Leonie Hill,10,Y
+2015,Females,80 - 84,River Valley,One Tree Hill,10,Y
+2015,Females,80 - 84,River Valley,Oxley,10,Y
+2015,Females,80 - 84,Rochor,Bencoolen,30,Y
+2015,Females,80 - 84,Rochor,Farrer Park,30,Y
+2015,Females,80 - 84,Rochor,Little India,40,Y
+2015,Females,80 - 84,Rochor,Selegie,10,Y
+2015,Females,80 - 84,Rochor,Sungei Road,30,Y
+2015,Females,80 - 84,Rochor,Victoria,30,Y
+2015,Females,80 - 84,Sembawang,Admiralty,80,Y
+2015,Females,80 - 84,Sembawang,Sembawang Central,150,Y
+2015,Females,80 - 84,Sembawang,Sembawang North,100,Y
+2015,Females,80 - 84,Sembawang,Sembawang Springs,40,Y
+2015,Females,80 - 84,Sembawang,Sembawang Straits,10,Y
+2015,Females,80 - 84,Sengkang,Anchorvale,130,Y
+2015,Females,80 - 84,Sengkang,Compassvale,50,Y
+2015,Females,80 - 84,Sengkang,Fernvale,200,Y
+2015,Females,80 - 84,Sengkang,Rivervale,300,Y
+2015,Females,80 - 84,Sengkang,Sengkang Town Centre,290,Y
+2015,Females,80 - 84,Serangoon,Lorong Chuan,80,Y
+2015,Females,80 - 84,Serangoon,Seletar Hills,120,Y
+2015,Females,80 - 84,Serangoon,Serangoon Central,230,Y
+2015,Females,80 - 84,Serangoon,Serangoon Garden,460,Y
+2015,Females,80 - 84,Serangoon,Serangoon North,110,Y
+2015,Females,80 - 84,Serangoon,Upper Paya Lebar,150,Y
+2015,Females,80 - 84,Sungei Kadut,Gali Batu,10,Y
+2015,Females,80 - 84,Sungei Kadut,Turf Club,10,Y
+2015,Females,80 - 84,Tampines,Simei,270,Y
+2015,Females,80 - 84,Tampines,Tampines East,960,Y
+2015,Females,80 - 84,Tampines,Tampines West,530,Y
+2015,Females,80 - 84,Tampines,Xilin,20,Y
+2015,Females,80 - 84,Tanglin,Chatsworth,30,Y
+2015,Females,80 - 84,Tanglin,Nassim,60,Y
+2015,Females,80 - 84,Tanglin,Ridout,10,Y
+2015,Females,80 - 84,Tanglin,Tyersall,30,Y
+2015,Females,80 - 84,Toa Payoh,Boon Teck,270,Y
+2015,Females,80 - 84,Toa Payoh,Braddell,130,Y
+2015,Females,80 - 84,Toa Payoh,Joo Seng,100,Y
+2015,Females,80 - 84,Toa Payoh,Kim Keat,100,Y
+2015,Females,80 - 84,Toa Payoh,Lorong 8 Toa Payoh,120,Y
+2015,Females,80 - 84,Toa Payoh,Pei Chun,170,Y
+2015,Females,80 - 84,Toa Payoh,Potong Pasir,130,Y
+2015,Females,80 - 84,Toa Payoh,Sennett,80,Y
+2015,Females,80 - 84,Toa Payoh,Toa Payoh Central,370,Y
+2015,Females,80 - 84,Toa Payoh,Toa Payoh West,220,Y
+2015,Females,80 - 84,Toa Payoh,Woodleigh,10,Y
+2015,Females,80 - 84,Western Water Catchment,Western Water Catchment,10,Y
+2015,Females,80 - 84,Woodlands,Midview,150,Y
+2015,Females,80 - 84,Woodlands,North Coast,100,Y
+2015,Females,80 - 84,Woodlands,Woodgrove,150,Y
+2015,Females,80 - 84,Woodlands,Woodlands East,350,Y
+2015,Females,80 - 84,Woodlands,Woodlands South,140,Y
+2015,Females,80 - 84,Woodlands,Woodlands West,220,Y
+2015,Females,80 - 84,Yishun,Khatib,60,Y
+2015,Females,80 - 84,Yishun,Nee Soon,10,Y
+2015,Females,80 - 84,Yishun,Northland,170,Y
+2015,Females,80 - 84,Yishun,Springleaf,30,Y
+2015,Females,80 - 84,Yishun,Yishun Central,10,Y
+2015,Females,80 - 84,Yishun,Yishun East,230,Y
+2015,Females,80 - 84,Yishun,Yishun South,270,Y
+2015,Females,80 - 84,Yishun,Yishun West,390,Y
+2015,Females,85 & Over,Ang Mo Kio,Ang Mo Kio Town Centre,40,Y
+2015,Females,85 & Over,Ang Mo Kio,Cheng San,260,Y
+2015,Females,85 & Over,Ang Mo Kio,Chong Boon,240,Y
+2015,Females,85 & Over,Ang Mo Kio,Kebun Bahru,230,Y
+2015,Females,85 & Over,Ang Mo Kio,Sembawang Hills,80,Y
+2015,Females,85 & Over,Ang Mo Kio,Shangri-La,160,Y
+2015,Females,85 & Over,Ang Mo Kio,Tagore,80,Y
+2015,Females,85 & Over,Ang Mo Kio,Townsville,250,Y
+2015,Females,85 & Over,Ang Mo Kio,Yio Chu Kang East,40,Y
+2015,Females,85 & Over,Ang Mo Kio,Yio Chu Kang West,160,Y
+2015,Females,85 & Over,Bedok,Bayshore,70,Y
+2015,Females,85 & Over,Bedok,Bedok North,760,Y
+2015,Females,85 & Over,Bedok,Bedok Reservoir,120,Y
+2015,Females,85 & Over,Bedok,Bedok South,560,Y
+2015,Females,85 & Over,Bedok,Frankel,420,Y
+2015,Females,85 & Over,Bedok,Kaki Bukit,270,Y
+2015,Females,85 & Over,Bedok,Kembangan,430,Y
+2015,Females,85 & Over,Bedok,Siglap,70,Y
+2015,Females,85 & Over,Bishan,Bishan East,210,Y
+2015,Females,85 & Over,Bishan,Marymount,200,Y
+2015,Females,85 & Over,Bishan,Upper Thomson,350,Y
+2015,Females,85 & Over,Bukit Batok,Bukit Batok Central,150,Y
+2015,Females,85 & Over,Bukit Batok,Bukit Batok East,80,Y
+2015,Females,85 & Over,Bukit Batok,Bukit Batok South,60,Y
+2015,Females,85 & Over,Bukit Batok,Bukit Batok West,110,Y
+2015,Females,85 & Over,Bukit Batok,Gombak,70,Y
+2015,Females,85 & Over,Bukit Batok,Guilin,70,Y
+2015,Females,85 & Over,Bukit Batok,Hillview,90,Y
+2015,Females,85 & Over,Bukit Batok,Hong Kah North,110,Y
+2015,Females,85 & Over,Bukit Merah,Alexandra Hill,240,Y
+2015,Females,85 & Over,Bukit Merah,Bukit Ho Swee,250,Y
+2015,Females,85 & Over,Bukit Merah,Bukit Merah,20,Y
+2015,Females,85 & Over,Bukit Merah,Depot Road,50,Y
+2015,Females,85 & Over,Bukit Merah,Everton Park,110,Y
+2015,Females,85 & Over,Bukit Merah,Henderson Hill,160,Y
+2015,Females,85 & Over,Bukit Merah,Kampong Tiong Bahru,140,Y
+2015,Females,85 & Over,Bukit Merah,Maritime Square,10,Y
+2015,Females,85 & Over,Bukit Merah,Redhill,210,Y
+2015,Females,85 & Over,Bukit Merah,Telok Blangah Drive,170,Y
+2015,Females,85 & Over,Bukit Merah,Telok Blangah Rise,150,Y
+2015,Females,85 & Over,Bukit Merah,Telok Blangah Way,120,Y
+2015,Females,85 & Over,Bukit Merah,Tiong Bahru,200,Y
+2015,Females,85 & Over,Bukit Merah,Tiong Bahru Station,180,Y
+2015,Females,85 & Over,Bukit Panjang,Bangkit,160,Y
+2015,Females,85 & Over,Bukit Panjang,Dairy Farm,30,Y
+2015,Females,85 & Over,Bukit Panjang,Fajar,120,Y
+2015,Females,85 & Over,Bukit Panjang,Jelebu,170,Y
+2015,Females,85 & Over,Bukit Panjang,Nature Reserve,20,Y
+2015,Females,85 & Over,Bukit Panjang,Saujana,110,Y
+2015,Females,85 & Over,Bukit Panjang,Senja,90,Y
+2015,Females,85 & Over,Bukit Timah,Anak Bukit,160,Y
+2015,Females,85 & Over,Bukit Timah,Coronation Road,60,Y
+2015,Females,85 & Over,Bukit Timah,Farrer Court,50,Y
+2015,Females,85 & Over,Bukit Timah,Hillcrest,80,Y
+2015,Females,85 & Over,Bukit Timah,Holland Road,80,Y
+2015,Females,85 & Over,Bukit Timah,Leedon Park,60,Y
+2015,Females,85 & Over,Bukit Timah,Swiss Club,60,Y
+2015,Females,85 & Over,Bukit Timah,Ulu Pandan,80,Y
+2015,Females,85 & Over,Changi,Changi Point,20,Y
+2015,Females,85 & Over,Choa Chu Kang,Choa Chu Kang Central,90,Y
+2015,Females,85 & Over,Choa Chu Kang,Choa Chu Kang North,110,Y
+2015,Females,85 & Over,Choa Chu Kang,Keat Hong,70,Y
+2015,Females,85 & Over,Choa Chu Kang,Peng Siang,150,Y
+2015,Females,85 & Over,Choa Chu Kang,Teck Whye,150,Y
+2015,Females,85 & Over,Choa Chu Kang,Yew Tee,130,Y
+2015,Females,85 & Over,Clementi,Clementi Central,120,Y
+2015,Females,85 & Over,Clementi,Clementi North,330,Y
+2015,Females,85 & Over,Clementi,Clementi West,100,Y
+2015,Females,85 & Over,Clementi,Clementi Woods,130,Y
+2015,Females,85 & Over,Clementi,Faber,30,Y
+2015,Females,85 & Over,Clementi,Sunset Way,50,Y
+2015,Females,85 & Over,Clementi,West Coast,30,Y
+2015,Females,85 & Over,Downtown Core,Bugis,40,Y
+2015,Females,85 & Over,Geylang,Aljunied,470,Y
+2015,Females,85 & Over,Geylang,Geylang East,340,Y
+2015,Females,85 & Over,Geylang,Kampong Ubi,50,Y
+2015,Females,85 & Over,Geylang,Macpherson,320,Y
+2015,Females,85 & Over,Hougang,Hougang Central,40,Y
+2015,Females,85 & Over,Hougang,Hougang East,120,Y
+2015,Females,85 & Over,Hougang,Hougang West,290,Y
+2015,Females,85 & Over,Hougang,Kangkar,190,Y
+2015,Females,85 & Over,Hougang,Kovan,240,Y
+2015,Females,85 & Over,Hougang,Lorong Ah Soo,300,Y
+2015,Females,85 & Over,Hougang,Tai Seng,170,Y
+2015,Females,85 & Over,Hougang,Trafalgar,280,Y
+2015,Females,85 & Over,Jurong East,Lakeside,10,Y
+2015,Females,85 & Over,Jurong East,Teban Gardens,110,Y
+2015,Females,85 & Over,Jurong East,Toh Guan,70,Y
+2015,Females,85 & Over,Jurong East,Yuhua East,180,Y
+2015,Females,85 & Over,Jurong East,Yuhua West,140,Y
+2015,Females,85 & Over,Jurong West,Boon Lay Place,130,Y
+2015,Females,85 & Over,Jurong West,Hong Kah,270,Y
+2015,Females,85 & Over,Jurong West,Jurong West Central,170,Y
+2015,Females,85 & Over,Jurong West,Taman Jurong,140,Y
+2015,Females,85 & Over,Jurong West,Wenya,10,Y
+2015,Females,85 & Over,Jurong West,Yunnan,220,Y
+2015,Females,85 & Over,Kallang,Bendemeer,390,Y
+2015,Females,85 & Over,Kallang,Boon Keng,130,Y
+2015,Females,85 & Over,Kallang,Crawford,130,Y
+2015,Females,85 & Over,Kallang,Geylang Bahru,150,Y
+2015,Females,85 & Over,Kallang,Kampong Bugis,10,Y
+2015,Females,85 & Over,Kallang,Kampong Java,130,Y
+2015,Females,85 & Over,Kallang,Lavender,90,Y
+2015,Females,85 & Over,Kallang,Tanjong Rhu,90,Y
+2015,Females,85 & Over,Mandai,Mandai Estate,10,Y
+2015,Females,85 & Over,Marine Parade,Katong,130,Y
+2015,Females,85 & Over,Marine Parade,Marine Parade,380,Y
+2015,Females,85 & Over,Marine Parade,Mountbatten,110,Y
+2015,Females,85 & Over,Newton,Cairnhill,30,Y
+2015,Females,85 & Over,Newton,Goodwood Park,10,Y
+2015,Females,85 & Over,Newton,Monk's Hill,10,Y
+2015,Females,85 & Over,Newton,Orange Grove,10,Y
+2015,Females,85 & Over,Novena,Balestier,450,Y
+2015,Females,85 & Over,Novena,Dunearn,50,Y
+2015,Females,85 & Over,Novena,Malcolm,40,Y
+2015,Females,85 & Over,Novena,Moulmein,60,Y
+2015,Females,85 & Over,Novena,Mount Pleasant,10,Y
+2015,Females,85 & Over,Outram,China Square,30,Y
+2015,Females,85 & Over,Outram,Chinatown,200,Y
+2015,Females,85 & Over,Outram,Pearl's Hill,170,Y
+2015,Females,85 & Over,Pasir Ris,Flora Drive,160,Y
+2015,Females,85 & Over,Pasir Ris,Loyang East,20,Y
+2015,Females,85 & Over,Pasir Ris,Loyang West,50,Y
+2015,Females,85 & Over,Pasir Ris,Pasir Ris Central,120,Y
+2015,Females,85 & Over,Pasir Ris,Pasir Ris Drive,300,Y
+2015,Females,85 & Over,Pasir Ris,Pasir Ris Park,10,Y
+2015,Females,85 & Over,Pasir Ris,Pasir Ris West,150,Y
+2015,Females,85 & Over,Punggol,Matilda,80,Y
+2015,Females,85 & Over,Punggol,Punggol Field,200,Y
+2015,Females,85 & Over,Punggol,Punggol Town Centre,10,Y
+2015,Females,85 & Over,Punggol,Waterway East,80,Y
+2015,Females,85 & Over,Queenstown,Commonwealth,140,Y
+2015,Females,85 & Over,Queenstown,Dover,100,Y
+2015,Females,85 & Over,Queenstown,Ghim Moh,160,Y
+2015,Females,85 & Over,Queenstown,Holland Drive,200,Y
+2015,Females,85 & Over,Queenstown,Margaret Drive,100,Y
+2015,Females,85 & Over,Queenstown,Mei Chin,210,Y
+2015,Females,85 & Over,Queenstown,Pasir Panjang 1,30,Y
+2015,Females,85 & Over,Queenstown,Pasir Panjang 2,20,Y
+2015,Females,85 & Over,Queenstown,Tanglin Halt,190,Y
+2015,Females,85 & Over,River Valley,Institution Hill,10,Y
+2015,Females,85 & Over,River Valley,Leonie Hill,10,Y
+2015,Females,85 & Over,River Valley,One Tree Hill,30,Y
+2015,Females,85 & Over,River Valley,Oxley,30,Y
+2015,Females,85 & Over,Rochor,Bencoolen,20,Y
+2015,Females,85 & Over,Rochor,Farrer Park,30,Y
+2015,Females,85 & Over,Rochor,Little India,30,Y
+2015,Females,85 & Over,Rochor,Mount Emily,10,Y
+2015,Females,85 & Over,Rochor,Sungei Road,30,Y
+2015,Females,85 & Over,Rochor,Victoria,30,Y
+2015,Females,85 & Over,Sembawang,Admiralty,50,Y
+2015,Females,85 & Over,Sembawang,Sembawang Central,140,Y
+2015,Females,85 & Over,Sembawang,Sembawang North,60,Y
+2015,Females,85 & Over,Sembawang,Sembawang Springs,60,Y
+2015,Females,85 & Over,Sembawang,Sembawang Straits,10,Y
+2015,Females,85 & Over,Sengkang,Anchorvale,120,Y
+2015,Females,85 & Over,Sengkang,Compassvale,40,Y
+2015,Females,85 & Over,Sengkang,Fernvale,170,Y
+2015,Females,85 & Over,Sengkang,Rivervale,250,Y
+2015,Females,85 & Over,Sengkang,Sengkang Town Centre,250,Y
+2015,Females,85 & Over,Serangoon,Lorong Chuan,100,Y
+2015,Females,85 & Over,Serangoon,Seletar Hills,130,Y
+2015,Females,85 & Over,Serangoon,Serangoon Central,200,Y
+2015,Females,85 & Over,Serangoon,Serangoon Garden,500,Y
+2015,Females,85 & Over,Serangoon,Serangoon North,80,Y
+2015,Females,85 & Over,Serangoon,Upper Paya Lebar,140,Y
+2015,Females,85 & Over,Singapore River,Robertson Quay,10,Y
+2015,Females,85 & Over,Sungei Kadut,Gali Batu,40,Y
+2015,Females,85 & Over,Sungei Kadut,Turf Club,10,Y
+2015,Females,85 & Over,Tampines,Simei,310,Y
+2015,Females,85 & Over,Tampines,Tampines East,850,Y
+2015,Females,85 & Over,Tampines,Tampines West,410,Y
+2015,Females,85 & Over,Tampines,Xilin,10,Y
+2015,Females,85 & Over,Tanglin,Chatsworth,40,Y
+2015,Females,85 & Over,Tanglin,Nassim,80,Y
+2015,Females,85 & Over,Tanglin,Ridout,20,Y
+2015,Females,85 & Over,Tanglin,Tyersall,30,Y
+2015,Females,85 & Over,Toa Payoh,Boon Teck,260,Y
+2015,Females,85 & Over,Toa Payoh,Braddell,160,Y
+2015,Females,85 & Over,Toa Payoh,Joo Seng,70,Y
+2015,Females,85 & Over,Toa Payoh,Kim Keat,100,Y
+2015,Females,85 & Over,Toa Payoh,Lorong 8 Toa Payoh,120,Y
+2015,Females,85 & Over,Toa Payoh,Pei Chun,150,Y
+2015,Females,85 & Over,Toa Payoh,Potong Pasir,100,Y
+2015,Females,85 & Over,Toa Payoh,Sennett,90,Y
+2015,Females,85 & Over,Toa Payoh,Toa Payoh Central,280,Y
+2015,Females,85 & Over,Toa Payoh,Toa Payoh West,210,Y
+2015,Females,85 & Over,Toa Payoh,Woodleigh,10,Y
+2015,Females,85 & Over,Western Water Catchment,Western Water Catchment,30,Y
+2015,Females,85 & Over,Woodlands,Midview,130,Y
+2015,Females,85 & Over,Woodlands,North Coast,70,Y
+2015,Females,85 & Over,Woodlands,Woodgrove,130,Y
+2015,Females,85 & Over,Woodlands,Woodlands East,250,Y
+2015,Females,85 & Over,Woodlands,Woodlands South,90,Y
+2015,Females,85 & Over,Woodlands,Woodlands West,140,Y
+2015,Females,85 & Over,Yishun,Khatib,50,Y
+2015,Females,85 & Over,Yishun,Nee Soon,10,Y
+2015,Females,85 & Over,Yishun,Northland,150,Y
+2015,Females,85 & Over,Yishun,Springleaf,30,Y
+2015,Females,85 & Over,Yishun,Yishun Central,10,Y
+2015,Females,85 & Over,Yishun,Yishun East,160,Y
+2015,Females,85 & Over,Yishun,Yishun South,240,Y
+2015,Females,85 & Over,Yishun,Yishun West,360,Y
