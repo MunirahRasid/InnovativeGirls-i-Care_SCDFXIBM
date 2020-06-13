@@ -10,7 +10,7 @@ To develop a mobile application, that allows the access to the data in the porta
 2. To better inform the CFRs and SCDF personnels, on the existing medical situation of the emergency patient, through a wearable device. 
 
 ## Pitch Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JL2N18PMHXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+!<iframe width="560" height="315" src="https://www.youtube.com/embed/JL2N18PMHXE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Architecture of proposed solution
 ![architecture](https://user-images.githubusercontent.com/66879578/84578084-87314500-adf4-11ea-8648-eaf9df10a747.JPG)
