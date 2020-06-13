@@ -24,4 +24,4 @@ f) Getting started* (Step-by-step instructions to install the required software 
 
 ## Solution build (e.g. IBM Cloudant, IBM Cloud Functions, etc…)
 Managed to come out the analytic portion but on different platform which is pandas-profiling. 
-For the analytic portion, IBM Watson Studio and AutoAI can be implemented. 
+For the analytic portion, IBM Watson Studio and AutoAI can be implemented. (not working)
