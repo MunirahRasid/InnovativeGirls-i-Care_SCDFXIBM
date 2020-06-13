@@ -20,7 +20,7 @@ To develop a mobile application, that allows the access to the data in the porta
 
 
 f) Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
-1. Install the mobile application from the apple/google store
+1. Install the mobile application from the Apple/Google Play store
 2. Every elderly will need the wearable device to be worn
 
 ## Solution build (e.g. IBM Cloudant, IBM Cloud Functions, etc…)
