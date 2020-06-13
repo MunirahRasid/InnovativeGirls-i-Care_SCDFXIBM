@@ -11,7 +11,8 @@ To develop a mobile application, that allows the access to the data in the porta
 
 b) Pitch Video
 
-c) The architecture of your proposed solution
+## Architecture of proposed solution
+![architecture](https://user-images.githubusercontent.com/66879578/84578084-87314500-adf4-11ea-8648-eaf9df10a747.JPG)
 
 
 d) A hyperlink to your detailed solution* (Long description of your solution)
