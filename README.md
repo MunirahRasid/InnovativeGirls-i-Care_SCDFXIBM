@@ -18,6 +18,11 @@ d) A hyperlink to your detailed solution* (Long description of your solution)
 
 
 f) Getting started* (Step-by-step instructions to install the required software and how to run a demo of your solution)
+1. Install the mobile application from the apple/google store
+2. Every elderly will need the wearable device to be worn
 
 i) What your team used to build your solution* (e.g. IBM Cloudant, IBM Cloud Functions, etc…)
+Managed to come out the analytic portion but on different platform which is pandas-profiling. 
+For the analytic portion, IBM Watson Studio and AutoAI can be implemented. 
+
 *Items marked with an asterisk are compulsory
